@@ -1357,7 +1357,7 @@ automoc.src                                             1.0-0.33.oe2203sp1      
 automoc.x86_64                                          1.0-0.33.oe2203sp1                              everything   
 automoc-debuginfo.x86_64                                1.0-0.33.oe2203sp1                              debuginfo    
 automoc-debugsource.x86_64                              1.0-0.33.oe2203sp1                              debuginfo    
-avahi.src                                               0.8-16.oe2203sp1                                update-source
+avahi.src                                               0.8-15.oe2203sp1                                update-source
 avahi.x86_64                                            0.8-16.oe2203sp1                                update       
 avahi-autoipd.x86_64                                    0.8-16.oe2203sp1                                update       
 avahi-compat-howl.x86_64                                0.8-16.oe2203sp1                                update       
@@ -1956,7 +1956,7 @@ celt051.x86_64                                          0.5.1.3-19.oe2203sp1    
 celt051-debuginfo.x86_64                                0.5.1.3-19.oe2203sp1                            debuginfo    
 celt051-debugsource.x86_64                              0.5.1.3-19.oe2203sp1                            debuginfo    
 celt051-devel.x86_64                                    0.5.1.3-19.oe2203sp1                            everything   
-ceph.src                                                2:16.2.7-19.oe2203sp1                           update-source
+ceph.src                                                2:16.2.7-14.oe2203sp1                           update-source
 ceph.x86_64                                             2:16.2.7-19.oe2203sp1                           update       
 ceph-base.x86_64                                        2:16.2.7-19.oe2203sp1                           update       
 ceph-common.x86_64                                      2:16.2.7-19.oe2203sp1                           update       
@@ -2604,7 +2604,7 @@ cups-pk-helper.x86_64                                   0.2.6-8.oe2203sp1       
 cups-pk-helper-debuginfo.x86_64                         0.2.6-8.oe2203sp1                               debuginfo    
 cups-pk-helper-debugsource.x86_64                       0.2.6-8.oe2203sp1                               debuginfo    
 cups-printerapp.x86_64                                  1:2.4.0-10.oe2203sp1                            update       
-curl.src                                                7.79.1-24.oe2203sp1                             update-source
+curl.src                                                7.79.1-23.oe2203sp1                             update-source
 curl.x86_64                                             7.79.1-24.oe2203sp1                             update       
 curl-debuginfo.x86_64                                   7.79.1-24.oe2203sp1                             update       
 curl-debugsource.x86_64                                 7.79.1-24.oe2203sp1                             update       
@@ -4575,7 +4575,7 @@ glib-networking.x86_64                                  2.68.1-5.oe2203sp1      
 glib-networking-debuginfo.x86_64                        2.68.1-5.oe2203sp1                              debuginfo    
 glib-networking-debugsource.x86_64                      2.68.1-5.oe2203sp1                              debuginfo    
 glib-networking-tests.x86_64                            2.68.1-5.oe2203sp1                              everything   
-glib2.src                                               2.72.2-12.oe2203sp1                             update-source
+glib2.src                                               2.72.2-10.oe2203sp1                             update-source
 glib2.x86_64                                            2.72.2-12.oe2203sp1                             update       
 glib2-debuginfo.x86_64                                  2.72.2-12.oe2203sp1                             update       
 glib2-debugsource.x86_64                                2.72.2-12.oe2203sp1                             update       
@@ -7620,7 +7620,7 @@ keepalived.x86_64                                       2.2.4-2.oe2203sp1       
 keepalived-debuginfo.x86_64                             2.2.4-2.oe2203sp1                               debuginfo    
 keepalived-debugsource.x86_64                           2.2.4-2.oe2203sp1                               debuginfo    
 keepalived-help.noarch                                  2.2.4-2.oe2203sp1                               everything   
-kernel.src                                              5.10.0-136.52.0.131.oe2203sp1                   update-source
+kernel.src                                              5.10.0-136.51.0.130.oe2203sp1                   update-source
 kernel.x86_64                                           5.10.0-136.52.0.131.oe2203sp1                   update       
 kernel-debuginfo.x86_64                                 5.10.0-136.52.0.131.oe2203sp1                   update       
 kernel-debugsource.x86_64                               5.10.0-136.52.0.131.oe2203sp1                   update       
@@ -8569,7 +8569,7 @@ libappstream-glib-debuginfo.x86_64                      0.7.14-4.oe2203sp1      
 libappstream-glib-debugsource.x86_64                    0.7.14-4.oe2203sp1                              debuginfo    
 libappstream-glib-devel.x86_64                          0.7.14-4.oe2203sp1                              everything   
 libappstream-glib-help.x86_64                           0.7.14-4.oe2203sp1                              everything   
-libarchive.src                                          3.5.2-6.oe2203sp1                               update-source
+libarchive.src                                          3.5.2-5.oe2203sp1                               source       
 libarchive-debuginfo.x86_64                             3.5.2-6.oe2203sp1                               update       
 libarchive-debugsource.x86_64                           3.5.2-6.oe2203sp1                               update       
 libarchive-devel.x86_64                                 3.5.2-6.oe2203sp1                               update       
@@ -8903,7 +8903,7 @@ libdnet-debugsource.x86_64                              1.14-4.oe2203sp1        
 libdnet-devel.x86_64                                    1.14-4.oe2203sp1                                update       
 libdnet-help.noarch                                     1.14-4.oe2203sp1                                update       
 libdnet-progs.x86_64                                    1.14-4.oe2203sp1                                update       
-libdnf.src                                              0.69.0-6.oe2203sp1                              update-source
+libdnf.src                                              0.69.0-5.oe2203sp1                              update-source
 libdnf-debuginfo.x86_64                                 0.69.0-6.oe2203sp1                              update       
 libdnf-debugsource.x86_64                               0.69.0-6.oe2203sp1                              update       
 libdnf-devel.x86_64                                     0.69.0-6.oe2203sp1                              update       
@@ -10250,7 +10250,7 @@ libsodium.x86_64                                        1.0.18-1.oe2203sp1      
 libsodium-debuginfo.x86_64                              1.0.18-1.oe2203sp1                              debuginfo    
 libsodium-debugsource.x86_64                            1.0.18-1.oe2203sp1                              debuginfo    
 libsodium-devel.x86_64                                  1.0.18-1.oe2203sp1                              everything   
-libsolv.src                                             0.7.22-2.oe2203sp1                              update-source
+libsolv.src                                             0.7.22-1.oe2203sp1                              source       
 libsolv-debuginfo.x86_64                                0.7.22-2.oe2203sp1                              update       
 libsolv-debugsource.x86_64                              0.7.22-2.oe2203sp1                              update       
 libsolv-demo.x86_64                                     0.7.22-2.oe2203sp1                              update       
@@ -10417,7 +10417,7 @@ libtimezonemap-debuginfo.x86_64                         0.4.5.2-1.oe2203sp1     
 libtimezonemap-debugsource.x86_64                       0.4.5.2-1.oe2203sp1                             debuginfo    
 libtimezonemap-devel.x86_64                             0.4.5.2-1.oe2203sp1                             everything   
 libtimezonemap-help.noarch                              0.4.5.2-1.oe2203sp1                             everything   
-libtirpc.src                                            1.3.2-4.oe2203sp1                               update-source
+libtirpc.src                                            1.3.2-3.oe2203sp1                               update-source
 libtirpc-debuginfo.x86_64                               1.3.2-4.oe2203sp1                               update       
 libtirpc-debugsource.x86_64                             1.3.2-4.oe2203sp1                               update       
 libtirpc-devel.x86_64                                   1.3.2-4.oe2203sp1                               update       
@@ -10809,7 +10809,7 @@ libxml++-debuginfo.x86_64                               2.40.1-8.oe2203sp1      
 libxml++-debugsource.x86_64                             2.40.1-8.oe2203sp1                              debuginfo    
 libxml++-devel.x86_64                                   2.40.1-8.oe2203sp1                              everything   
 libxml++-help.noarch                                    2.40.1-8.oe2203sp1                              everything   
-libxml2.src                                             2.9.14-9.oe2203sp1                              update-source
+libxml2.src                                             2.9.14-5.oe2203sp1                              update-source
 libxml2.x86_64                                          2.9.14-9.oe2203sp1                              update       
 libxml2-debuginfo.x86_64                                2.9.14-9.oe2203sp1                              update       
 libxml2-debugsource.x86_64                              2.9.14-9.oe2203sp1                              update       
@@ -14051,7 +14051,7 @@ openjpeg2-devel.x86_64                                  2.5.0-1.oe2203sp1       
 openjpeg2-help.noarch                                   2.5.0-1.oe2203sp1                               OS           
 openjpeg2-help.noarch                                   2.5.0-1.oe2203sp1                               everything   
 openjpeg2-tools.x86_64                                  2.5.0-1.oe2203sp1                               everything   
-openldap.src                                            2.6.0-7.oe2203sp1                               update-source
+openldap.src                                            2.6.0-6.oe2203sp1                               update-source
 openldap-clients.x86_64                                 2.6.0-7.oe2203sp1                               update       
 openldap-debuginfo.x86_64                               2.6.0-7.oe2203sp1                               update       
 openldap-debugsource.x86_64                             2.6.0-7.oe2203sp1                               update       
@@ -17545,7 +17545,7 @@ python-zstandard-help.x86_64                            0.15.2-1.oe2203sp1      
 python-zstd.src                                         1.5.1.0-1.oe2203sp1                             source       
 python-zstd-debuginfo.x86_64                            1.5.1.0-1.oe2203sp1                             debuginfo    
 python-zstd-debugsource.x86_64                          1.5.1.0-1.oe2203sp1                             debuginfo    
-python3.src                                             3.9.9-28.oe2203sp1                              update-source
+python3.src                                             3.9.9-26.oe2203sp1                              update-source
 python3.x86_64                                          3.9.9-28.oe2203sp1                              update       
 python3-APScheduler.noarch                              3.6.3-1.oe2203sp1                               everything   
 python3-AWSIoTPythonSDK.noarch                          1.4.8-1.oe2203sp1                               everything   
@@ -20007,7 +20007,7 @@ safelease.x86_64                                        1.0.1-2.oe2203sp1       
 safelease-debuginfo.x86_64                              1.0.1-2.oe2203sp1                               EPOL         
 safelease-debugsource.x86_64                            1.0.1-2.oe2203sp1                               EPOL         
 saidar.x86_64                                           1:0.92.1-1.oe2203sp1                            EPOL         
-samba.src                                               4.17.5-8.oe2203sp1                              update-source
+samba.src                                               4.17.5-6.oe2203sp1                              update-source
 samba.x86_64                                            4.17.5-8.oe2203sp1                              update       
 samba-client.x86_64                                     4.17.5-8.oe2203sp1                              update       
 samba-client-libs.x86_64                                4.17.5-8.oe2203sp1                              update       
@@ -20200,8 +20200,8 @@ sed-debuginfo.x86_64                                    4.8-5.oe2203sp1         
 sed-debugsource.x86_64                                  4.8-5.oe2203sp1                                 debuginfo    
 sed-help.noarch                                         4.8-5.oe2203sp1                                 OS           
 sed-help.noarch                                         4.8-5.oe2203sp1                                 everything   
+selinux-policy.src                                      35.5-18.oe2203sp1                               update-source
 selinux-policy.noarch                                   35.5-19.oe2203sp1                               update       
-selinux-policy.src                                      35.5-19.oe2203sp1                               update-source
 selinux-policy-devel.noarch                             35.5-19.oe2203sp1                               update       
 selinux-policy-help.noarch                              35.5-19.oe2203sp1                               update       
 selinux-policy-minimum.noarch                           35.5-19.oe2203sp1                               update       
@@ -28146,7 +28146,7 @@ vid.stab.x86_64                                         1.1.0-1.oe2203sp1       
 vid.stab-debuginfo.x86_64                               1.1.0-1.oe2203sp1                               debuginfo    
 vid.stab-debugsource.x86_64                             1.1.0-1.oe2203sp1                               debuginfo    
 vid.stab-devel.x86_64                                   1.1.0-1.oe2203sp1                               everything   
-vim.src                                                 2:9.0-19.oe2203sp1                              update-source
+vim.src                                                 2:9.0-18.oe2203sp1                              update-source
 vim-X11.x86_64                                          2:9.0-19.oe2203sp1                              update       
 vim-common.x86_64                                       2:9.0-19.oe2203sp1                              update       
 vim-debuginfo.x86_64                                    2:9.0-19.oe2203sp1                              update       
@@ -29176,7 +29176,7 @@ zip-debuginfo.x86_64                                    3.0-30.oe2203sp1        
 zip-debugsource.x86_64                                  3.0-30.oe2203sp1                                debuginfo    
 zip-help.noarch                                         3.0-30.oe2203sp1                                OS           
 zip-help.noarch                                         3.0-30.oe2203sp1                                everything   
-zlib.src                                                1.2.11-24.oe2203sp1                             update-source
+zlib.src                                                1.2.11-23.oe2203sp1                             update-source
 zlib.x86_64                                             1.2.11-24.oe2203sp1                             update       
 zlib-debuginfo.x86_64                                   1.2.11-24.oe2203sp1                             update       
 zlib-debugsource.x86_64                                 1.2.11-24.oe2203sp1                             update       
