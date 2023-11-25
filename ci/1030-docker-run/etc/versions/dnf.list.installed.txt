@@ -245,7 +245,7 @@ libstdc++.x86_64                            10.3.1-25.oe2203sp1             @upd
 libstdc++-devel.x86_64                      10.3.1-25.oe2203sp1             @update    
 libtasn1.x86_64                             4.17.0-3.oe2203sp1              @System    
 libthai.x86_64                              0.1.29-1.oe2203sp1              @OS        
-libtiff.x86_64                              4.3.0-32.oe2203sp1              @update    
+libtiff.x86_64                              4.3.0-34.oe2203sp1              @update    
 libtirpc.x86_64                             1.3.2-4.oe2203sp1               @update    
 libtool.x86_64                              2.4.7-1.oe2203sp1               @OS        
 libtool-ltdl.x86_64                         2.4.7-1.oe2203sp1               @OS        
@@ -457,7 +457,7 @@ rsync.x86_64                                3.2.5-1.oe2203sp1               @OS
 sed.x86_64                                  4.8-5.oe2203sp1                 @System    
 setup.noarch                                2.13.9.1-1.oe2203sp1            @System    
 sgml-common.noarch                          0.6.3-52.oe2203sp1              @OS        
-shadow.x86_64                               2:4.9-13.oe2203sp1              @update    
+shadow.x86_64                               2:4.9-14.oe2203sp1              @update    
 shared-mime-info.x86_64                     2.2-1.oe2203sp1                 @OS        
 slang.x86_64                                2.3.2-9.oe2203sp1               @System    
 source-highlight.x86_64                     3.1.9-2.oe2203sp1               @OS        
