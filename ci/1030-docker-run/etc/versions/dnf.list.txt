@@ -316,7 +316,7 @@ patch.x86_64                                            2.7.6-13.oe2203sp1      
 patchutils.x86_64                                       0.3.4-14.oe2203sp1                              @OS          
 pcre.x86_64                                             8.45-5.oe2203sp1                                @System      
 pcre2.x86_64                                            10.39-9.oe2203sp1                               @update      
-perl.x86_64                                             4:5.34.0-10.oe2203sp1                           @update      
+perl.x86_64                                             4:5.34.0-9.oe2203sp1                            @update      
 perl-Algorithm-Diff.noarch                              1:1.201-2.oe2203sp1                             @OS          
 perl-Archive-Tar.noarch                                 2.40-2.oe2203sp1                                @OS          
 perl-B-Debug.noarch                                     1.26-6.oe2203sp1                                @OS          
@@ -403,11 +403,11 @@ perl-XML-Parser.x86_64                                  1:2.46-2.oe2203sp1      
 perl-autodie.noarch                                     2.34-3.oe2203sp1                                @OS          
 perl-bignum.noarch                                      0.63-2.oe2203sp1                                @OS          
 perl-constant.noarch                                    1.33-422.oe2203sp1                              @OS          
-perl-devel.x86_64                                       4:5.34.0-10.oe2203sp1                           @update      
+perl-devel.x86_64                                       4:5.34.0-9.oe2203sp1                            @update      
 perl-experimental.noarch                                0.025-2.oe2203sp1                               @OS          
 perl-generators.noarch                                  1.10-11.oe2203sp1                               @OS          
 perl-libnet.noarch                                      3.14-2.oe2203sp1                                @OS          
-perl-libs.x86_64                                        4:5.34.0-10.oe2203sp1                           @update      
+perl-libs.x86_64                                        4:5.34.0-9.oe2203sp1                            @update      
 perl-parent.noarch                                      1:0.238-2.oe2203sp1                             @OS          
 perl-perlfaq.noarch                                     5.20210520-2.oe2203sp1                          @OS          
 perl-podlators.noarch                                   1:4.14-2.oe2203sp1                              @OS          
@@ -14589,6 +14589,7 @@ perftest.x86_64                                         4.5-3.oe2203sp1         
 perftest-debuginfo.x86_64                               4.5-3.oe2203sp1                                 debuginfo    
 perftest-debugsource.x86_64                             4.5-3.oe2203sp1                                 debuginfo    
 perl.src                                                4:5.34.0-10.oe2203sp1                           update-source
+perl.x86_64                                             4:5.34.0-10.oe2203sp1                           update       
 perl-Algorithm-Diff.src                                 1:1.201-2.oe2203sp1                             source       
 perl-Algorithm-Diff-help.noarch                         1:1.201-2.oe2203sp1                             everything   
 perl-Alien-Build.noarch                                 2.48-1.oe2203sp1                                everything   
@@ -15756,6 +15757,7 @@ perl-constant.src                                       1.33-422.oe2203sp1      
 perl-constant-help.noarch                               1.33-422.oe2203sp1                              everything   
 perl-debuginfo.x86_64                                   4:5.34.0-10.oe2203sp1                           update       
 perl-debugsource.x86_64                                 4:5.34.0-10.oe2203sp1                           update       
+perl-devel.x86_64                                       4:5.34.0-10.oe2203sp1                           update       
 perl-experimental.src                                   0.025-2.oe2203sp1                               source       
 perl-experimental-help.noarch                           0.025-2.oe2203sp1                               everything   
 perl-generators.src                                     1.10-11.oe2203sp1                               source       
@@ -15778,6 +15780,7 @@ perl-libintl-perl-debugsource.x86_64                    1.31-3.oe2203sp1        
 perl-libintl-perl-help.noarch                           1.31-3.oe2203sp1                                update       
 perl-libnet.src                                         3.14-2.oe2203sp1                                source       
 perl-libnet-help.noarch                                 3.14-2.oe2203sp1                                everything   
+perl-libs.x86_64                                        4:5.34.0-10.oe2203sp1                           update       
 perl-libwww-perl.noarch                                 6.66-1.oe2203sp1                                OS           
 perl-libwww-perl.noarch                                 6.66-1.oe2203sp1                                everything   
 perl-libwww-perl.src                                    6.66-1.oe2203sp1                                source       
