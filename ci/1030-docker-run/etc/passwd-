@@ -12,4 +12,10 @@ games:x:12:100:games:/usr/games:/sbin/nologin
 ftp:x:14:50:FTP User:/var/ftp:/sbin/nologin
 nobody:x:65534:65534:Kernel Overflow User:/:/sbin/nologin
 systemd-coredump:x:999:997:systemd Core Dumper:/:/sbin/nologin
+unbound:x:998:996:Unbound DNS resolver:/etc/unbound:/sbin/nologin
+tss:x:59:59:Account used by the trousers package to sandbox the tcsd daemon:/dev/null:/sbin/nologin
+sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
+apache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin
+dbus:x:81:81:D-Bus:/var/run/dbus:/sbin/nologin
+pesign:x:997:994:Group for the pesign signing daemon:/var/run/pesign:/sbin/nologin
 www:x:1000:1000::/home/www:/bin/bash
