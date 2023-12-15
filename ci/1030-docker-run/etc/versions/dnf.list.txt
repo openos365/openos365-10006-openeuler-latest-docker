@@ -318,7 +318,7 @@ patch.x86_64                                            2.7.6-13.oe2203sp1      
 patchutils.x86_64                                       0.3.4-14.oe2203sp1                              @OS          
 pcre.x86_64                                             8.45-5.oe2203sp1                                @System      
 pcre2.x86_64                                            10.39-9.oe2203sp1                               @update      
-perl.x86_64                                             4:5.34.0-10.oe2203sp1                           @update      
+perl.x86_64                                             4:5.34.0-12.oe2203sp1                           @update      
 perl-Algorithm-Diff.noarch                              1:1.201-2.oe2203sp1                             @OS          
 perl-Archive-Tar.noarch                                 2.40-2.oe2203sp1                                @OS          
 perl-B-Debug.noarch                                     1.26-6.oe2203sp1                                @OS          
@@ -405,11 +405,11 @@ perl-XML-Parser.x86_64                                  1:2.46-2.oe2203sp1      
 perl-autodie.noarch                                     2.34-3.oe2203sp1                                @OS          
 perl-bignum.noarch                                      0.63-2.oe2203sp1                                @OS          
 perl-constant.noarch                                    1.33-422.oe2203sp1                              @OS          
-perl-devel.x86_64                                       4:5.34.0-10.oe2203sp1                           @update      
+perl-devel.x86_64                                       4:5.34.0-12.oe2203sp1                           @update      
 perl-experimental.noarch                                0.025-2.oe2203sp1                               @OS          
 perl-generators.noarch                                  1.10-11.oe2203sp1                               @OS          
 perl-libnet.noarch                                      3.14-2.oe2203sp1                                @OS          
-perl-libs.x86_64                                        4:5.34.0-10.oe2203sp1                           @update      
+perl-libs.x86_64                                        4:5.34.0-12.oe2203sp1                           @update      
 perl-parent.noarch                                      1:0.238-2.oe2203sp1                             @OS          
 perl-perlfaq.noarch                                     5.20210520-2.oe2203sp1                          @OS          
 perl-podlators.noarch                                   1:4.14-2.oe2203sp1                              @OS          
@@ -2724,7 +2724,7 @@ cups-pk-helper.x86_64                                   0.2.6-8.oe2203sp1       
 cups-pk-helper-debuginfo.x86_64                         0.2.6-8.oe2203sp1                               debuginfo    
 cups-pk-helper-debugsource.x86_64                       0.2.6-8.oe2203sp1                               debuginfo    
 cups-printerapp.x86_64                                  1:2.4.0-10.oe2203sp1                            update       
-curl.src                                                7.79.1-24.oe2203sp1                             update-source
+curl.src                                                7.79.1-25.oe2203sp1                             update-source
 curl-debuginfo.x86_64                                   7.79.1-24.oe2203sp1                             update       
 curl-debugsource.x86_64                                 7.79.1-24.oe2203sp1                             update       
 curl-help.noarch                                        7.79.1-24.oe2203sp1                             update       
@@ -5750,8 +5750,8 @@ hamcrest.noarch                                         1.3-25.oe2203sp1        
 hamcrest.src                                            1.3-25.oe2203sp1                                source       
 hamcrest-demo.noarch                                    1.3-25.oe2203sp1                                everything   
 hamcrest-help.noarch                                    1.3-25.oe2203sp1                                everything   
-haproxy.src                                             2.6.6-4.oe2203sp1                               update-source
 haproxy.x86_64                                          2.6.6-4.oe2203sp1                               update       
+haproxy.src                                             2.6.6-8.oe2203sp1                               update-source
 haproxy-debuginfo.x86_64                                2.6.6-4.oe2203sp1                               update       
 haproxy-debugsource.x86_64                              2.6.6-4.oe2203sp1                               update       
 haproxy-help.noarch                                     2.6.6-4.oe2203sp1                               update       
@@ -5911,7 +5911,7 @@ hspell-debugsource.x86_64                               1.4-7.oe2203sp1         
 hspell-devel.x86_64                                     1.4-7.oe2203sp1                                 everything   
 hspell-help.x86_64                                      1.4-7.oe2203sp1                                 everything   
 hsqldb.noarch                                           1:2.4.0-4.oe2203sp1                             everything   
-hsqldb.src                                              1:2.4.0-4.oe2203sp1                             source       
+hsqldb.src                                              1:2.4.0-5.oe2203sp1                             update-source
 hsqldb-demo.noarch                                      1:2.4.0-4.oe2203sp1                             everything   
 hsqldb-javadoc.noarch                                   1:2.4.0-4.oe2203sp1                             everything   
 hsqldb-lib.noarch                                       1:2.4.0-4.oe2203sp1                             everything   
@@ -6772,7 +6772,7 @@ jackson-core.noarch                                     2.9.8-1.oe2203sp1       
 jackson-core.src                                        2.9.8-1.oe2203sp1                               source       
 jackson-core-javadoc.noarch                             2.9.8-1.oe2203sp1                               everything   
 jackson-databind.noarch                                 2.9.8-9.oe2203sp1                               everything   
-jackson-databind.src                                    2.9.8-9.oe2203sp1                               source       
+jackson-databind.src                                    2.9.8-10.oe2203sp1                              update-source
 jackson-databind-javadoc.noarch                         2.9.8-9.oe2203sp1                               everything   
 jackson-dataformat-csv.noarch                           2.9.8-1.oe2203sp1                               everything   
 jackson-dataformat-properties.noarch                    2.9.8-1.oe2203sp1                               everything   
@@ -7242,7 +7242,7 @@ jets3t.src                                              0.9.3-1.oe2203sp1       
 jets3t-app.noarch                                       0.9.3-1.oe2203sp1                               everything   
 jets3t-javadoc.noarch                                   0.9.3-1.oe2203sp1                               everything   
 jettison.noarch                                         1.3.7-1.oe2203sp1                               everything   
-jettison.src                                            1.3.7-1.oe2203sp1                               source       
+jettison.src                                            1.5.4-1.oe2203sp1                               update-source
 jettison-javadoc.noarch                                 1.3.7-1.oe2203sp1                               everything   
 jetty.noarch                                            9.4.16-3.oe2203sp1                              update       
 jetty.src                                               9.4.16-3.oe2203sp1                              update-source
@@ -8669,8 +8669,8 @@ libbonoboui-help.noarch                                 2.24.5-17.oe2203sp1     
 libboundscheck.src                                      v1.1.11-6.oe2203sp1                             source       
 libboundscheck.x86_64                                   v1.1.11-6.oe2203sp1                             OS           
 libboundscheck.x86_64                                   v1.1.11-6.oe2203sp1                             everything   
-libbpf.src                                              2:0.8.1-9.oe2203sp1                             update-source
 libbpf.x86_64                                           2:0.8.1-9.oe2203sp1                             update       
+libbpf.src                                              2:0.8.1-10.oe2203sp1                            update-source
 libbpf-debuginfo.x86_64                                 2:0.8.1-9.oe2203sp1                             update       
 libbpf-debugsource.x86_64                               2:0.8.1-9.oe2203sp1                             update       
 libbpf-devel.x86_64                                     2:0.8.1-9.oe2203sp1                             update       
@@ -9536,8 +9536,8 @@ liblognorm-debugsource.x86_64                           2.0.6-1.oe2203sp1       
 liblognorm-devel.x86_64                                 2.0.6-1.oe2203sp1                               everything   
 liblognorm-help.x86_64                                  2.0.6-1.oe2203sp1                               everything   
 liblognorm-utils.x86_64                                 2.0.6-1.oe2203sp1                               everything   
-liblouis.src                                            3.7.0-5.oe2203sp1                               update-source
 liblouis.x86_64                                         3.7.0-5.oe2203sp1                               update       
+liblouis.src                                            3.7.0-6.oe2203sp1                               update-source
 liblouis-debuginfo.x86_64                               3.7.0-5.oe2203sp1                               update       
 liblouis-debugsource.x86_64                             3.7.0-5.oe2203sp1                               update       
 liblouis-devel.x86_64                                   3.7.0-5.oe2203sp1                               update       
@@ -10097,7 +10097,7 @@ libsecret-debugsource.x86_64                            0.20.5-1.oe2203sp1      
 libsecret-devel.x86_64                                  0.20.5-1.oe2203sp1                              everything   
 libsecret-help.noarch                                   0.20.5-1.oe2203sp1                              OS           
 libsecret-help.noarch                                   0.20.5-1.oe2203sp1                              everything   
-libselinux.src                                          3.3-2.oe2203sp1                                 source       
+libselinux.src                                          3.3-5.oe2203sp1                                 update-source
 libselinux-debuginfo.x86_64                             3.3-2.oe2203sp1                                 debuginfo    
 libselinux-debugsource.x86_64                           3.3-2.oe2203sp1                                 debuginfo    
 libselinux-devel.x86_64                                 3.3-2.oe2203sp1                                 OS           
@@ -11007,7 +11007,7 @@ log4j12.noarch                                          1.2.17-26.oe2203sp1     
 log4j12.src                                             1.2.17-26.oe2203sp1                             source       
 log4j12-help.noarch                                     1.2.17-26.oe2203sp1                             everything   
 logback.noarch                                          1.2.8-1.oe2203sp1                               everything   
-logback.src                                             1.2.8-1.oe2203sp1                               source       
+logback.src                                             1.2.8-3.oe2203sp1                               update-source
 logback-access.noarch                                   1.2.8-1.oe2203sp1                               everything   
 logback-examples.noarch                                 1.2.8-1.oe2203sp1                               everything   
 logback-help.noarch                                     1.2.8-1.oe2203sp1                               everything   
@@ -13501,7 +13501,7 @@ nodejs-timers-ext.src                                   0.1.0-2.oe2203sp1       
 nodejs-tiny-lr-fork.noarch                              0.0.5-2.oe2203sp1                               everything   
 nodejs-tiny-lr-fork.src                                 0.0.5-2.oe2203sp1                               source       
 nodejs-tough-cookie.noarch                              2.3.2-2.oe2203sp1                               everything   
-nodejs-tough-cookie.src                                 2.3.2-2.oe2203sp1                               source       
+nodejs-tough-cookie.src                                 2.3.2-3.oe2203sp1                               update-source
 nodejs-transformers.noarch                              3.1.0-1.oe2203sp1                               everything   
 nodejs-transformers.src                                 3.1.0-1.oe2203sp1                               source       
 nodejs-traverse.noarch                                  0.6.6-1.oe2203sp1                               everything   
@@ -14582,7 +14582,7 @@ perftest.x86_64                                         4.5-3.oe2203sp1         
 perftest.x86_64                                         4.5-3.oe2203sp1                                 everything   
 perftest-debuginfo.x86_64                               4.5-3.oe2203sp1                                 debuginfo    
 perftest-debugsource.x86_64                             4.5-3.oe2203sp1                                 debuginfo    
-perl.src                                                4:5.34.0-10.oe2203sp1                           update-source
+perl.src                                                4:5.34.0-12.oe2203sp1                           update-source
 perl-Algorithm-Diff.src                                 1:1.201-2.oe2203sp1                             source       
 perl-Algorithm-Diff-help.noarch                         1:1.201-2.oe2203sp1                             everything   
 perl-Alien-Build.noarch                                 2.48-1.oe2203sp1                                everything   
@@ -16705,7 +16705,7 @@ python-fixtures.src                                     3.0.0-15.oe2203sp1      
 python-flake8.src                                       3.9.2-2.oe2203sp1                               source       
 python-flake8-help.noarch                               3.9.2-2.oe2203sp1                               everything   
 python-flake8-import-order-help.noarch                  0.18.1-1.oe2203sp1                              EPOL         
-python-flask.src                                        1:2.1.2-1.oe2203sp1                             source       
+python-flask.src                                        1:2.1.2-4.oe2203sp1                             update-source
 python-flask-restful.src                                0.3.9-1.oe2203sp1                               source       
 python-flask-restx.src                                  0.5.1-1.oe2203sp1                               source       
 python-flask-restx-help.noarch                          0.5.1-1.oe2203sp1                               everything   
@@ -17011,7 +17011,7 @@ python-persist-queue-help.noarch                        0.7.0-1.oe2203sp1       
 python-pexpect.src                                      4.8.0-2.oe2203sp1                               source       
 python-pexpect-help.noarch                              4.8.0-2.oe2203sp1                               everything   
 python-pid.src                                          3.0.4-5.oe2203sp1                               source       
-python-pillow.src                                       9.0.1-4.oe2203sp1                               update-source
+python-pillow.src                                       9.0.1-5.oe2203sp1                               update-source
 python-pillow-debuginfo.x86_64                          9.0.1-4.oe2203sp1                               update       
 python-pillow-debugsource.x86_64                        9.0.1-4.oe2203sp1                               update       
 python-pint-help.noarch                                 0.18-1.oe2203sp1                                EPOL         
@@ -17383,7 +17383,7 @@ python-websockify-help.noarch                           0.9.0-1.oe2203sp1       
 python-webtest.src                                      3.0.0-1.oe2203sp1                               source       
 python-werkzeug.src                                     2.0.3-4.oe2203sp1                               update-source
 python-werkzeug-help.noarch                             2.0.3-4.oe2203sp1                               update       
-python-wheel.src                                        1:0.37.0-2.oe2203sp1                            source       
+python-wheel.src                                        1:0.37.0-6.oe2203sp1                            update-source
 python-wheel-wheel.noarch                               1:0.37.0-2.oe2203sp1                            everything   
 python-whoosh.src                                       2.7.4-14.oe2203sp1                              source       
 python-wrapt.src                                        1.14.0-2.oe2203sp1                              source       
@@ -20435,8 +20435,8 @@ source-highlight-debugsource.x86_64                     3.1.9-2.oe2203sp1       
 source-highlight-devel.x86_64                           3.1.9-2.oe2203sp1                               everything   
 source-highlight-help.noarch                            3.1.9-2.oe2203sp1                               OS           
 source-highlight-help.noarch                            3.1.9-2.oe2203sp1                               everything   
-sox.src                                                 14.4.2.0-28.oe2203sp1                           source       
 sox.x86_64                                              14.4.2.0-28.oe2203sp1                           everything   
+sox.src                                                 14.4.2.0-29.oe2203sp1                           update-source
 sox-debuginfo.x86_64                                    14.4.2.0-28.oe2203sp1                           debuginfo    
 sox-debugsource.x86_64                                  14.4.2.0-28.oe2203sp1                           debuginfo    
 sox-devel.x86_64                                        14.4.2.0-28.oe2203sp1                           everything   
@@ -20566,8 +20566,8 @@ sqljet-javadoc.noarch                                   1.1.10-1.oe2203sp1      
 squashfs-tools.src                                      4.5-4.oe2203sp1                                 source       
 squashfs-tools-debuginfo.x86_64                         4.5-4.oe2203sp1                                 debuginfo    
 squashfs-tools-debugsource.x86_64                       4.5-4.oe2203sp1                                 debuginfo    
-squid.src                                               7:4.9-20.oe2203sp1                              update-source
 squid.x86_64                                            7:4.9-20.oe2203sp1                              update       
+squid.src                                               7:4.9-21.oe2203sp1                              update-source
 squid-debuginfo.x86_64                                  7:4.9-20.oe2203sp1                              update       
 squid-debugsource.x86_64                                7:4.9-20.oe2203sp1                              update       
 srt.src                                                 1.4.1-4.oe2203sp1                               source       
@@ -20652,8 +20652,8 @@ stringtemplate-javadoc.noarch                           3.2.1-1.oe2203sp1       
 stringtemplate4.noarch                                  4.3.3-1.oe2203sp1                               everything   
 stringtemplate4.src                                     4.3.3-1.oe2203sp1                               source       
 stringtemplate4-javadoc.noarch                          4.3.3-1.oe2203sp1                               everything   
-strongswan.src                                          5.9.7-4.oe2203sp1                               update-source
 strongswan.x86_64                                       5.9.7-4.oe2203sp1                               update       
+strongswan.src                                          5.9.7-5.oe2203sp1                               update-source
 strongswan-charon-nm.x86_64                             5.9.7-4.oe2203sp1                               update       
 strongswan-debuginfo.x86_64                             5.9.7-4.oe2203sp1                               update       
 strongswan-debugsource.x86_64                           5.9.7-4.oe2203sp1                               update       
@@ -20800,7 +20800,7 @@ system-config-printer-debugsource.x86_64                1.5.11-15.oe2203sp1     
 system-config-printer-help.noarch                       1.5.11-15.oe2203sp1                             everything   
 system-storage-manager.noarch                           1.3-3.oe2203sp1                                 everything   
 system-storage-manager.src                              1.3-3.oe2203sp1                                 source       
-systemd.src                                             249-58.oe2203sp1                                update-source
+systemd.src                                             249-59.oe2203sp1                                update-source
 systemd-container.x86_64                                249-58.oe2203sp1                                update       
 systemd-debuginfo.x86_64                                249-58.oe2203sp1                                update       
 systemd-debugsource.x86_64                              249-58.oe2203sp1                                update       
@@ -27918,8 +27918,8 @@ vamp-plugin-sdk-debuginfo.x86_64                        2.5-2.oe2203sp1         
 vamp-plugin-sdk-debugsource.x86_64                      2.5-2.oe2203sp1                                 EPOL         
 vamp-plugin-sdk-devel.x86_64                            2.5-2.oe2203sp1                                 EPOL         
 vamp-plugin-sdk-static.x86_64                           2.5-2.oe2203sp1                                 EPOL         
-varnish.src                                             7.0.1-8.oe2203sp1                               source       
 varnish.x86_64                                          7.0.1-8.oe2203sp1                               everything   
+varnish.src                                             7.0.1-9.oe2203sp1                               update-source
 varnish-debuginfo.x86_64                                7.0.1-8.oe2203sp1                               debuginfo    
 varnish-debugsource.x86_64                              7.0.1-8.oe2203sp1                               debuginfo    
 varnish-devel.x86_64                                    7.0.1-8.oe2203sp1                               everything   
@@ -28848,7 +28848,7 @@ xsom.noarch                                             0-1.oe2203sp1           
 xsom.src                                                0-1.oe2203sp1                                   source       
 xsom-javadoc.noarch                                     0-1.oe2203sp1                                   everything   
 xstream.noarch                                          1.4.18-3.oe2203sp1                              everything   
-xstream.src                                             1.4.18-3.oe2203sp1                              source       
+xstream.src                                             1.4.20-1.oe2203sp1                              update-source
 xstream-benchmark.noarch                                1.4.18-3.oe2203sp1                              everything   
 xstream-hibernate.noarch                                1.4.18-3.oe2203sp1                              everything   
 xstream-javadoc.noarch                                  1.4.18-3.oe2203sp1                              everything   
