@@ -469,9 +469,9 @@ subversion.x86_64                           1.14.2-1.oe2203sp1              @OS
 sudo.x86_64                                 1.9.8p2-11.oe2203sp1            @update    
 syslinux.x86_64                             6.04-14.oe2203sp1               @update    
 syslinux-nonlinux.noarch                    6.04-14.oe2203sp1               @update    
-systemd.x86_64                              249-58.oe2203sp1                @update    
-systemd-libs.x86_64                         249-58.oe2203sp1                @update    
-systemd-udev.x86_64                         249-58.oe2203sp1                @update    
+systemd.x86_64                              249-59.oe2203sp1                @update    
+systemd-libs.x86_64                         249-59.oe2203sp1                @update    
+systemd-udev.x86_64                         249-59.oe2203sp1                @update    
 systemtap.x86_64                            4.5-5.oe2203sp1                 @OS        
 systemtap-client.x86_64                     4.5-5.oe2203sp1                 @OS        
 systemtap-runtime.x86_64                    4.5-5.oe2203sp1                 @OS        
