@@ -155,7 +155,7 @@ json-c.x86_64                               0.16-4.oe2203sp1                @upd
 kbd.x86_64                                  2.5.1-1.oe2203sp1               @OS        
 kbd-legacy.noarch                           2.5.1-1.oe2203sp1               @OS        
 kbd-misc.noarch                             2.5.1-1.oe2203sp1               @OS        
-kernel-headers.x86_64                       5.10.0-136.57.0.136.oe2203sp1   @update    
+kernel-headers.x86_64                       5.10.0-136.58.0.137.oe2203sp1   @update    
 keyutils-libs.x86_64                        1.6.3-4.oe2203sp1               @System    
 kiwi-cli.noarch                             9.21.7-3.oe2203sp1              @everything
 kiwi-systemdeps.x86_64                      9.21.7-3.oe2203sp1              @everything
@@ -301,9 +301,9 @@ openEuler-repos.x86_64                      1.0-3.6.oe2203sp1               @upd
 openEuler-rpm-config.x86_64                 30-33.oe2203sp1                 @OS        
 openjpeg2.x86_64                            2.5.0-1.oe2203sp1               @OS        
 openldap.x86_64                             2.6.0-7.oe2203sp1               @update    
-openssh.x86_64                              8.8p1-23.oe2203sp1              @update    
-openssh-clients.x86_64                      8.8p1-23.oe2203sp1              @update    
-openssh-server.x86_64                       8.8p1-23.oe2203sp1              @update    
+openssh.x86_64                              8.8p1-25.oe2203sp1              @update    
+openssh-clients.x86_64                      8.8p1-25.oe2203sp1              @update    
+openssh-server.x86_64                       8.8p1-25.oe2203sp1              @update    
 openssl.x86_64                              1:1.1.1m-29.oe2203sp1           @update    
 openssl-libs.x86_64                         1:1.1.1m-29.oe2203sp1           @update    
 os-prober.x86_64                            1.79-2.oe2203sp1                @OS        
@@ -443,7 +443,7 @@ python3-pysocks.noarch                      1.7.1-2.oe2203sp1               @OS
 python3-pyxattr.x86_64                      0.7.2-3.oe2203sp1               @OS        
 python3-pyyaml.x86_64                       6.0-2.oe2203sp1                 @OS        
 python3-requests.noarch                     2.26.0-8.oe2203sp1              @update    
-python3-rpm.x86_64                          4.17.0-22.oe2203sp1             @System    
+python3-rpm.x86_64                          4.17.0-32.oe2203sp1             @update    
 python3-setuptools.noarch                   59.4.0-5.oe2203sp1              @update    
 python3-six.noarch                          1.16.0-2.oe2203sp1              @OS        
 python3-urllib3.noarch                      1.26.12-6.oe2203sp1             @update    
@@ -452,9 +452,9 @@ qt5-srpm-macros.noarch                      5.15.2-1.oe2203sp1              @OS
 readline.x86_64                             8.1-3.oe2203sp1                 @update    
 relaxngDatatype.noarch                      2011.1-9.oe2203sp1              @everything
 rootfiles.noarch                            8.1-25.oe2203sp1                @System    
-rpm.x86_64                                  4.17.0-22.oe2203sp1             @System    
-rpm-build.x86_64                            4.17.0-22.oe2203sp1             @OS        
-rpm-libs.x86_64                             4.17.0-22.oe2203sp1             @System    
+rpm.x86_64                                  4.17.0-32.oe2203sp1             @update    
+rpm-build.x86_64                            4.17.0-32.oe2203sp1             @update    
+rpm-libs.x86_64                             4.17.0-32.oe2203sp1             @update    
 rsync.x86_64                                3.2.5-1.oe2203sp1               @OS        
 sed.x86_64                                  4.8-5.oe2203sp1                 @System    
 setup.noarch                                2.13.9.1-1.oe2203sp1            @System    
@@ -476,7 +476,7 @@ systemtap.x86_64                            4.5-5.oe2203sp1                 @OS
 systemtap-client.x86_64                     4.5-5.oe2203sp1                 @OS        
 systemtap-runtime.x86_64                    4.5-5.oe2203sp1                 @OS        
 systemtap-sdt-devel.x86_64                  4.5-5.oe2203sp1                 @OS        
-tar.x86_64                                  2:1.34-4.oe2203sp1              @update    
+tar.x86_64                                  2:1.34-5.oe2203sp1              @update    
 tbb.x86_64                                  2020.3-5.oe2203sp1              @OS        
 tcl.x86_64                                  1:8.6.12-4.oe2203sp1            @System    
 thin-provisioning-tools.x86_64              0.9.0-4.oe2203sp1               @OS        
