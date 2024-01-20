@@ -155,7 +155,7 @@ json-c.x86_64                               0.16-4.oe2203sp3                @Sys
 kbd.x86_64                                  2.5.1-1.oe2203sp3               @OS        
 kbd-legacy.noarch                           2.5.1-1.oe2203sp3               @OS        
 kbd-misc.noarch                             2.5.1-1.oe2203sp3               @OS        
-kernel-headers.x86_64                       5.10.0-183.0.0.96.oe2203sp3     @update    
+kernel-headers.x86_64                       5.10.0-184.0.0.97.oe2203sp3     @update    
 keyutils-libs.x86_64                        1.6.3-4.oe2203sp3               @System    
 kiwi-cli.noarch                             9.21.7-4.oe2203sp3              @everything
 kiwi-systemdeps.x86_64                      9.21.7-4.oe2203sp3              @everything
@@ -301,9 +301,9 @@ openEuler-repos.x86_64                      1.0-3.6.oe2203sp3               @Sys
 openEuler-rpm-config.x86_64                 30-38.oe2203sp3                 @OS        
 openjpeg2.x86_64                            2.5.0-2.oe2203sp3               @OS        
 openldap.x86_64                             2.6.0-7.oe2203sp3               @System    
-openssh.x86_64                              8.8p1-23.oe2203sp3              @OS        
-openssh-clients.x86_64                      8.8p1-23.oe2203sp3              @OS        
-openssh-server.x86_64                       8.8p1-23.oe2203sp3              @OS        
+openssh.x86_64                              8.8p1-26.oe2203sp3              @update    
+openssh-clients.x86_64                      8.8p1-26.oe2203sp3              @update    
+openssh-server.x86_64                       8.8p1-26.oe2203sp3              @update    
 openssl.x86_64                              1:1.1.1wa-2.oe2203sp3           @OS        
 openssl-libs.x86_64                         1:1.1.1wa-2.oe2203sp3           @System    
 os-prober.x86_64                            1.79-2.oe2203sp3                @OS        
