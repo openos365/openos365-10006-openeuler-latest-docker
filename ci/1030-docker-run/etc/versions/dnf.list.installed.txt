@@ -145,7 +145,7 @@ intltool.noarch                             0.51.0-14.oe2203sp3             @OS
 isl.x86_64                                  0.16.1-11.oe2203sp3             @OS        
 isl-devel.x86_64                            0.16.1-11.oe2203sp3             @OS        
 jakarta-servlet.noarch                      5.0.0-4.oe2203sp3               @everything
-java-1.8.0-openjdk-headless.x86_64          1:1.8.0.392.b08-3.oe2203sp3     @OS        
+java-1.8.0-openjdk-headless.x86_64          1:1.8.0.402.b06-0.oe2203sp3     @update    
 javapackages-filesystem.noarch              5.3.0-6.oe2203sp3               @OS        
 javapackages-tools.noarch                   5.3.0-6.oe2203sp3               @everything
 jbig2dec.x86_64                             0.19-4.oe2203sp3                @OS        
@@ -155,7 +155,7 @@ json-c.x86_64                               0.16-4.oe2203sp3                @Sys
 kbd.x86_64                                  2.5.1-1.oe2203sp3               @OS        
 kbd-legacy.noarch                           2.5.1-1.oe2203sp3               @OS        
 kbd-misc.noarch                             2.5.1-1.oe2203sp3               @OS        
-kernel-headers.x86_64                       5.10.0-185.0.0.98.oe2203sp3     @update    
+kernel-headers.x86_64                       5.10.0-186.0.0.99.oe2203sp3     @update    
 keyutils-libs.x86_64                        1.6.3-4.oe2203sp3               @System    
 kiwi-cli.noarch                             9.21.7-4.oe2203sp3              @everything
 kiwi-systemdeps.x86_64                      9.21.7-4.oe2203sp3              @everything
@@ -284,9 +284,9 @@ mokutil.x86_64                              1:0.6.0-1.oe2203sp3             @OS
 mpfr.x86_64                                 4.1.0-2.oe2203sp3               @System    
 mtools.x86_64                               4.0.35-2.oe2203sp3              @OS        
 multipath-tools.x86_64                      0.8.7-10.oe2203sp3              @OS        
-ncurses.x86_64                              6.3-13.oe2203sp3                @System    
-ncurses-base.noarch                         6.3-13.oe2203sp3                @System    
-ncurses-libs.x86_64                         6.3-13.oe2203sp3                @System    
+ncurses.x86_64                              6.3-14.oe2203sp3                @update    
+ncurses-base.noarch                         6.3-14.oe2203sp3                @update    
+ncurses-libs.x86_64                         6.3-14.oe2203sp3                @update    
 nettle.x86_64                               3.8.1-1.oe2203sp3               @System    
 newt.x86_64                                 0.52.23-1.oe2203sp3             @System    
 npth.x86_64                                 1.6-3.oe2203sp3                 @System    
@@ -309,7 +309,7 @@ openssl-libs.x86_64                         1:1.1.1wa-2.oe2203sp3           @Sys
 os-prober.x86_64                            1.79-2.oe2203sp3                @OS        
 p11-kit.x86_64                              0.24.0-2.oe2203sp3              @System    
 p11-kit-trust.x86_64                        0.24.0-2.oe2203sp3              @System    
-pam.x86_64                                  1.5.2-6.oe2203sp3               @System    
+pam.x86_64                                  1.5.2-7.oe2203sp3               @update    
 pango.x86_64                                1.50.7-1.oe2203sp3              @OS        
 parted.x86_64                               3.5-2.oe2203sp3                 @OS        
 patch.x86_64                                2.7.6-13.oe2203sp3              @OS        
