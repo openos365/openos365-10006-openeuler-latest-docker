@@ -1670,7 +1670,7 @@ bean-validation-api.src                                 1.1.0-13.oe2203sp3      
 beust-jcommander.noarch                                 1.71-7.oe2203sp3                                     everything   
 beust-jcommander.src                                    1.71-7.oe2203sp3                                     source       
 beust-jcommander-help.noarch                            1.71-7.oe2203sp3                                     everything   
-bind.src                                                32:9.16.23-22.oe2203sp3                              update-source
+bind.src                                                32:9.16.23-20.oe2203sp3                              source       
 bind.x86_64                                             32:9.16.23-22.oe2203sp3                              update       
 bind-chroot.x86_64                                      32:9.16.23-22.oe2203sp3                              update       
 bind-debuginfo.x86_64                                   32:9.16.23-22.oe2203sp3                              update       
@@ -3287,7 +3287,7 @@ docker-client-java.noarch                               8.11.7-2.oe2203sp3      
 docker-client-java.src                                  8.11.7-2.oe2203sp3                                   source       
 docker-compose.noarch                                   1.22.0-4.oe2203sp3                                   everything   
 docker-compose.src                                      1.22.0-4.oe2203sp3                                   source       
-docker-engine.src                                       2:18.09.0-334.oe2203sp3                              update-source
+docker-engine.src                                       2:18.09.0-332.oe2203sp3                              source       
 docker-engine.x86_64                                    2:18.09.0-334.oe2203sp3                              update       
 docker-engine-debuginfo.x86_64                          2:18.09.0-334.oe2203sp3                              update       
 docker-engine-debugsource.x86_64                        2:18.09.0-334.oe2203sp3                              update       
@@ -3516,7 +3516,7 @@ efibootmgr-debuginfo.x86_64                             18-4.oe2203sp3          
 efibootmgr-debugsource.x86_64                           18-4.oe2203sp3                                       debuginfo    
 efibootmgr-help.x86_64                                  18-4.oe2203sp3                                       OS           
 efibootmgr-help.x86_64                                  18-4.oe2203sp3                                       everything   
-efivar.src                                              38-4.oe2203sp3                                       update-source
+efivar.src                                              38-3.oe2203sp3                                       source       
 efivar.x86_64                                           38-4.oe2203sp3                                       update       
 efivar-debuginfo.x86_64                                 38-4.oe2203sp3                                       update       
 efivar-debugsource.x86_64                               38-4.oe2203sp3                                       update       
@@ -5238,7 +5238,7 @@ goffice.x86_64                                          0.10.55-1.oe2203sp3     
 goffice-debuginfo.x86_64                                0.10.55-1.oe2203sp3                                  EPOL         
 goffice-debugsource.x86_64                              0.10.55-1.oe2203sp3                                  EPOL         
 goffice-devel.x86_64                                    0.10.55-1.oe2203sp3                                  EPOL         
-golang.src                                              1.17.3-28.oe2203sp3                                  update-source
+golang.src                                              1.17.3-26.oe2203sp3                                  source       
 golang.x86_64                                           1.17.3-28.oe2203sp3                                  update       
 golang-devel.noarch                                     1.17.3-28.oe2203sp3                                  update       
 golang-github-prometheus-node_exporter.src              1.0.1-2.oe2203sp3                                    source       
@@ -6675,7 +6675,7 @@ i3status-debuginfo.x86_64                               2.14-1.oe2203sp3        
 i3status-debugsource.x86_64                             2.14-1.oe2203sp3                                     EPOL         
 i40e.src                                                2.14.13-10.oe2203sp3                                 source       
 i40e.x86_64                                             2.14.13-10.oe2203sp3                                 everything   
-iSulad.src                                              2.1.5-2.oe2203sp3                                    update-source
+iSulad.src                                              2.1.5-1.oe2203sp3                                    update-source
 iSulad.x86_64                                           2.1.5-2.oe2203sp3                                    update       
 iSulad-debuginfo.x86_64                                 2.1.5-2.oe2203sp3                                    update       
 iSulad-debugsource.x86_64                               2.1.5-2.oe2203sp3                                    update       
@@ -7983,7 +7983,7 @@ keepalived.x86_64                                       2.2.4-2.oe2203sp3       
 keepalived-debuginfo.x86_64                             2.2.4-2.oe2203sp3                                    debuginfo    
 keepalived-debugsource.x86_64                           2.2.4-2.oe2203sp3                                    debuginfo    
 keepalived-help.noarch                                  2.2.4-2.oe2203sp3                                    everything   
-kernel.src                                              5.10.0-192.0.0.105.oe2203sp3                         update-source
+kernel.src                                              5.10.0-191.0.0.104.oe2203sp3                         update-source
 kernel.x86_64                                           5.10.0-192.0.0.105.oe2203sp3                         update       
 kernel-debuginfo.x86_64                                 5.10.0-192.0.0.105.oe2203sp3                         update       
 kernel-debugsource.x86_64                               5.10.0-192.0.0.105.oe2203sp3                         update       
@@ -8608,7 +8608,7 @@ lcms2-debugsource.x86_64                                2.13.1-2.oe2203sp3      
 lcms2-devel.x86_64                                      2.13.1-2.oe2203sp3                                   everything   
 lcms2-help.noarch                                       2.13.1-2.oe2203sp3                                   everything   
 lcms2-utils.x86_64                                      2.13.1-2.oe2203sp3                                   everything   
-lcr.src                                                 2.1.4-3.oe2203sp3                                    update-source
+lcr.src                                                 2.1.4-1.oe2203sp3                                    update-source
 lcr.x86_64                                              2.1.4-3.oe2203sp3                                    update       
 lcr-debuginfo.x86_64                                    2.1.4-3.oe2203sp3                                    update       
 lcr-debugsource.x86_64                                  2.1.4-3.oe2203sp3                                    update       
@@ -12469,7 +12469,7 @@ mhash.x86_64                                            0.9.9.9-28.oe2203sp3    
 mhash-debuginfo.x86_64                                  0.9.9.9-28.oe2203sp3                                 EPOL         
 mhash-debugsource.x86_64                                0.9.9.9-28.oe2203sp3                                 EPOL         
 mhash-devel.x86_64                                      0.9.9.9-28.oe2203sp3                                 EPOL         
-microcode_ctl.src                                       20240312-1.oe2203sp3                                 update-source
+microcode_ctl.src                                       2.1-42.oe2203sp3                                     source       
 microcode_ctl.x86_64                                    20240312-1.oe2203sp3                                 update       
 migration-tools-server.noarch                           1.0.0-5.oe2203sp3                                    EPOL         
 mikmod.src                                              3.2.8-7.oe2203sp3                                    source       
@@ -17336,7 +17336,7 @@ python-aiohttp-debugsource.x86_64                       3.7.4-4.oe2203sp3       
 python-aiohttp-help.x86_64                              3.7.4-4.oe2203sp3                                    EPOL         
 python-aiomysql.src                                     0.0.21-1.oe2203sp3                                   source       
 python-aiomysql-help.noarch                             0.0.21-1.oe2203sp3                                   everything   
-python-aiosmtpd.src                                     1.4.2-2.oe2203sp3                                    update-source
+python-aiosmtpd.src                                     1.4.2-1.oe2203sp3                                    source       
 python-aiosmtpd-help.noarch                             1.4.2-2.oe2203sp3                                    update       
 python-aiozeroconf.src                                  0.1.8-2.oe2203sp3                                    source       
 python-aiozeroconf-help.noarch                          0.1.8-2.oe2203sp3                                    everything   
@@ -19357,7 +19357,7 @@ qca-qt5-softstore.x86_64                                2.3.4-1.oe2203sp3       
 qdox.noarch                                             2.0-6.M9.oe2203sp3                                   everything   
 qdox.src                                                2.0-6.M9.oe2203sp3                                   source       
 qdox-help.noarch                                        2.0-6.M9.oe2203sp3                                   everything   
-qemu.src                                                10:6.2.0-89.oe2203sp3                                update-source
+qemu.src                                                10:6.2.0-87.oe2203sp3                                source       
 qemu.x86_64                                             10:6.2.0-89.oe2203sp3                                update       
 qemu-block-curl.x86_64                                  10:6.2.0-89.oe2203sp3                                update       
 qemu-block-iscsi.x86_64                                 10:6.2.0-89.oe2203sp3                                update       
@@ -21829,7 +21829,7 @@ system-storage-manager.noarch                           1.3-3.oe2203sp3         
 system-storage-manager.src                              1.3-3.oe2203sp3                                      source       
 systemabilitymgr_safwk.x86_64                           1.0.0-2.oe2203sp3                                    EPOL         
 systemabilitymgr_samgr.x86_64                           1.0.0-1.oe2203sp3                                    EPOL         
-systemd.src                                             249-74.oe2203sp3                                     update-source
+systemd.src                                             249-69.oe2203sp3                                     update-source
 systemd-container.x86_64                                249-74.oe2203sp3                                     update       
 systemd-debuginfo.x86_64                                249-74.oe2203sp3                                     update       
 systemd-debugsource.x86_64                              249-74.oe2203sp3                                     update       
