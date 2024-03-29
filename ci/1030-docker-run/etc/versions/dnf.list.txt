@@ -627,7 +627,7 @@ LZMA-SDK.src                                            22.00-3.oe2203sp3       
 LZMA-SDK.x86_64                                         22.00-3.oe2203sp3                                    everything   
 LZMA-SDK-devel.x86_64                                   22.00-3.oe2203sp3                                    everything   
 LZMA-SDK-doc.x86_64                                     22.00-3.oe2203sp3                                    everything   
-LibRaw.src                                              0.20.2-6.oe2203sp3                                   source       
+LibRaw.src                                              0.20.2-7.oe2203sp3                                   update-source
 LibRaw.x86_64                                           0.20.2-7.oe2203sp3                                   update       
 LibRaw-debuginfo.x86_64                                 0.20.2-7.oe2203sp3                                   update       
 LibRaw-debugsource.x86_64                               0.20.2-7.oe2203sp3                                   update       
@@ -5785,7 +5785,7 @@ gstreamer1-plugins-bad-free.x86_64                      1.16.2-9.oe2203sp3      
 gstreamer1-plugins-bad-free-debuginfo.x86_64            1.16.2-9.oe2203sp3                                   debuginfo    
 gstreamer1-plugins-bad-free-debugsource.x86_64          1.16.2-9.oe2203sp3                                   debuginfo    
 gstreamer1-plugins-bad-free-devel.x86_64                1.16.2-9.oe2203sp3                                   everything   
-gstreamer1-plugins-base.src                             1.18.4-4.oe2203sp3                                   update-source
+gstreamer1-plugins-base.src                             1.18.4-6.oe2203sp3                                   update-source
 gstreamer1-plugins-base.x86_64                          1.18.4-6.oe2203sp3                                   update       
 gstreamer1-plugins-base-debuginfo.x86_64                1.18.4-6.oe2203sp3                                   update       
 gstreamer1-plugins-base-debugsource.x86_64              1.18.4-6.oe2203sp3                                   update       
@@ -7983,7 +7983,7 @@ keepalived.x86_64                                       2.2.4-2.oe2203sp3       
 keepalived-debuginfo.x86_64                             2.2.4-2.oe2203sp3                                    debuginfo    
 keepalived-debugsource.x86_64                           2.2.4-2.oe2203sp3                                    debuginfo    
 keepalived-help.noarch                                  2.2.4-2.oe2203sp3                                    everything   
-kernel.src                                              5.10.0-192.0.0.105.oe2203sp3                         update-source
+kernel.src                                              5.10.0-193.0.0.106.oe2203sp3                         update-source
 kernel.x86_64                                           5.10.0-193.0.0.106.oe2203sp3                         update       
 kernel-debuginfo.x86_64                                 5.10.0-193.0.0.106.oe2203sp3                         update       
 kernel-debugsource.x86_64                               5.10.0-193.0.0.106.oe2203sp3                         update       
@@ -9326,7 +9326,7 @@ libdvdread.x86_64                                       6.0.0-3.oe2203sp3       
 libdvdread-debuginfo.x86_64                             6.0.0-3.oe2203sp3                                    debuginfo    
 libdvdread-debugsource.x86_64                           6.0.0-3.oe2203sp3                                    debuginfo    
 libdvdread-devel.x86_64                                 6.0.0-3.oe2203sp3                                    everything   
-libdwarf.src                                            20210528-1.oe2203sp3                                 source       
+libdwarf.src                                            1:0.9.1-1.oe2203sp3                                  update-source
 libdwarf.x86_64                                         1:0.9.1-1.oe2203sp3                                  update       
 libdwarf-debuginfo.x86_64                               1:0.9.1-1.oe2203sp3                                  update       
 libdwarf-debugsource.x86_64                             1:0.9.1-1.oe2203sp3                                  update       
@@ -10569,7 +10569,7 @@ libreport-plugin-systemd-journal.x86_64                 2.15.2-4.oe2203sp3      
 libreport-web.x86_64                                    2.15.2-4.oe2203sp3                                   OS           
 libreport-web.x86_64                                    2.15.2-4.oe2203sp3                                   everything   
 libreport-web-devel.x86_64                              2.15.2-4.oe2203sp3                                   everything   
-libreswan.src                                           4.12-1.oe2203sp3                                     source       
+libreswan.src                                           4.14-1.oe2203sp3                                     update-source
 libreswan.x86_64                                        4.14-1.oe2203sp3                                     update       
 libreswan-debuginfo.x86_64                              4.14-1.oe2203sp3                                     update       
 libreswan-debugsource.x86_64                            4.14-1.oe2203sp3                                     update       
@@ -12582,7 +12582,7 @@ mod_perl-debugsource.x86_64                             2.0.12-1.oe2203sp3      
 mod_perl-devel.x86_64                                   2.0.12-1.oe2203sp3                                   EPOL         
 mod_proxy_html.x86_64                                   1:2.4.51-20.oe2203sp3                                OS           
 mod_proxy_html.x86_64                                   1:2.4.51-20.oe2203sp3                                everything   
-mod_security.src                                        2.9.5-8.oe2203sp3                                    source       
+mod_security.src                                        2.9.5-9.oe2203sp3                                    update-source
 mod_security.x86_64                                     2.9.5-9.oe2203sp3                                    update       
 mod_security-debuginfo.x86_64                           2.9.5-9.oe2203sp3                                    update       
 mod_security-debugsource.x86_64                         2.9.5-9.oe2203sp3                                    update       
@@ -13987,8 +13987,8 @@ nodejs-promises-aplus-tests.noarch                      2.1.2-1.oe2203sp3       
 nodejs-promises-aplus-tests.src                         2.1.2-1.oe2203sp3                                    source       
 nodejs-proxyquire.noarch                                2.0.1-1.oe2203sp3                                    everything   
 nodejs-proxyquire.src                                   2.0.1-1.oe2203sp3                                    source       
-nodejs-qs.src                                           6.5.1-1.oe2203sp3                                    source       
 nodejs-qs.noarch                                        6.5.1-2.oe2203sp3                                    update       
+nodejs-qs.src                                           6.5.1-2.oe2203sp3                                    update-source
 nodejs-raw-body.noarch                                  2.2.0-2.oe2203sp3                                    everything   
 nodejs-raw-body.src                                     2.2.0-2.oe2203sp3                                    source       
 nodejs-read-package-json.noarch                         2.0.3-1.oe2203sp3                                    everything   
@@ -19999,7 +19999,7 @@ rsync-debuginfo.x86_64                                  3.2.5-2.oe2203sp3       
 rsync-debugsource.x86_64                                3.2.5-2.oe2203sp3                                    debuginfo    
 rsync-help.noarch                                       3.2.5-2.oe2203sp3                                    OS           
 rsync-help.noarch                                       3.2.5-2.oe2203sp3                                    everything   
-rsyslog.src                                             8.2210.0-6.oe2203sp3                                 source       
+rsyslog.src                                             8.2210.0-8.oe2203sp3                                 update-source
 rsyslog.x86_64                                          8.2210.0-8.oe2203sp3                                 update       
 rsyslog-crypto.x86_64                                   8.2210.0-8.oe2203sp3                                 update       
 rsyslog-debuginfo.x86_64                                8.2210.0-8.oe2203sp3                                 update       
@@ -29290,7 +29290,7 @@ wireless-tools.x86_64                                   1:29-24.oe2203sp3       
 wireless-tools-debuginfo.x86_64                         1:29-24.oe2203sp3                                    debuginfo    
 wireless-tools-debugsource.x86_64                       1:29-24.oe2203sp3                                    debuginfo    
 wireless-tools-devel.x86_64                             1:29-24.oe2203sp3                                    everything   
-wireshark.src                                           1:3.6.14-6.oe2203sp3                                 update-source
+wireshark.src                                           1:3.6.14-7.oe2203sp3                                 update-source
 wireshark.x86_64                                        1:3.6.14-7.oe2203sp3                                 update       
 wireshark-debuginfo.x86_64                              1:3.6.14-7.oe2203sp3                                 update       
 wireshark-debugsource.x86_64                            1:3.6.14-7.oe2203sp3                                 update       
