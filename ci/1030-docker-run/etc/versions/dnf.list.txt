@@ -157,7 +157,7 @@ json-c.x86_64                                           0.16-4.oe2203sp3        
 kbd.x86_64                                              2.5.1-1.oe2203sp3                                    @OS          
 kbd-legacy.noarch                                       2.5.1-1.oe2203sp3                                    @OS          
 kbd-misc.noarch                                         2.5.1-1.oe2203sp3                                    @OS          
-kernel-headers.x86_64                                   5.10.0-193.0.0.106.oe2203sp3                         @update      
+kernel-headers.x86_64                                   5.10.0-192.0.0.105.oe2203sp3                         @update      
 keyutils-libs.x86_64                                    1.6.3-4.oe2203sp3                                    @System      
 kiwi-cli.noarch                                         9.21.7-4.oe2203sp3                                   @everything  
 kiwi-systemdeps.x86_64                                  9.21.7-4.oe2203sp3                                   @everything  
