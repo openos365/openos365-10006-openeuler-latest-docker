@@ -33,11 +33,11 @@ systemd-journal:!::
 systemd-coredump:!::
 sshd:!::
 ssh_keys:!::
+apache:!::
+dbus:!::
 stapusr:!::
 stapsys:!::
 stapdev:!::
-apache:!::
-dbus:!::
 pesign:!::
 www:!::
 runner:!::
