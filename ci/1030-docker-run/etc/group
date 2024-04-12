@@ -33,11 +33,11 @@ systemd-journal:x:190:
 systemd-coredump:x:996:
 sshd:x:74:
 ssh_keys:x:995:
+apache:x:48:
+dbus:x:81:
 stapusr:x:156:
 stapsys:x:157:
 stapdev:x:158:
-apache:x:48:
-dbus:x:81:
 pesign:x:994:
 www:x:1000:
 runner:x:1001:
