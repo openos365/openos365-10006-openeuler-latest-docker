@@ -63,8 +63,8 @@ device-mapper.x86_64                                    8:1.02.181-13.oe2203sp3 
 device-mapper-event.x86_64                              8:1.02.181-13.oe2203sp3                              @OS          
 diffstat.x86_64                                         1.63-1.oe2203sp3                                     @OS          
 diffutils.x86_64                                        3.8-3.oe2203sp3                                      @OS          
-dnf.noarch                                              4.14.0-16.oe2203sp3                                  @System      
-dnf-data.noarch                                         4.14.0-16.oe2203sp3                                  @System      
+dnf.noarch                                              4.14.0-18.oe2203sp3                                  @update      
+dnf-data.noarch                                         4.14.0-18.oe2203sp3                                  @update      
 dnf-plugins-core.noarch                                 4.3.1-3.oe2203sp3                                    @OS          
 docbook-dtds.noarch                                     1.0-78.oe2203sp3                                     @OS          
 docbook-style-xsl.noarch                                1.79.2-9.oe2203sp3                                   @OS          
@@ -198,7 +198,7 @@ libcap-ng.x86_64                                        0.8.3-1.oe2203sp3       
 libcomps.x86_64                                         0.1.19-1.oe2203sp3                                   @System      
 libcurl.x86_64                                          7.79.1-28.oe2203sp3                                  @update      
 libdatrie.x86_64                                        0.2.13-2.oe2203sp3                                   @OS          
-libdnf.x86_64                                           0.69.0-6.oe2203sp3                                   @System      
+libdnf.x86_64                                           0.69.0-8.oe2203sp3                                   @update      
 libedit.x86_64                                          3.1-31.oe2203sp3                                     @OS          
 libepoxy.x86_64                                         1.5.10-2.oe2203sp3                                   @OS          
 libev.x86_64                                            4.33-4.oe2203sp3                                     @System      
@@ -228,7 +228,7 @@ libnsl2.x86_64                                          2.0.0-5.oe2203sp3       
 libpaper.x86_64                                         1.1.29-1.oe2203sp3                                   @OS          
 libpipeline.x86_64                                      1.5.4-2.oe2203sp3                                    @OS          
 libpng.x86_64                                           2:1.6.38-2.oe2203sp3                                 @System      
-libpsl.x86_64                                           0.21.1-5.oe2203sp3                                   @System      
+libpsl.x86_64                                           0.21.1-7.oe2203sp3                                   @update      
 libpwquality.x86_64                                     1.4.5-1.oe2203sp3                                    @System      
 libquadmath.x86_64                                      10.3.1-52.oe2203sp3                                  @update      
 libquadmath-devel.x86_64                                10.3.1-52.oe2203sp3                                  @update      
@@ -429,15 +429,15 @@ python3-charset-normalizer.noarch                       2.0.12-1.oe2203sp3      
 python3-dateutil.noarch                                 1:2.8.2-3.oe2203sp3                                  @OS          
 python3-dbus.x86_64                                     1.2.18-5.oe2203sp3                                   @OS          
 python3-distro.noarch                                   1.6.0-2.oe2203sp3                                    @OS          
-python3-dnf.noarch                                      4.14.0-16.oe2203sp3                                  @System      
+python3-dnf.noarch                                      4.14.0-18.oe2203sp3                                  @update      
 python3-dnf-plugins-core.noarch                         4.3.1-3.oe2203sp3                                    @OS          
 python3-docopt.noarch                                   0.6.2-14.oe2203sp3                                   @everything  
 python3-gpgme.x86_64                                    1.16.0-3.oe2203sp3                                   @update      
-python3-hawkey.x86_64                                   0.69.0-6.oe2203sp3                                   @System      
+python3-hawkey.x86_64                                   0.69.0-8.oe2203sp3                                   @update      
 python3-idna.noarch                                     3.2-2.oe2203sp3                                      @OS          
 python3-kiwi.noarch                                     9.21.7-4.oe2203sp3                                   @everything  
 python3-libcomps.x86_64                                 0.1.19-1.oe2203sp3                                   @System      
-python3-libdnf.x86_64                                   0.69.0-6.oe2203sp3                                   @System      
+python3-libdnf.x86_64                                   0.69.0-8.oe2203sp3                                   @update      
 python3-lxml.x86_64                                     4.7.1-5.oe2203sp3                                    @OS          
 python3-pyparsing.noarch                                3.0.6-3.oe2203sp3                                    @OS          
 python3-pysocks.noarch                                  1.7.1-2.oe2203sp3                                    @OS          
@@ -520,7 +520,7 @@ xorg-x11-font-utils.x86_64                              1:7.5-44.oe2203sp3      
 xorg-x11-fonts.noarch                                   7.5-25.oe2203sp3                                     @OS          
 xz.x86_64                                               5.2.5-3.oe2203sp3                                    @OS          
 xz-libs.x86_64                                          5.2.5-3.oe2203sp3                                    @System      
-yum.noarch                                              4.14.0-16.oe2203sp3                                  @System      
+yum.noarch                                              4.14.0-18.oe2203sp3                                  @update      
 zip.x86_64                                              3.0-30.oe2203sp3                                     @OS          
 zlib.x86_64                                             1.2.11-24.oe2203sp3                                  @System      
 zstd.x86_64                                             1.5.0-4.oe2203sp3                                    @System      
