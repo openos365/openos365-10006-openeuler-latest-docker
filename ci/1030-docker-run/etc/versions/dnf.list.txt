@@ -677,8 +677,8 @@ ORBit2-debugsource.x86_64                               2.14.19-26.oe2203sp3    
 ORBit2-devel.x86_64                                     2.14.19-26.oe2203sp3                                 everything   
 OpenCSD.src                                             1.3.3-2.oe2203sp3                                    source       
 OpenCSD.x86_64                                          1.3.3-2.oe2203sp3                                    everything   
-OpenEXR.src                                             3.1.5-2.oe2203sp3                                    update-source
 OpenEXR.x86_64                                          3.1.5-2.oe2203sp3                                    update       
+OpenEXR.src                                             3.1.5-3.oe2203sp3                                    update-source
 OpenEXR-debuginfo.x86_64                                3.1.5-2.oe2203sp3                                    update       
 OpenEXR-debugsource.x86_64                              3.1.5-2.oe2203sp3                                    update       
 OpenEXR-devel.x86_64                                    3.1.5-2.oe2203sp3                                    update       
@@ -2280,9 +2280,9 @@ clamav-help.x86_64                                      0.103.9-1.oe2203sp3     
 clamav-milter.x86_64                                    0.103.9-1.oe2203sp3                                  everything   
 clamav-update.x86_64                                    0.103.9-1.oe2203sp3                                  everything   
 clamd.x86_64                                            0.103.9-1.oe2203sp3                                  everything   
-clang.src                                               12.0.1-4.oe2203sp3                                   source       
 clang.x86_64                                            12.0.1-4.oe2203sp3                                   OS           
 clang.x86_64                                            12.0.1-4.oe2203sp3                                   everything   
+clang.src                                               12.0.1-5.oe2203sp3                                   update-source
 clang-analyzer.noarch                                   12.0.1-4.oe2203sp3                                   everything   
 clang-debuginfo.x86_64                                  12.0.1-4.oe2203sp3                                   debuginfo    
 clang-debugsource.x86_64                                12.0.1-4.oe2203sp3                                   debuginfo    
@@ -6889,8 +6889,8 @@ iperf.src                                               2.0.13-1.oe2203sp3      
 iperf.x86_64                                            2.0.13-1.oe2203sp3                                   everything   
 iperf-debuginfo.x86_64                                  2.0.13-1.oe2203sp3                                   debuginfo    
 iperf-debugsource.x86_64                                2.0.13-1.oe2203sp3                                   debuginfo    
-iperf3.src                                              3.16-1.oe2203sp3                                     update-source
 iperf3.x86_64                                           3.16-1.oe2203sp3                                     update       
+iperf3.src                                              3.16-3.oe2203sp3                                     update-source
 iperf3-debuginfo.x86_64                                 3.16-1.oe2203sp3                                     update       
 iperf3-debugsource.x86_64                               3.16-1.oe2203sp3                                     update       
 iperf3-devel.x86_64                                     3.16-1.oe2203sp3                                     update       
@@ -7969,8 +7969,8 @@ keepalived.x86_64                                       2.2.4-2.oe2203sp3       
 keepalived-debuginfo.x86_64                             2.2.4-2.oe2203sp3                                    debuginfo    
 keepalived-debugsource.x86_64                           2.2.4-2.oe2203sp3                                    debuginfo    
 keepalived-help.noarch                                  2.2.4-2.oe2203sp3                                    everything   
-kernel.src                                              5.10.0-198.0.0.111.oe2203sp3                         update-source
 kernel.x86_64                                           5.10.0-198.0.0.111.oe2203sp3                         update       
+kernel.src                                              5.10.0-199.0.0.112.oe2203sp3                         update-source
 kernel-debuginfo.x86_64                                 5.10.0-198.0.0.111.oe2203sp3                         update       
 kernel-debugsource.x86_64                               5.10.0-198.0.0.111.oe2203sp3                         update       
 kernel-devel.x86_64                                     5.10.0-198.0.0.111.oe2203sp3                         update       
@@ -11282,7 +11282,7 @@ libyami.x86_64                                          1.3.2-1.oe2203sp3       
 libyami-debuginfo.x86_64                                1.3.2-1.oe2203sp3                                    debuginfo    
 libyami-debugsource.x86_64                              1.3.2-1.oe2203sp3                                    debuginfo    
 libyami-devel.x86_64                                    1.3.2-1.oe2203sp3                                    everything   
-libyaml.src                                             0.2.5-5.oe2203sp3                                    source       
+libyaml.src                                             0.2.5-6.oe2203sp3                                    update-source
 libyaml-debuginfo.x86_64                                0.2.5-5.oe2203sp3                                    debuginfo    
 libyaml-debugsource.x86_64                              0.2.5-5.oe2203sp3                                    debuginfo    
 libyaml-devel.x86_64                                    0.2.5-5.oe2203sp3                                    everything   
@@ -17223,7 +17223,7 @@ python-astor.src                                        0.8.1-1.oe2203sp3       
 python-astor-help.noarch                                0.8.1-1.oe2203sp3                                    everything   
 python-astral.src                                       2.2-1.oe2203sp3                                      source       
 python-astral-help.noarch                               2.2-1.oe2203sp3                                      everything   
-python-astroid.src                                      2.9.3-2.oe2203sp3                                    source       
+python-astroid.src                                      2.9.3-3.oe2203sp3                                    update-source
 python-astroid-help.noarch                              2.9.3-2.oe2203sp3                                    everything   
 python-astunparse.src                                   1.6.3-1.oe2203sp3                                    source       
 python-astunparse-help.noarch                           1.6.3-1.oe2203sp3                                    everything   
@@ -17549,7 +17549,7 @@ python-jaraco-text-help.noarch                          3.2.0-1.oe2203sp3       
 python-jeepney.src                                      0.7.1-1.oe2203sp3                                    source       
 python-jeepney-help.noarch                              0.7.1-1.oe2203sp3                                    everything   
 python-jenkins-help.noarch                              1.7.0-1.oe2203sp3                                    EPOL         
-python-jinja2.src                                       3.0.3-3.oe2203sp3                                    update-source
+python-jinja2.src                                       3.0.3-4.oe2203sp3                                    update-source
 python-jinja2-help.noarch                               3.0.3-3.oe2203sp3                                    update       
 python-jmespath.src                                     0.10.0-2.oe2203sp3                                   source       
 python-joblib.src                                       1.1.0-1.oe2203sp3                                    source       
@@ -19884,8 +19884,8 @@ rubberband-debuginfo.x86_64                             1.8.2-1.oe2203sp3       
 rubberband-debugsource.x86_64                           1.8.2-1.oe2203sp3                                    EPOL         
 rubberband-devel.x86_64                                 1.8.2-1.oe2203sp3                                    EPOL         
 rubik.x86_64                                            2.0.0-3.oe2203sp3                                    EPOL         
-ruby.src                                                3.0.3-132.oe2203sp3                                  update-source
 ruby.x86_64                                             3.0.3-132.oe2203sp3                                  update       
+ruby.src                                                3.0.3-133.oe2203sp3                                  update-source
 ruby-augeas.src                                         0.5.0-1.oe2203sp3                                    source       
 ruby-augeas.x86_64                                      0.5.0-1.oe2203sp3                                    everything   
 ruby-augeas-debuginfo.x86_64                            0.5.0-1.oe2203sp3                                    debuginfo    
@@ -20735,9 +20735,9 @@ samyak-odia-fonts.noarch                                1.2.2-22.oe2203sp3      
 samyak-odia-fonts.noarch                                1.2.2-22.oe2203sp3                                   everything   
 samyak-tamil-fonts.noarch                               1.2.2-22.oe2203sp3                                   OS           
 samyak-tamil-fonts.noarch                               1.2.2-22.oe2203sp3                                   everything   
-sane-backends.src                                       1.0.28-11.oe2203sp3                                  source       
 sane-backends.x86_64                                    1.0.28-11.oe2203sp3                                  OS           
 sane-backends.x86_64                                    1.0.28-11.oe2203sp3                                  everything   
+sane-backends.src                                       1.0.28-12.oe2203sp3                                  update-source
 sane-backends-daemon.x86_64                             1.0.28-11.oe2203sp3                                  everything   
 sane-backends-debuginfo.x86_64                          1.0.28-11.oe2203sp3                                  debuginfo    
 sane-backends-debugsource.x86_64                        1.0.28-11.oe2203sp3                                  debuginfo    
@@ -28362,7 +28362,7 @@ tpm2-tools-debuginfo.x86_64                             5.0-5.oe2203sp3         
 tpm2-tools-debugsource.x86_64                           5.0-5.oe2203sp3                                      debuginfo    
 tpm2-tools-help.noarch                                  5.0-5.oe2203sp3                                      OS           
 tpm2-tools-help.noarch                                  5.0-5.oe2203sp3                                      everything   
-tpm2-tss.src                                            3.1.0-4.oe2203sp3                                    source       
+tpm2-tss.src                                            3.1.0-5.oe2203sp3                                    update-source
 tpm2-tss-debuginfo.x86_64                               3.1.0-4.oe2203sp3                                    debuginfo    
 tpm2-tss-debugsource.x86_64                             3.1.0-4.oe2203sp3                                    debuginfo    
 tpm2-tss-devel.x86_64                                   3.1.0-4.oe2203sp3                                    everything   
@@ -28879,9 +28879,9 @@ vconfig.x86_64                                          1.9-26.oe2203sp3        
 vconfig-debuginfo.x86_64                                1.9-26.oe2203sp3                                     debuginfo    
 vconfig-debugsource.x86_64                              1.9-26.oe2203sp3                                     debuginfo    
 vconfig-help.noarch                                     1.9-26.oe2203sp3                                     everything   
-vdo.src                                                 6.2.6.14-1.oe2203sp3                                 source       
 vdo.x86_64                                              6.2.6.14-1.oe2203sp3                                 OS           
 vdo.x86_64                                              6.2.6.14-1.oe2203sp3                                 everything   
+vdo.src                                                 8.1.0.264-1.oe2203sp3                                update-source
 vdo-debuginfo.x86_64                                    6.2.6.14-1.oe2203sp3                                 debuginfo    
 vdo-debugsource.x86_64                                  6.2.6.14-1.oe2203sp3                                 debuginfo    
 vdo-help.noarch                                         6.2.6.14-1.oe2203sp3                                 everything   
@@ -29731,8 +29731,8 @@ xorg-x11-server-Xephyr.x86_64                           1.20.11-30.oe2203sp3    
 xorg-x11-server-Xnest.x86_64                            1.20.11-30.oe2203sp3                                 update       
 xorg-x11-server-Xspice.x86_64                           0.1.6-1.oe2203sp3                                    everything   
 xorg-x11-server-Xvfb.x86_64                             1.20.11-30.oe2203sp3                                 update       
-xorg-x11-server-Xwayland.src                            22.1.2-4.oe2203sp3                                   update-source
 xorg-x11-server-Xwayland.x86_64                         22.1.2-4.oe2203sp3                                   update       
+xorg-x11-server-Xwayland.src                            22.1.2-5.oe2203sp3                                   update-source
 xorg-x11-server-Xwayland-debuginfo.x86_64               22.1.2-4.oe2203sp3                                   update       
 xorg-x11-server-Xwayland-debugsource.x86_64             22.1.2-4.oe2203sp3                                   update       
 xorg-x11-server-Xwayland-devel.x86_64                   22.1.2-4.oe2203sp3                                   update       
