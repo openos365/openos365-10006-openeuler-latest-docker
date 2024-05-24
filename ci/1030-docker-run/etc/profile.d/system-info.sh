@@ -52,7 +52,7 @@ whoiam=$(whoami)
 time_cur=$(date)
 
 # Processes
-processes=$(ps aux | wc -l)
+#processes=$(ps aux | wc -l)
 
 # Users
 user_num=$(users | wc -w)
@@ -68,7 +68,7 @@ echo -e "\n"
 echo -e "Welcome to $welcome\n"
 echo -e "System information as of time: \t$time_cur\n"
 echo -e "System load: \t\033[0;33;40m$load_average\033[0m"
-echo -e "Processes: \t$processes"
+#echo -e "Processes: \t$processes"
 echo -e "Memory used: \t$memory_usage"
 echo -e "Swap used: \t$swap_mem"
 echo -e "Usage On: \t$usageof"

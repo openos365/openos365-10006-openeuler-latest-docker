@@ -105,12 +105,12 @@ gdk-pixbuf2-modules.x86_64                  2.42.6-6.oe2203sp3              @OS
 gettext.x86_64                              0.21.1-1.oe2203sp3              @OS        
 gettext-devel.x86_64                        0.21.1-1.oe2203sp3              @OS        
 ghostscript.x86_64                          9.55.0-7.oe2203sp3              @update    
-git.x86_64                                  2.33.0-13.oe2203sp3             @OS        
-git-core.x86_64                             2.33.0-13.oe2203sp3             @OS        
+git.x86_64                                  2.33.0-15.oe2203sp3             @update    
+git-core.x86_64                             2.33.0-15.oe2203sp3             @update    
 glib2.x86_64                                2.72.2-14.oe2203sp3             @update    
-glibc.x86_64                                2.34-143.oe2203sp3              @System    
-glibc-common.x86_64                         2.34-143.oe2203sp3              @System    
-glibc-devel.x86_64                          2.34-143.oe2203sp3              @OS        
+glibc.x86_64                                2.34-150.oe2203sp3              @update    
+glibc-common.x86_64                         2.34-150.oe2203sp3              @update    
+glibc-devel.x86_64                          2.34-150.oe2203sp3              @update    
 gmp.x86_64                                  1:6.2.1-3.oe2203sp3             @System    
 gnupg2.x86_64                               2.2.32-5.oe2203sp3              @System    
 gnutls.x86_64                               3.7.2-14.oe2203sp3              @update    
@@ -151,7 +151,7 @@ json-c.x86_64                               0.16-4.oe2203sp3                @Sys
 kbd.x86_64                                  2.5.1-1.oe2203sp3               @OS        
 kbd-legacy.noarch                           2.5.1-1.oe2203sp3               @OS        
 kbd-misc.noarch                             2.5.1-1.oe2203sp3               @OS        
-kernel-headers.x86_64                       5.10.0-199.0.0.112.oe2203sp3    @update    
+kernel-headers.x86_64                       5.10.0-200.0.0.113.oe2203sp3    @update    
 keyutils-libs.x86_64                        1.6.3-4.oe2203sp3               @System    
 kiwi-cli.noarch                             9.21.7-4.oe2203sp3              @everything
 kiwi-systemdeps.x86_64                      9.21.7-4.oe2203sp3              @everything
@@ -243,7 +243,7 @@ libstdc++.x86_64                            10.3.1-53.oe2203sp3             @upd
 libstdc++-devel.x86_64                      10.3.1-53.oe2203sp3             @update    
 libtasn1.x86_64                             4.19.0-1.oe2203sp3              @System    
 libthai.x86_64                              0.1.29-1.oe2203sp3              @OS        
-libtiff.x86_64                              4.3.0-36.oe2203sp3              @OS        
+libtiff.x86_64                              4.3.0-37.oe2203sp3              @update    
 libtirpc.x86_64                             1.3.2-4.oe2203sp3               @System    
 libtool.x86_64                              2.4.7-2.oe2203sp3               @OS        
 libtool-ltdl.x86_64                         2.4.7-2.oe2203sp3               @OS        
@@ -258,7 +258,7 @@ libxcb.x86_64                               1.15-1.oe2203sp3                @OS
 libxcrypt.x86_64                            4.4.26-5.oe2203sp3              @System    
 libxcrypt-devel.x86_64                      4.4.26-5.oe2203sp3              @OS        
 libxkbcommon.x86_64                         1.3.1-4.oe2203sp3               @OS        
-libxml2.x86_64                              2.9.14-10.oe2203sp3             @update    
+libxml2.x86_64                              2.9.14-13.oe2203sp3             @update    
 libxslt.x86_64                              1.1.37-1.oe2203sp3              @OS        
 libyaml.x86_64                              0.2.5-6.oe2203sp3               @update    
 lksctp-tools.x86_64                         1.0.19-3.oe2203sp3              @OS        
@@ -292,7 +292,7 @@ nss-softokn.x86_64                          3.72.0-9.oe2203sp3              @OS
 nss-util.x86_64                             3.72.0-9.oe2203sp3              @OS        
 openEuler-gpg-keys.x86_64                   1.0-3.6.oe2203sp3               @System    
 openEuler-logos-httpd.noarch                1.0-8.oe2203sp3                 @OS        
-openEuler-release.x86_64                    22.03LTS_SP3-56.oe2203sp3       @System    
+openEuler-release.x86_64                    22.03LTS_SP3-57.oe2203sp3       @update    
 openEuler-repos.x86_64                      1.0-3.6.oe2203sp3               @System    
 openEuler-rpm-config.x86_64                 30-38.oe2203sp3                 @OS        
 openjpeg2.x86_64                            2.5.0-2.oe2203sp3               @OS        
@@ -344,7 +344,7 @@ perl-File-Temp.noarch                       1:0.2311-3.oe2203sp3            @OS
 perl-Filter.x86_64                          2:1.64-1.oe2203sp3              @OS        
 perl-Filter-Simple.noarch                   1:0.94-1.oe2203sp3              @OS        
 perl-Getopt-Long.noarch                     1:2.54-1.oe2203sp3              @OS        
-perl-Git.noarch                             2.33.0-13.oe2203sp3             @OS        
+perl-Git.noarch                             2.33.0-15.oe2203sp3             @update    
 perl-HTTP-Tiny.noarch                       0.080-2.oe2203sp3               @OS        
 perl-IO-Compress.noarch                     2.201-1.oe2203sp3               @OS        
 perl-IO-Socket-IP.noarch                    0.41-3.oe2203sp3                @OS        
@@ -428,7 +428,7 @@ python3-dnf-plugins-core.noarch             4.3.1-3.oe2203sp3               @OS
 python3-docopt.noarch                       0.6.2-14.oe2203sp3              @everything
 python3-gpgme.x86_64                        1.16.0-3.oe2203sp3              @update    
 python3-hawkey.x86_64                       0.69.0-8.oe2203sp3              @update    
-python3-idna.noarch                         3.2-2.oe2203sp3                 @OS        
+python3-idna.noarch                         3.2-3.oe2203sp3                 @update    
 python3-kiwi.noarch                         9.21.7-4.oe2203sp3              @everything
 python3-libcomps.x86_64                     0.1.19-1.oe2203sp3              @System    
 python3-libdnf.x86_64                       0.69.0-8.oe2203sp3              @update    
