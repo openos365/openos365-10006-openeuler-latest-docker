@@ -2280,7 +2280,7 @@ clamav-help.x86_64                                      0.103.9-1.oe2203sp3     
 clamav-milter.x86_64                                    0.103.9-1.oe2203sp3                                  everything   
 clamav-update.x86_64                                    0.103.9-1.oe2203sp3                                  everything   
 clamd.x86_64                                            0.103.9-1.oe2203sp3                                  everything   
-clang.src                                               12.0.1-6.oe2203sp3                                   update-source
+clang.src                                               12.0.1-5.oe2203sp3                                   update-source
 clang.x86_64                                            12.0.1-6.oe2203sp3                                   update       
 clang-analyzer.noarch                                   12.0.1-6.oe2203sp3                                   update       
 clang-debuginfo.x86_64                                  12.0.1-6.oe2203sp3                                   update       
@@ -2422,7 +2422,7 @@ cmocka-debuginfo.x86_64                                 1.1.5-3.oe2203sp3       
 cmocka-debugsource.x86_64                               1.1.5-3.oe2203sp3                                    debuginfo    
 cobbler.noarch                                          3.2.0-3.oe2203sp3                                    EPOL         
 cobbler-web.noarch                                      3.2.0-3.oe2203sp3                                    EPOL         
-cockpit.src                                             178-15.oe2203sp3                                     update-source
+cockpit.src                                             178-13.oe2203sp3                                     source       
 cockpit.x86_64                                          178-15.oe2203sp3                                     update       
 cockpit-389-ds.noarch                                   1.4.3.36-5.oe2203sp3                                 update       
 cockpit-cockpit-machines.noarch                         178-15.oe2203sp3                                     update       
@@ -2594,8 +2594,8 @@ containernetworking-plugins.src                         1.1.1-4.oe2203sp3       
 containernetworking-plugins.x86_64                      1.1.1-4.oe2203sp3                                    update       
 containernetworking-plugins-devel.noarch                1.1.1-4.oe2203sp3                                    update       
 containernetworking-plugins-unit-test-devel.x86_64      1.1.1-4.oe2203sp3                                    update       
+containers-common.src                                   4:1-4.oe2203sp3                                      update-source
 containers-common.noarch                                4:1-5.oe2203sp3                                      update       
-containers-common.src                                   4:1-5.oe2203sp3                                      update-source
 convmv.noarch                                           2.05-5.oe2203sp3                                     OS           
 convmv.noarch                                           2.05-5.oe2203sp3                                     everything   
 convmv.src                                              2.05-5.oe2203sp3                                     source       
@@ -3275,7 +3275,7 @@ docker-client-java.noarch                               8.11.7-2.oe2203sp3      
 docker-client-java.src                                  8.11.7-2.oe2203sp3                                   source       
 docker-compose.noarch                                   1.22.0-4.oe2203sp3                                   everything   
 docker-compose.src                                      1.22.0-4.oe2203sp3                                   source       
-docker-engine.src                                       2:18.09.0-336.oe2203sp3                              update-source
+docker-engine.src                                       2:18.09.0-335.oe2203sp3                              update-source
 docker-engine.x86_64                                    2:18.09.0-336.oe2203sp3                              update       
 docker-engine-debuginfo.x86_64                          2:18.09.0-336.oe2203sp3                              update       
 docker-engine-debugsource.x86_64                        2:18.09.0-336.oe2203sp3                              update       
@@ -4714,7 +4714,7 @@ ghostscript-help.noarch                                 9.55.0-7.oe2203sp3      
 ghostscript-tools-dvipdf.x86_64                         9.55.0-7.oe2203sp3                                   update       
 gi-docgen.noarch                                        2022.1-1.oe2203sp3                                   everything   
 gi-docgen.src                                           2022.1-1.oe2203sp3                                   source       
-giflib.src                                              5.2.1-8.oe2203sp3                                    update-source
+giflib.src                                              5.2.1-7.oe2203sp3                                    source       
 giflib.x86_64                                           5.2.1-8.oe2203sp3                                    update       
 giflib-devel.x86_64                                     5.2.1-8.oe2203sp3                                    update       
 giflib-help.noarch                                      5.2.1-8.oe2203sp3                                    update       
@@ -4727,7 +4727,7 @@ girara.x86_64                                           0.4.0-1.oe2203sp3       
 girara-debuginfo.x86_64                                 0.4.0-1.oe2203sp3                                    EPOL         
 girara-debugsource.x86_64                               0.4.0-1.oe2203sp3                                    EPOL         
 girara-devel.x86_64                                     0.4.0-1.oe2203sp3                                    EPOL         
-git.src                                                 2.33.0-15.oe2203sp3                                  update-source
+git.src                                                 2.33.0-13.oe2203sp3                                  source       
 git-clang-format.x86_64                                 15.0.7-2.oe2203sp3                                   EPOL         
 git-daemon.x86_64                                       2.33.0-15.oe2203sp3                                  update       
 git-debuginfo.x86_64                                    2.33.0-15.oe2203sp3                                  update       
@@ -4871,7 +4871,7 @@ glib2-devel.x86_64                                      2.72.2-14.oe2203sp3     
 glib2-help.noarch                                       2.72.2-14.oe2203sp3                                  update       
 glib2-static.x86_64                                     2.72.2-14.oe2203sp3                                  update       
 glib2-tests.x86_64                                      2.72.2-14.oe2203sp3                                  update       
-glibc.src                                               2.34-150.oe2203sp3                                   update-source
+glibc.src                                               2.34-143.oe2203sp3                                   source       
 glibc-all-langpacks.x86_64                              2.34-150.oe2203sp3                                   update       
 glibc-compat-2.17.x86_64                                2.34-150.oe2203sp3                                   update       
 glibc-debuginfo.x86_64                                  2.34-150.oe2203sp3                                   update       
@@ -7960,7 +7960,7 @@ keepalived.x86_64                                       2.2.4-2.oe2203sp3       
 keepalived-debuginfo.x86_64                             2.2.4-2.oe2203sp3                                    debuginfo    
 keepalived-debugsource.x86_64                           2.2.4-2.oe2203sp3                                    debuginfo    
 keepalived-help.noarch                                  2.2.4-2.oe2203sp3                                    everything   
-kernel.src                                              5.10.0-200.0.0.113.oe2203sp3                         update-source
+kernel.src                                              5.10.0-199.0.0.112.oe2203sp3                         update-source
 kernel.x86_64                                           5.10.0-200.0.0.113.oe2203sp3                         update       
 kernel-debuginfo.x86_64                                 5.10.0-200.0.0.113.oe2203sp3                         update       
 kernel-debugsource.x86_64                               5.10.0-200.0.0.113.oe2203sp3                         update       
@@ -10864,7 +10864,7 @@ libtheora-help.noarch                                   1:1.1.1-25.oe2203sp3    
 libthrift-java.noarch                                   0.14.0-5.oe2203sp3                                   everything   
 libtidy.x86_64                                          5.7.28-2.oe2203sp3                                   update       
 libtidy-devel.x86_64                                    5.7.28-2.oe2203sp3                                   update       
-libtiff.src                                             4.3.0-37.oe2203sp3                                   update-source
+libtiff.src                                             4.3.0-36.oe2203sp3                                   source       
 libtiff-debuginfo.x86_64                                4.3.0-37.oe2203sp3                                   update       
 libtiff-debugsource.x86_64                              4.3.0-37.oe2203sp3                                   update       
 libtiff-devel.x86_64                                    4.3.0-37.oe2203sp3                                   update       
@@ -11235,7 +11235,7 @@ libxml++-debuginfo.x86_64                               2.40.1-8.oe2203sp3      
 libxml++-debugsource.x86_64                             2.40.1-8.oe2203sp3                                   debuginfo    
 libxml++-devel.x86_64                                   2.40.1-8.oe2203sp3                                   everything   
 libxml++-help.noarch                                    2.40.1-8.oe2203sp3                                   everything   
-libxml2.src                                             2.9.14-13.oe2203sp3                                  update-source
+libxml2.src                                             2.9.14-10.oe2203sp3                                  update-source
 libxml2-debuginfo.x86_64                                2.9.14-13.oe2203sp3                                  update       
 libxml2-debugsource.x86_64                              2.9.14-13.oe2203sp3                                  update       
 libxml2-devel.x86_64                                    2.9.14-13.oe2203sp3                                  update       
@@ -12885,7 +12885,7 @@ nasm-help.noarch                                        2.15.05-6.oe2203sp3     
 native-maven-plugin.noarch                              1.0-1.oe2203sp3                                      everything   
 native-platform.src                                     0.14-16.oe2203sp3                                    source       
 native-platform.x86_64                                  0.14-16.oe2203sp3                                    everything   
-nautilus.src                                            3.38.2-2.oe2203sp3                                   update-source
+nautilus.src                                            3.38.2-1.oe2203sp3                                   source       
 nautilus.x86_64                                         3.38.2-2.oe2203sp3                                   update       
 nautilus-debuginfo.x86_64                               3.38.2-2.oe2203sp3                                   update       
 nautilus-debugsource.x86_64                             3.38.2-2.oe2203sp3                                   update       
@@ -14442,7 +14442,7 @@ openEuler-logos.noarch                                  1.0-8.oe2203sp3         
 openEuler-logos.noarch                                  1.0-8.oe2203sp3                                      everything   
 openEuler-logos.src                                     1.0-8.oe2203sp3                                      source       
 openEuler-menus.noarch                                  1.0.0-1.oe2203sp3                                    EPOL         
-openEuler-release.src                                   22.03LTS_SP3-57.oe2203sp3                            update-source
+openEuler-release.src                                   22.03LTS_SP3-56.oe2203sp3                            source       
 openEuler-repos.src                                     1.0-3.6.oe2203sp3                                    source       
 openEuler-rpm-config.src                                30-38.oe2203sp3                                      source       
 openal-soft.src                                         1.18.2-9.oe2203sp3                                   source       
@@ -16492,7 +16492,7 @@ phonon-debugsource.x86_64                               4.10.1-5.oe2203sp3      
 phonon-devel.x86_64                                     4.10.1-5.oe2203sp3                                   everything   
 phonon-qt5.x86_64                                       4.10.1-5.oe2203sp3                                   everything   
 phonon-qt5-devel.x86_64                                 4.10.1-5.oe2203sp3                                   everything   
-php.src                                                 8.0.30-3.oe2203sp3                                   update-source
+php.src                                                 8.0.30-1.oe2203sp3                                   source       
 php.x86_64                                              8.0.30-3.oe2203sp3                                   update       
 php-bcmath.x86_64                                       8.0.30-3.oe2203sp3                                   update       
 php-cli.x86_64                                          8.0.30-3.oe2203sp3                                   update       
@@ -17499,7 +17499,7 @@ python-hyperopt-help.noarch                             0.2.7-1.oe2203sp3       
 python-hypothesis.src                                   6.47.0-1.oe2203sp3                                   source       
 python-hypothesis-help.noarch                           6.47.0-1.oe2203sp3                                   everything   
 python-identify-help.noarch                             2.2.10-1.oe2203sp3                                   EPOL         
-python-idna.src                                         3.2-3.oe2203sp3                                      update-source
+python-idna.src                                         3.2-2.oe2203sp3                                      source       
 python-ifaddr-help.noarch                               0.1.7-1.oe2203sp3                                    EPOL         
 python-ifcfg.src                                        0.21-1.oe2203sp3                                     source       
 python-ifcfg-help.noarch                                0.21-1.oe2203sp3                                     everything   
@@ -18052,7 +18052,7 @@ python-tornado-debugsource.x86_64                       6.1-2.oe2203sp3         
 python-tornado-help.x86_64                              6.1-2.oe2203sp3                                      everything   
 python-tox.src                                          3.24.4-1.oe2203sp3                                   source       
 python-tox-help.noarch                                  3.24.4-1.oe2203sp3                                   everything   
-python-tqdm.src                                         4.56.0-4.oe2203sp3                                   update-source
+python-tqdm.src                                         4.56.0-3.oe2203sp3                                   source       
 python-tqdm-help.noarch                                 4.56.0-4.oe2203sp3                                   update       
 python-traceback2.src                                   1.4.0-20.oe2203sp3                                   source       
 python-traitlets.src                                    5.1.1-1.oe2203sp3                                    source       
@@ -21091,7 +21091,7 @@ sisu-mojos.src                                          0.3.1-2.oe2203sp3       
 sisu-mojos-javadoc.noarch                               0.3.1-2.oe2203sp3                                    everything   
 skkdic.noarch                                           20181016-2.oe2203sp3                                 everything   
 skkdic.src                                              20181016-2.oe2203sp3                                 source       
-skopeo.src                                              1:1.8.0-5.oe2203sp3                                  update-source
+skopeo.src                                              1:1.8.0-4.oe2203sp3                                  update-source
 skopeo.x86_64                                           1:1.8.0-5.oe2203sp3                                  update       
 skopeo-debuginfo.x86_64                                 1:1.8.0-5.oe2203sp3                                  update       
 skopeo-debugsource.x86_64                               1:1.8.0-5.oe2203sp3                                  update       
@@ -21572,7 +21572,7 @@ sysbench.src                                            1.0.20-4.oe2203sp3      
 sysbench.x86_64                                         1.0.20-4.oe2203sp3                                   everything   
 sysbench-debuginfo.x86_64                               1.0.20-4.oe2203sp3                                   debuginfo    
 sysbench-debugsource.x86_64                             1.0.20-4.oe2203sp3                                   debuginfo    
-syscare.src                                             1.2.1-8.oe2203sp3                                    update-source
+syscare.src                                             1.2.1-4.oe2203sp3                                    update-source
 syscare.x86_64                                          1.2.1-8.oe2203sp3                                    update       
 syscare-build.x86_64                                    1.2.1-8.oe2203sp3                                    update       
 syscare-build-ebpf.x86_64                               1.2.0-10.oe2203sp3                                   EPOL         
@@ -28710,7 +28710,7 @@ upower-debuginfo.x86_64                                 0.99.8-5.oe2203sp3      
 upower-debugsource.x86_64                               0.99.8-5.oe2203sp3                                   debuginfo    
 upower-devel.x86_64                                     0.99.8-5.oe2203sp3                                   everything   
 upower-devel-docs.noarch                                0.99.8-5.oe2203sp3                                   everything   
-uriparser.src                                           0.9.6-2.oe2203sp3                                    update-source
+uriparser.src                                           0.9.6-1.oe2203sp3                                    source       
 uriparser.x86_64                                        0.9.6-2.oe2203sp3                                    update       
 uriparser-debuginfo.x86_64                              0.9.6-2.oe2203sp3                                    update       
 uriparser-debugsource.x86_64                            0.9.6-2.oe2203sp3                                    update       
@@ -29104,7 +29104,7 @@ wireless-tools.x86_64                                   1:29-24.oe2203sp3       
 wireless-tools-debuginfo.x86_64                         1:29-24.oe2203sp3                                    debuginfo    
 wireless-tools-debugsource.x86_64                       1:29-24.oe2203sp3                                    debuginfo    
 wireless-tools-devel.x86_64                             1:29-24.oe2203sp3                                    everything   
-wireshark.src                                           1:3.6.14-8.oe2203sp3                                 update-source
+wireshark.src                                           1:3.6.14-7.oe2203sp3                                 update-source
 wireshark.x86_64                                        1:3.6.14-8.oe2203sp3                                 update       
 wireshark-debuginfo.x86_64                              1:3.6.14-8.oe2203sp3                                 update       
 wireshark-debugsource.x86_64                            1:3.6.14-8.oe2203sp3                                 update       
