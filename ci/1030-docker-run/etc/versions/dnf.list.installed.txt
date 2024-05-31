@@ -141,7 +141,7 @@ ima-evm-utils-libs.x86_64                   1.3.2-9.oe2203sp3               @Sys
 info.x86_64                                 6.8-4.oe2203sp3                 @System    
 intltool.noarch                             0.51.0-14.oe2203sp3             @OS        
 jakarta-servlet.noarch                      5.0.0-4.oe2203sp3               @everything
-java-1.8.0-openjdk-headless.x86_64          1:1.8.0.402.b06-0.oe2203sp3     @update    
+java-1.8.0-openjdk-headless.x86_64          1:1.8.0.412.b08-5.oe2203sp3     @update    
 javapackages-filesystem.noarch              5.3.0-6.oe2203sp3               @OS        
 javapackages-tools.noarch                   5.3.0-6.oe2203sp3               @everything
 jbig2dec.x86_64                             0.19-4.oe2203sp3                @OS        
@@ -151,7 +151,7 @@ json-c.x86_64                               0.16-4.oe2203sp3                @Sys
 kbd.x86_64                                  2.5.1-1.oe2203sp3               @OS        
 kbd-legacy.noarch                           2.5.1-1.oe2203sp3               @OS        
 kbd-misc.noarch                             2.5.1-1.oe2203sp3               @OS        
-kernel-headers.x86_64                       5.10.0-200.0.0.113.oe2203sp3    @update    
+kernel-headers.x86_64                       5.10.0-201.0.0.114.oe2203sp3    @update    
 keyutils-libs.x86_64                        1.6.3-4.oe2203sp3               @System    
 kiwi-cli.noarch                             9.21.7-4.oe2203sp3              @everything
 kiwi-systemdeps.x86_64                      9.21.7-4.oe2203sp3              @everything
