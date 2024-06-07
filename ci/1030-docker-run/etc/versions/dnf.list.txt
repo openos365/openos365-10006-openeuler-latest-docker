@@ -3335,7 +3335,7 @@ dpkg-debugsource.x86_64                                 1.18.25-12.oe2203sp3    
 dpkg-devel.x86_64                                       1.18.25-12.oe2203sp3                                 everything   
 dpkg-help.x86_64                                        1.18.25-12.oe2203sp3                                 everything   
 dpkg-perl.noarch                                        1.18.25-12.oe2203sp3                                 everything   
-dpu-utilities.src                                       1.10-1.oe2203sp3                                     update-source
+dpu-utilities.src                                       1.6-7.oe2203sp3                                      source       
 dpu-utilities-debuginfo.x86_64                          1.6-7.oe2203sp3                                      debuginfo    
 dpu-utilities-debugsource.x86_64                        1.6-7.oe2203sp3                                      debuginfo    
 dpuos-imageTailor-config.x86_64                         1.6-7.oe2203sp3                                      everything   
@@ -5660,7 +5660,7 @@ grpc-devel.x86_64                                       1.41.1-7.oe2203sp3      
 grpc-devel.x86_64                                       1.41.1-7.oe2203sp3                                   everything   
 grpc-plugins.x86_64                                     1.41.1-7.oe2203sp3                                   OS           
 grpc-plugins.x86_64                                     1.41.1-7.oe2203sp3                                   everything   
-grub2.src                                               1:2.06-46.oe2203sp3                                  update-source
+grub2.src                                               1:2.06-44.oe2203sp3                                  update-source
 grub2-debuginfo.x86_64                                  1:2.06-44.oe2203sp3                                  update       
 grub2-debugsource.x86_64                                1:2.06-44.oe2203sp3                                  update       
 grub2-efi-ia32.x86_64                                   1:2.06-44.oe2203sp3                                  update       
@@ -7179,8 +7179,8 @@ java-1.8.0-openjdk-openjfx-slowdebug.x86_64             1:1.8.0.412.b08-5.oe2203
 java-1.8.0-openjdk-slowdebug.x86_64                     1:1.8.0.412.b08-5.oe2203sp3                          update       
 java-1.8.0-openjdk-src.x86_64                           1:1.8.0.412.b08-5.oe2203sp3                          update       
 java-1.8.0-openjdk-src-slowdebug.x86_64                 1:1.8.0.412.b08-5.oe2203sp3                          update       
+java-11-openjdk.src                                     1:11.0.22.7-0.oe2203sp3                              update-source
 java-11-openjdk.x86_64                                  1:11.0.22.7-0.oe2203sp3                              update       
-java-11-openjdk.src                                     1:11.0.23.9-2.oe2203sp3                              update-source
 java-11-openjdk-debuginfo.x86_64                        1:11.0.22.7-0.oe2203sp3                              update       
 java-11-openjdk-debugsource.x86_64                      1:11.0.22.7-0.oe2203sp3                              update       
 java-11-openjdk-demo.x86_64                             1:11.0.22.7-0.oe2203sp3                              update       
@@ -7960,8 +7960,8 @@ keepalived.x86_64                                       2.2.4-2.oe2203sp3       
 keepalived-debuginfo.x86_64                             2.2.4-2.oe2203sp3                                    debuginfo    
 keepalived-debugsource.x86_64                           2.2.4-2.oe2203sp3                                    debuginfo    
 keepalived-help.noarch                                  2.2.4-2.oe2203sp3                                    everything   
+kernel.src                                              5.10.0-201.0.0.114.oe2203sp3                         update-source
 kernel.x86_64                                           5.10.0-201.0.0.114.oe2203sp3                         update       
-kernel.src                                              5.10.0-202.0.0.115.oe2203sp3                         update-source
 kernel-debuginfo.x86_64                                 5.10.0-201.0.0.114.oe2203sp3                         update       
 kernel-debugsource.x86_64                               5.10.0-201.0.0.114.oe2203sp3                         update       
 kernel-devel.x86_64                                     5.10.0-201.0.0.114.oe2203sp3                         update       
@@ -11002,8 +11002,8 @@ libuvc.x86_64                                           0.0.7-2.oe2203sp3       
 libuvc-devel.x86_64                                     0.0.7-2.oe2203sp3                                    EPOL         
 libv4l.x86_64                                           1.14.2-6.oe2203sp3                                   OS           
 libv4l.x86_64                                           1.14.2-6.oe2203sp3                                   everything   
+libva.src                                               2.13.0-2.oe2203sp3                                   source       
 libva.x86_64                                            2.13.0-2.oe2203sp3                                   everything   
-libva.src                                               2.20.0-1.oe2203sp3                                   update-source
 libva-debuginfo.x86_64                                  2.13.0-2.oe2203sp3                                   debuginfo    
 libva-debugsource.x86_64                                2.13.0-2.oe2203sp3                                   debuginfo    
 libva-devel.x86_64                                      2.13.0-2.oe2203sp3                                   everything   
@@ -14237,7 +14237,7 @@ obs-common.noarch                                       2.10.15-8.oe2203sp3     
 obs-env.src                                             1.0-7.oe2203sp3                                      source       
 obs-env.x86_64                                          1.0-7.oe2203sp3                                      everything   
 obs-server.noarch                                       2.10.15-8.oe2203sp3                                  everything   
-obs-server.src                                          2.10.15-10.oe2203sp3                                 update-source
+obs-server.src                                          2.10.15-8.oe2203sp3                                  source       
 obs-service-download_files.noarch                       0.9.1-1.oe2203sp3                                    everything   
 obs-service-download_files.src                          0.9.1-1.oe2203sp3                                    source       
 obs-service-extract_file.noarch                         0.3-4.oe2203sp3                                      everything   
@@ -14641,7 +14641,7 @@ openssh-debuginfo.x86_64                                8.8p1-26.oe2203sp3      
 openssh-debugsource.x86_64                              8.8p1-26.oe2203sp3                                   update       
 openssh-help.noarch                                     8.8p1-26.oe2203sp3                                   update       
 openssh-keycat.x86_64                                   8.8p1-26.oe2203sp3                                   update       
-openssl.src                                             1:1.1.1wa-7.oe2203sp3                                update-source
+openssl.src                                             1:1.1.1wa-6.oe2203sp3                                update-source
 openssl-debuginfo.x86_64                                1:1.1.1wa-6.oe2203sp3                                update       
 openssl-debugsource.x86_64                              1:1.1.1wa-6.oe2203sp3                                update       
 openssl-devel.x86_64                                    1:1.1.1wa-6.oe2203sp3                                update       
@@ -17168,7 +17168,7 @@ python-aiohttp-debugsource.x86_64                       3.7.4-4.oe2203sp3       
 python-aiohttp-help.x86_64                              3.7.4-4.oe2203sp3                                    EPOL         
 python-aiomysql.src                                     0.0.21-1.oe2203sp3                                   source       
 python-aiomysql-help.noarch                             0.0.21-1.oe2203sp3                                   everything   
-python-aiosmtpd.src                                     1.4.6-1.oe2203sp3                                    update-source
+python-aiosmtpd.src                                     1.4.2-2.oe2203sp3                                    update-source
 python-aiosmtpd-help.noarch                             1.4.2-2.oe2203sp3                                    update       
 python-aiozeroconf.src                                  0.1.8-2.oe2203sp3                                    source       
 python-aiozeroconf-help.noarch                          0.1.8-2.oe2203sp3                                    everything   
@@ -29035,9 +29035,9 @@ web-assets-devel.noarch                                 5-9.oe2203sp3           
 web-assets-httpd.noarch                                 5-9.oe2203sp3                                        everything   
 webbench.src                                            1.5-2.oe2203sp3                                      source       
 webbench.x86_64                                         1.5-2.oe2203sp3                                      everything   
+webkit2gtk3.src                                         2.36.3-4.oe2203sp3                                   source       
 webkit2gtk3.x86_64                                      2.36.3-4.oe2203sp3                                   OS           
 webkit2gtk3.x86_64                                      2.36.3-4.oe2203sp3                                   everything   
-webkit2gtk3.src                                         2.36.3-5.oe2203sp3                                   update-source
 webkit2gtk3-debuginfo.x86_64                            2.36.3-4.oe2203sp3                                   debuginfo    
 webkit2gtk3-debugsource.x86_64                          2.36.3-4.oe2203sp3                                   debuginfo    
 webkit2gtk3-devel.x86_64                                2.36.3-4.oe2203sp3                                   everything   
