@@ -1,3 +1,9 @@
+everything                                      4.9 kB/s | 4.5 kB     00:00    
+EPOL                                            4.7 kB/s | 4.5 kB     00:00    
+debuginfo                                       5.7 kB/s | 4.5 kB     00:00    
+source                                          5.4 kB/s | 4.3 kB     00:00    
+update                                          4.8 kB/s | 4.1 kB     00:00    
+update-source                                   5.2 kB/s | 4.1 kB     00:00    
 Installed Packages
 acl.x86_64                                              2.3.1-2.oe2203sp3                                    @OS          
 adobe-mappings-cmap.noarch                              20190730-3.oe2203sp3                                 @OS          
