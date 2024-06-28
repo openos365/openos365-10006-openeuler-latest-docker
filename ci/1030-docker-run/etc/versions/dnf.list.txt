@@ -1530,8 +1530,8 @@ automoc.src                                             1.0-0.33.oe2203sp3      
 automoc.x86_64                                          1.0-0.33.oe2203sp3                                   everything   
 automoc-debuginfo.x86_64                                1.0-0.33.oe2203sp3                                   debuginfo    
 automoc-debugsource.x86_64                              1.0-0.33.oe2203sp3                                   debuginfo    
-avahi.src                                               0.8-19.oe2203sp3                                     update-source
 avahi.x86_64                                            0.8-19.oe2203sp3                                     update       
+avahi.src                                               0.8-20.oe2203sp3                                     update-source
 avahi-autoipd.x86_64                                    0.8-19.oe2203sp3                                     update       
 avahi-compat-howl.x86_64                                0.8-19.oe2203sp3                                     update       
 avahi-compat-howl-devel.x86_64                          0.8-19.oe2203sp3                                     update       
@@ -2771,9 +2771,9 @@ culmus-simple-clm-fonts.noarch                          0.130-14.oe2203sp3      
 culmus-stamashkenaz-clm-fonts.noarch                    0.130-14.oe2203sp3                                   everything   
 culmus-stamsefarad-clm-fonts.noarch                     0.130-14.oe2203sp3                                   everything   
 culmus-yehuda-clm-fonts.noarch                          0.130-14.oe2203sp3                                   everything   
-cups.src                                                1:2.4.0-10.oe2203sp3                                 source       
 cups.x86_64                                             1:2.4.0-10.oe2203sp3                                 OS           
 cups.x86_64                                             1:2.4.0-10.oe2203sp3                                 everything   
+cups.src                                                1:2.4.0-11.oe2203sp3                                 update-source
 cups-client.x86_64                                      1:2.4.0-10.oe2203sp3                                 OS           
 cups-client.x86_64                                      1:2.4.0-10.oe2203sp3                                 everything   
 cups-debuginfo.x86_64                                   1:2.4.0-10.oe2203sp3                                 debuginfo    
@@ -3322,8 +3322,8 @@ doxygen-debugsource.x86_64                              1:1.9.3-2.oe2203sp3     
 doxygen-doxywizard.x86_64                               1:1.9.3-2.oe2203sp3                                  everything   
 doxygen-help.noarch                                     1:1.9.3-2.oe2203sp3                                  everything   
 doxygen2man.x86_64                                      2.0.0-2.oe2203sp3                                    everything   
-dpdk.src                                                21.11-63.oe2203sp3                                   update-source
 dpdk.x86_64                                             21.11-63.oe2203sp3                                   update       
+dpdk.src                                                21.11-67.oe2203sp3                                   update-source
 dpdk-debuginfo.x86_64                                   21.11-63.oe2203sp3                                   update       
 dpdk-debugsource.x86_64                                 21.11-63.oe2203sp3                                   update       
 dpdk-devel.x86_64                                       21.11-63.oe2203sp3                                   update       
@@ -3335,7 +3335,7 @@ dpkg-debugsource.x86_64                                 1.18.25-12.oe2203sp3    
 dpkg-devel.x86_64                                       1.18.25-12.oe2203sp3                                 everything   
 dpkg-help.x86_64                                        1.18.25-12.oe2203sp3                                 everything   
 dpkg-perl.noarch                                        1.18.25-12.oe2203sp3                                 everything   
-dpu-utilities.src                                       1.10-1.oe2203sp3                                     update-source
+dpu-utilities.src                                       1.10-2.oe2203sp3                                     update-source
 dpu-utilities-debuginfo.x86_64                          1.10-1.oe2203sp3                                     update       
 dpu-utilities-debugsource.x86_64                        1.10-1.oe2203sp3                                     update       
 dpuos-imageTailor-config.x86_64                         1.10-1.oe2203sp3                                     update       
@@ -4001,8 +4001,8 @@ fetchmail.src                                           6.4.22-2.oe2203sp3      
 fetchmail.x86_64                                        6.4.22-2.oe2203sp3                                   everything   
 fetchmail-debuginfo.x86_64                              6.4.22-2.oe2203sp3                                   debuginfo    
 fetchmail-debugsource.x86_64                            6.4.22-2.oe2203sp3                                   debuginfo    
-ffmpeg.src                                              4.2.4-4.oe2203sp3                                    source       
 ffmpeg.x86_64                                           4.2.4-4.oe2203sp3                                    everything   
+ffmpeg.src                                              4.2.4-8.oe2203sp3                                    update-source
 ffmpeg-debuginfo.x86_64                                 4.2.4-4.oe2203sp3                                    debuginfo    
 ffmpeg-debugsource.x86_64                               4.2.4-4.oe2203sp3                                    debuginfo    
 ffmpeg-devel.x86_64                                     4.2.4-4.oe2203sp3                                    everything   
@@ -4450,8 +4450,8 @@ gawk-devel.x86_64                                       5.1.1-5.oe2203sp3       
 gawk-help.noarch                                        5.1.1-5.oe2203sp3                                    OS           
 gawk-help.noarch                                        5.1.1-5.oe2203sp3                                    everything   
 gawk-lang.x86_64                                        5.1.1-5.oe2203sp3                                    everything   
-gazelle.src                                             1.0.2-23.oe2203sp3                                   update-source
 gazelle.x86_64                                          1.0.2-23.oe2203sp3                                   update       
+gazelle.src                                             1.0.2-46.oe2203sp3                                   update-source
 gazelle-debuginfo.x86_64                                1.0.2-23.oe2203sp3                                   update       
 gazelle-debugsource.x86_64                              1.0.2-23.oe2203sp3                                   update       
 gc.src                                                  8.0.6-4.oe2203sp3                                    source       
@@ -4712,8 +4712,8 @@ ghostscript-help.noarch                                 9.55.0-7.oe2203sp3      
 ghostscript-tools-dvipdf.x86_64                         9.55.0-7.oe2203sp3                                   update       
 gi-docgen.noarch                                        2022.1-1.oe2203sp3                                   everything   
 gi-docgen.src                                           2022.1-1.oe2203sp3                                   source       
-giflib.src                                              5.2.1-8.oe2203sp3                                    update-source
 giflib.x86_64                                           5.2.1-8.oe2203sp3                                    update       
+giflib.src                                              5.2.2-1.oe2203sp3                                    update-source
 giflib-devel.x86_64                                     5.2.1-8.oe2203sp3                                    update       
 giflib-help.noarch                                      5.2.1-8.oe2203sp3                                    update       
 giflib-utils.x86_64                                     5.2.1-8.oe2203sp3                                    update       
@@ -5219,8 +5219,8 @@ goffice.x86_64                                          0.10.55-1.oe2203sp3     
 goffice-debuginfo.x86_64                                0.10.55-1.oe2203sp3                                  EPOL         
 goffice-debugsource.x86_64                              0.10.55-1.oe2203sp3                                  EPOL         
 goffice-devel.x86_64                                    0.10.55-1.oe2203sp3                                  EPOL         
-golang.src                                              1.17.3-32.oe2203sp3                                  update-source
 golang.x86_64                                           1.17.3-32.oe2203sp3                                  update       
+golang.src                                              1.17.3-34.oe2203sp3                                  update-source
 golang-devel.noarch                                     1.17.3-32.oe2203sp3                                  update       
 golang-github-prometheus-node_exporter.src              1.0.1-2.oe2203sp3                                    source       
 golang-github-prometheus-node_exporter.x86_64           1.0.1-2.oe2203sp3                                    everything   
@@ -5658,7 +5658,7 @@ grpc-devel.x86_64                                       1.41.1-7.oe2203sp3      
 grpc-devel.x86_64                                       1.41.1-7.oe2203sp3                                   everything   
 grpc-plugins.x86_64                                     1.41.1-7.oe2203sp3                                   OS           
 grpc-plugins.x86_64                                     1.41.1-7.oe2203sp3                                   everything   
-grub2.src                                               1:2.06-47.oe2203sp3                                  update-source
+grub2.src                                               1:2.06-48.oe2203sp3                                  update-source
 grub2-debuginfo.x86_64                                  1:2.06-47.oe2203sp3                                  update       
 grub2-debugsource.x86_64                                1:2.06-47.oe2203sp3                                  update       
 grub2-efi-ia32.x86_64                                   1:2.06-47.oe2203sp3                                  update       
@@ -7157,8 +7157,8 @@ jasypt.src                                              1.9.3-1.oe2203sp3       
 jasypt-javadoc.noarch                                   1.9.3-1.oe2203sp3                                    everything   
 jatl.noarch                                             0.2.2-15.oe2203sp3                                   everything   
 jatl.src                                                0.2.2-15.oe2203sp3                                   source       
-java-1.8.0-openjdk.src                                  1:1.8.0.412.b08-5.oe2203sp3                          update-source
 java-1.8.0-openjdk.x86_64                               1:1.8.0.412.b08-5.oe2203sp3                          update       
+java-1.8.0-openjdk.src                                  1:1.8.0.412.b08-6.oe2203sp3                          update-source
 java-1.8.0-openjdk-accessibility.x86_64                 1:1.8.0.412.b08-5.oe2203sp3                          update       
 java-1.8.0-openjdk-accessibility-slowdebug.x86_64       1:1.8.0.412.b08-5.oe2203sp3                          update       
 java-1.8.0-openjdk-debuginfo.x86_64                     1:1.8.0.412.b08-5.oe2203sp3                          update       
@@ -7926,7 +7926,7 @@ kata-containers.x86_64                                  1.11.1-26.oe2203sp3     
 kata-containers.x86_64                                  1.11.1-26.oe2203sp3                                  everything   
 kata-integration.src                                    v1.0.0-8.oe2203sp3                                   source       
 kata-integration.x86_64                                 v1.0.0-8.oe2203sp3                                   everything   
-kbd.src                                                 2.5.1-1.oe2203sp3                                    source       
+kbd.src                                                 2.5.1-2.oe2203sp3                                    update-source
 kbd-debuginfo.x86_64                                    2.5.1-1.oe2203sp3                                    debuginfo    
 kbd-debugsource.x86_64                                  2.5.1-1.oe2203sp3                                    debuginfo    
 kbd-help.noarch                                         2.5.1-1.oe2203sp3                                    OS           
@@ -7958,8 +7958,8 @@ keepalived.x86_64                                       2.2.4-2.oe2203sp3       
 keepalived-debuginfo.x86_64                             2.2.4-2.oe2203sp3                                    debuginfo    
 keepalived-debugsource.x86_64                           2.2.4-2.oe2203sp3                                    debuginfo    
 keepalived-help.noarch                                  2.2.4-2.oe2203sp3                                    everything   
-kernel.src                                              5.10.0-209.0.0.117.oe2203sp3                         update-source
 kernel.x86_64                                           5.10.0-209.0.0.117.oe2203sp3                         update       
+kernel.src                                              5.10.0-215.0.0.119.oe2203sp3                         update-source
 kernel-debuginfo.x86_64                                 5.10.0-209.0.0.117.oe2203sp3                         update       
 kernel-debugsource.x86_64                               5.10.0-209.0.0.117.oe2203sp3                         update       
 kernel-devel.x86_64                                     5.10.0-209.0.0.117.oe2203sp3                         update       
@@ -10171,9 +10171,9 @@ libndp-debuginfo.x86_64                                 1.8-3.oe2203sp3         
 libndp-debugsource.x86_64                               1.8-3.oe2203sp3                                      update       
 libndp-devel.x86_64                                     1.8-3.oe2203sp3                                      update       
 libndp-help.x86_64                                      1.8-3.oe2203sp3                                      update       
-libnet.src                                              1.2-2.oe2203sp3                                      source       
 libnet.x86_64                                           1.2-2.oe2203sp3                                      OS           
 libnet.x86_64                                           1.2-2.oe2203sp3                                      everything   
+libnet.src                                              1.2-3.oe2203sp3                                      update-source
 libnet-debuginfo.x86_64                                 1.2-2.oe2203sp3                                      debuginfo    
 libnet-debugsource.x86_64                               1.2-2.oe2203sp3                                      debuginfo    
 libnet-devel.x86_64                                     1.2-2.oe2203sp3                                      everything   
@@ -11714,8 +11714,8 @@ lvm2-debugsource.x86_64                                 8:2.03.14-13.oe2203sp3  
 lvm2-devel.x86_64                                       8:2.03.14-13.oe2203sp3                               everything   
 lvm2-lockd.x86_64                                       8:2.03.14-13.oe2203sp3                               everything   
 lvm2-test.x86_64                                        8:2.03.14-13.oe2203sp3                               everything   
-lwip.src                                                2.1.3-104.oe2203sp3                                  update-source
 lwip.x86_64                                             2.1.3-104.oe2203sp3                                  update       
+lwip.src                                                2.2.0-32.oe2203sp3                                   update-source
 lxc.src                                                 4.0.3-2022102425.oe2203sp3                           source       
 lxc.x86_64                                              4.0.3-2022102425.oe2203sp3                           OS           
 lxc.x86_64                                              4.0.3-2022102425.oe2203sp3                           everything   
@@ -16782,9 +16782,9 @@ poly2tri.x86_64                                         0.0-19.oe2203sp3        
 poly2tri-debuginfo.x86_64                               0.0-19.oe2203sp3                                     debuginfo    
 poly2tri-debugsource.x86_64                             0.0-19.oe2203sp3                                     debuginfo    
 poly2tri-devel.x86_64                                   0.0-19.oe2203sp3                                     everything   
-poppler.src                                             0.90.0-7.oe2203sp3                                   source       
 poppler.x86_64                                          0.90.0-7.oe2203sp3                                   OS           
 poppler.x86_64                                          0.90.0-7.oe2203sp3                                   everything   
+poppler.src                                             0.90.0-8.oe2203sp3                                   update-source
 poppler-cpp.x86_64                                      0.90.0-7.oe2203sp3                                   OS           
 poppler-cpp.x86_64                                      0.90.0-7.oe2203sp3                                   everything   
 poppler-cpp-devel.x86_64                                0.90.0-7.oe2203sp3                                   everything   
@@ -16928,7 +16928,7 @@ procmail-debuginfo.x86_64                               3.22-53.oe2203sp3       
 procmail-debugsource.x86_64                             3.22-53.oe2203sp3                                    debuginfo    
 procmail-help.noarch                                    3.22-53.oe2203sp3                                    OS           
 procmail-help.noarch                                    3.22-53.oe2203sp3                                    everything   
-procps-ng.src                                           4.0.2-11.oe2203sp3                                   update-source
+procps-ng.src                                           4.0.2-14.oe2203sp3                                   update-source
 procps-ng-debuginfo.x86_64                              4.0.2-11.oe2203sp3                                   update       
 procps-ng-debugsource.x86_64                            4.0.2-11.oe2203sp3                                   update       
 procps-ng-devel.x86_64                                  4.0.2-11.oe2203sp3                                   update       
@@ -19856,8 +19856,8 @@ rubberband-debuginfo.x86_64                             1.8.2-1.oe2203sp3       
 rubberband-debugsource.x86_64                           1.8.2-1.oe2203sp3                                    EPOL         
 rubberband-devel.x86_64                                 1.8.2-1.oe2203sp3                                    EPOL         
 rubik.x86_64                                            2.0.0-3.oe2203sp3                                    EPOL         
-ruby.src                                                3.0.3-133.oe2203sp3                                  update-source
 ruby.x86_64                                             3.0.3-133.oe2203sp3                                  update       
+ruby.src                                                3.0.3-135.oe2203sp3                                  update-source
 ruby-augeas.src                                         0.5.0-1.oe2203sp3                                    source       
 ruby-augeas.x86_64                                      0.5.0-1.oe2203sp3                                    everything   
 ruby-augeas-debuginfo.x86_64                            0.5.0-1.oe2203sp3                                    debuginfo    
@@ -19897,13 +19897,13 @@ rubygem-actionmailer.noarch                             1:6.1.4.1-1.oe2203sp3   
 rubygem-actionmailer.src                                1:6.1.4.1-1.oe2203sp3                                source       
 rubygem-actionmailer-doc.noarch                         1:6.1.4.1-1.oe2203sp3                                everything   
 rubygem-actionpack.noarch                               1:6.1.4.1-5.oe2203sp3                                update       
-rubygem-actionpack.src                                  1:6.1.4.1-5.oe2203sp3                                update-source
+rubygem-actionpack.src                                  1:6.1.4.1-6.oe2203sp3                                update-source
 rubygem-actionpack-doc.noarch                           1:6.1.4.1-5.oe2203sp3                                update       
 rubygem-actiontext.noarch                               6.1.4.1-1.oe2203sp3                                  everything   
 rubygem-actiontext.src                                  6.1.4.1-1.oe2203sp3                                  source       
 rubygem-actiontext-doc.noarch                           6.1.4.1-1.oe2203sp3                                  everything   
 rubygem-actionview.noarch                               6.1.4.1-1.oe2203sp3                                  everything   
-rubygem-actionview.src                                  6.1.4.1-1.oe2203sp3                                  source       
+rubygem-actionview.src                                  6.1.4.1-2.oe2203sp3                                  update-source
 rubygem-actionview-doc.noarch                           6.1.4.1-1.oe2203sp3                                  everything   
 rubygem-activejob.noarch                                6.1.4.1-1.oe2203sp3                                  everything   
 rubygem-activejob.src                                   6.1.4.1-1.oe2203sp3                                  source       
@@ -19924,7 +19924,7 @@ rubygem-activestorage.noarch                            6.1.4.1-2.oe2203sp3     
 rubygem-activestorage.src                               6.1.4.1-2.oe2203sp3                                  update-source
 rubygem-activestorage-doc.noarch                        6.1.4.1-2.oe2203sp3                                  update       
 rubygem-activesupport.noarch                            1:6.1.4.1-5.oe2203sp3                                everything   
-rubygem-activesupport.src                               1:6.1.4.1-5.oe2203sp3                                source       
+rubygem-activesupport.src                               1:6.1.4.1-8.oe2203sp3                                update-source
 rubygem-activesupport-doc.noarch                        1:6.1.4.1-5.oe2203sp3                                everything   
 rubygem-addressable.noarch                              2.8.0-1.oe2203sp3                                    everything   
 rubygem-addressable.src                                 2.8.0-1.oe2203sp3                                    source       
@@ -28777,7 +28777,7 @@ uthash.src                                              2.1.0-1.oe2203sp3       
 uthash.x86_64                                           2.1.0-1.oe2203sp3                                    everything   
 uthash-devel.x86_64                                     2.1.0-1.oe2203sp3                                    everything   
 uthash-help.noarch                                      2.1.0-1.oe2203sp3                                    everything   
-util-linux.src                                          2.37.2-28.oe2203sp3                                  update-source
+util-linux.src                                          2.37.2-33.oe2203sp3                                  update-source
 util-linux-debuginfo.x86_64                             2.37.2-28.oe2203sp3                                  update       
 util-linux-debugsource.x86_64                           2.37.2-28.oe2203sp3                                  update       
 util-linux-devel.x86_64                                 2.37.2-28.oe2203sp3                                  update       
@@ -29042,7 +29042,7 @@ weld-core.src                                           2.3.5-4.oe2203sp3       
 weld-core-javadoc.noarch                                2.3.5-4.oe2203sp3                                    everything   
 weld-parent.noarch                                      34-1.oe2203sp3                                       everything   
 weld-parent.src                                         34-1.oe2203sp3                                       source       
-wget.src                                                1.21.2-3.oe2203sp3                                   source       
+wget.src                                                1.21.2-5.oe2203sp3                                   update-source
 wget-debuginfo.x86_64                                   1.21.2-3.oe2203sp3                                   debuginfo    
 wget-debugsource.x86_64                                 1.21.2-3.oe2203sp3                                   debuginfo    
 wget-help.x86_64                                        1.21.2-3.oe2203sp3                                   OS           
