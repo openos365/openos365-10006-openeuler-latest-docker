@@ -411,7 +411,7 @@ pesign.x86_64                               115-5.oe2203sp3                 @OS
 pixman.x86_64                               0.40.0-3.oe2203sp3              @OS        
 pkgconf.x86_64                              1.8.0-3.oe2203sp3               @System    
 popt.x86_64                                 1.18-3.oe2203sp3                @System    
-procps-ng.x86_64                            4.0.2-14.oe2203sp3              @update    
+procps-ng.x86_64                            4.0.2-11.oe2203sp3              @update    
 publicsuffix-list.noarch                    20211113-3.oe2203sp3            @System    
 python-pip-wheel.noarch                     21.3.1-5.oe2203sp3              @System    
 python-setuptools.noarch                    59.4.0-5.oe2203sp3              @System    
