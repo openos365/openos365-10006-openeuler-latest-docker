@@ -1,4 +1,4 @@
-# color-grep initialization
+#!/bin/bash
 
 /usr/libexec/grepconf.sh -c || return
 

@@ -1,5 +1,5 @@
 #!/bin/sh
-if [ ! -e /usr/lib64/librpm.so.9.2.0 ]; then
+if [ ! -e /usr/lib64/librpm.so.9.4.1 ]; then
     exit 0
 fi
 

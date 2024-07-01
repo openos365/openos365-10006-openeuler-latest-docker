@@ -22,7 +22,7 @@ swap_total=$(cat /proc/meminfo | awk '/^SwapTotal:/ { printf($2)}')
 swap_free=$(cat /proc/meminfo | awk '/^SwapFree:/ { printf($2)}')
 
 
-if [ $memory_total -gt 0 ]
+if [[ $memory_total -gt 0 ]]
 then
     memory_usage=`echo "scale=1; ($memory_total - $memory_free - $buffers - $cached - $sreclaimable) * 100.0 / $memory_total" |bc`
     memory_usage="${memory_usage}%"
@@ -31,7 +31,7 @@ else
 fi
 
 # Swap memory
-if [ $swap_total -gt 0 ]
+if [[ $swap_total -gt 0 ]]
 then
     swap_mem=`echo "scale=1; ($swap_total - $swap_free) * 100.0 / $swap_total" |bc`
     swap_mem="${swap_mem}%"
@@ -78,7 +78,7 @@ do
     echo -e "IP address: \t$ip_address"
 done
 echo -e "Users online: \t$user_num"
-if [ "$whoiam" == "root" ]
+if [ "$whoiam" = "root" ]
 then
     echo -e "\n"
 else
