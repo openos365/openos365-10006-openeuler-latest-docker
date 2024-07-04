@@ -310,9 +310,9 @@ openEuler-repos.x86_64                      1.0-3.8.oe2403               @update
 openEuler-rpm-config.x86_64                 30-56.oe2403                 @OS        
 openjpeg2.x86_64                            2.5.0-3.oe2403               @OS        
 openldap.x86_64                             2.6.5-4.oe2403               @System    
-openssh.x86_64                              9.3p2-3.oe2403               @OS        
-openssh-clients.x86_64                      9.3p2-3.oe2403               @OS        
-openssh-server.x86_64                       9.3p2-3.oe2403               @OS        
+openssh.x86_64                              9.3p2-4.oe2403               @update    
+openssh-clients.x86_64                      9.3p2-4.oe2403               @update    
+openssh-server.x86_64                       9.3p2-4.oe2403               @update    
 openssl.x86_64                              1:3.0.12-6.oe2403            @update    
 openssl-libs.x86_64                         1:3.0.12-6.oe2403            @update    
 os-prober.x86_64                            1.81-1.oe2403                @OS        
