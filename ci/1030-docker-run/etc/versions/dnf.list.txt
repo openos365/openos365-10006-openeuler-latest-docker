@@ -82,7 +82,7 @@ elfutils-default-yama-scope.noarch                      0.190-3.oe2403          
 elfutils-extra.x86_64                                   0.190-3.oe2403                                    @OS          
 elfutils-libelf.x86_64                                  0.190-3.oe2403                                    @System      
 elfutils-libs.x86_64                                    0.190-3.oe2403                                    @System      
-emacs-filesystem.noarch                                 1:29.1-2.oe2403                                   @OS          
+emacs-filesystem.noarch                                 1:29.1-3.oe2403                                   @update      
 expat.x86_64                                            2.5.0-3.oe2403                                    @update      
 expect.x86_64                                           1:5.45.4-8.oe2403                                 @OS          
 file.x86_64                                             5.45-1.oe2403                                     @OS          
@@ -142,9 +142,9 @@ guile.x86_64                                            5:2.2.7-4.oe2403        
 gzip.x86_64                                             1.12-4.oe2403                                     @System      
 harfbuzz.x86_64                                         8.3.0-1.oe2403                                    @OS          
 hicolor-icon-theme.noarch                               0.17-7.oe2403                                     @OS          
-httpd.x86_64                                            2.4.58-3.oe2403                                   @OS          
-httpd-filesystem.noarch                                 2.4.58-3.oe2403                                   @OS          
-httpd-tools.x86_64                                      2.4.58-3.oe2403                                   @OS          
+httpd.x86_64                                            2.4.58-6.oe2403                                   @update      
+httpd-filesystem.noarch                                 2.4.58-6.oe2403                                   @update      
+httpd-tools.x86_64                                      2.4.58-6.oe2403                                   @update      
 ima-evm-utils-libs.x86_64                               1.5-1.oe2403                                      @System      
 info.x86_64                                             7.0.3-3.oe2403                                    @System      
 intltool.noarch                                         0.51.0-15.oe2403                                  @OS          
@@ -162,7 +162,7 @@ json-glib.x86_64                                        1.8.0-1.oe2403          
 kbd.x86_64                                              2.6.1-2.oe2403                                    @update      
 kbd-legacy.noarch                                       2.6.1-2.oe2403                                    @update      
 kbd-misc.noarch                                         2.6.1-2.oe2403                                    @update      
-kernel-headers.x86_64                                   6.6.0-31.0.0.39.oe2403                            @update      
+kernel-headers.x86_64                                   6.6.0-33.0.0.40.oe2403                            @update      
 keyutils-libs.x86_64                                    1.6.3-5.oe2403                                    @System      
 kiwi-cli.noarch                                         9.25.1-3.oe2403                                   @everything  
 kiwi-systemdeps.x86_64                                  9.25.1-3.oe2403                                   @everything  
@@ -170,7 +170,7 @@ kiwi-tools.x86_64                                       9.25.1-3.oe2403         
 kmod.x86_64                                             30-4.oe2403                                       @OS          
 kmod-libs.x86_64                                        30-4.oe2403                                       @OS          
 kpartx.x86_64                                           0.9.5-1.oe2403                                    @OS          
-krb5-libs.x86_64                                        1.21.2-2.oe2403                                   @System      
+krb5-libs.x86_64                                        1.21.2-7.oe2403                                   @update      
 lcms2.x86_64                                            2.16-1.oe2403                                     @OS          
 less.x86_64                                             633-4.oe2403                                      @OS          
 libICE.x86_64                                           1.1.1-1.oe2403                                    @OS          
@@ -258,7 +258,7 @@ libstdc++-devel.x86_64                                  12.3.1-30.oe2403        
 libtasn1.x86_64                                         4.19.0-1.oe2403                                   @System      
 libthai.x86_64                                          0.1.29-1.oe2403                                   @OS          
 libtiff.x86_64                                          4.6.0-1.oe2403                                    @OS          
-libtirpc.x86_64                                         1.3.4-2.oe2403                                    @System      
+libtirpc.x86_64                                         1.3.4-3.oe2403                                    @update      
 libtool.x86_64                                          2.4.7-3.oe2403                                    @OS          
 libtool-ltdl.x86_64                                     2.4.7-3.oe2403                                    @OS          
 libunistring.x86_64                                     1.1-2.oe2403                                      @System      
@@ -315,8 +315,8 @@ openldap.x86_64                                         2.6.5-4.oe2403          
 openssh.x86_64                                          9.3p2-4.oe2403                                    @update      
 openssh-clients.x86_64                                  9.3p2-4.oe2403                                    @update      
 openssh-server.x86_64                                   9.3p2-4.oe2403                                    @update      
-openssl.x86_64                                          1:3.0.12-6.oe2403                                 @update      
-openssl-libs.x86_64                                     1:3.0.12-6.oe2403                                 @update      
+openssl.x86_64                                          1:3.0.12-9.oe2403                                 @update      
+openssl-libs.x86_64                                     1:3.0.12-9.oe2403                                 @update      
 os-prober.x86_64                                        1.81-1.oe2403                                     @OS          
 p11-kit.x86_64                                          0.25.0-2.oe2403                                   @System      
 p11-kit-trust.x86_64                                    0.25.0-2.oe2403                                   @System      
@@ -4044,7 +4044,6 @@ emacs-common.x86_64                                     1:29.1-3.oe2403         
 emacs-debuginfo.x86_64                                  1:29.1-3.oe2403                                   update       
 emacs-debugsource.x86_64                                1:29.1-3.oe2403                                   update       
 emacs-devel.x86_64                                      1:29.1-3.oe2403                                   update       
-emacs-filesystem.noarch                                 1:29.1-3.oe2403                                   update       
 emacs-gettext.noarch                                    0.22-2.oe2403                                     everything   
 emacs-help.noarch                                       1:29.1-3.oe2403                                   update       
 emacs-lucid.x86_64                                      1:29.1-3.oe2403                                   update       
@@ -6732,13 +6731,10 @@ httpcomponents-core.src                                 4.4.15-1.oe2403         
 httpcomponents-project.noarch                           11-1.oe2403                                       everything   
 httpcomponents-project.src                              11-1.oe2403                                       source       
 httpd.src                                               2.4.58-6.oe2403                                   update-source
-httpd.x86_64                                            2.4.58-6.oe2403                                   update       
 httpd-debuginfo.x86_64                                  2.4.58-6.oe2403                                   update       
 httpd-debugsource.x86_64                                2.4.58-6.oe2403                                   update       
 httpd-devel.x86_64                                      2.4.58-6.oe2403                                   update       
-httpd-filesystem.noarch                                 2.4.58-6.oe2403                                   update       
 httpd-help.noarch                                       2.4.58-6.oe2403                                   update       
-httpd-tools.x86_64                                      2.4.58-6.oe2403                                   update       
 httpry.x86_64                                           0.1.8-1.oe2403                                    EPOL         
 httpry-debuginfo.x86_64                                 0.1.8-1.oe2403                                    EPOL         
 httpry-debugsource.x86_64                               0.1.8-1.oe2403                                    EPOL         
@@ -8519,7 +8515,6 @@ kernel.x86_64                                           6.6.0-33.0.0.40.oe2403  
 kernel-debuginfo.x86_64                                 6.6.0-33.0.0.40.oe2403                            update       
 kernel-debugsource.x86_64                               6.6.0-33.0.0.40.oe2403                            update       
 kernel-devel.x86_64                                     6.6.0-33.0.0.40.oe2403                            update       
-kernel-headers.x86_64                                   6.6.0-33.0.0.40.oe2403                            update       
 kernel-rpm-macros.x86_64                                30-56.oe2403                                      everything   
 kernel-rt.src                                           6.6.0-27.0.0.rt30.4.oe2403                        source       
 kernel-rt.x86_64                                        6.6.0-27.0.0.rt30.4.oe2403                        everything   
@@ -9151,7 +9146,6 @@ krb5-debuginfo.x86_64                                   1.21.2-7.oe2403         
 krb5-debugsource.x86_64                                 1.21.2-7.oe2403                                   update       
 krb5-devel.x86_64                                       1.21.2-7.oe2403                                   update       
 krb5-help.noarch                                        1.21.2-7.oe2403                                   update       
-krb5-libs.x86_64                                        1.21.2-7.oe2403                                   update       
 krb5-server.x86_64                                      1.21.2-7.oe2403                                   update       
 kronosnet.src                                           1.28-2.oe2403                                     source       
 kronosnet-debuginfo.x86_64                              1.28-2.oe2403                                     debuginfo    
@@ -11776,7 +11770,6 @@ libtimezonemap-debugsource.x86_64                       0.4.5.2-1.oe2403        
 libtimezonemap-devel.x86_64                             0.4.5.2-1.oe2403                                  everything   
 libtimezonemap-help.noarch                              0.4.5.2-1.oe2403                                  everything   
 libtirpc.src                                            1.3.4-3.oe2403                                    update-source
-libtirpc.x86_64                                         1.3.4-3.oe2403                                    update       
 libtirpc-debuginfo.x86_64                               1.3.4-3.oe2403                                    update       
 libtirpc-debugsource.x86_64                             1.3.4-3.oe2403                                    update       
 libtirpc-devel.x86_64                                   1.3.4-3.oe2403                                    update       
@@ -15616,12 +15609,10 @@ openssh-debugsource.x86_64                              9.3p2-4.oe2403          
 openssh-help.noarch                                     9.3p2-4.oe2403                                    update       
 openssh-keycat.x86_64                                   9.3p2-4.oe2403                                    update       
 openssl.src                                             1:3.0.12-9.oe2403                                 update-source
-openssl.x86_64                                          1:3.0.12-9.oe2403                                 update       
 openssl-debuginfo.x86_64                                1:3.0.12-9.oe2403                                 update       
 openssl-debugsource.x86_64                              1:3.0.12-9.oe2403                                 update       
 openssl-devel.x86_64                                    1:3.0.12-9.oe2403                                 update       
 openssl-help.noarch                                     1:3.0.12-9.oe2403                                 update       
-openssl-libs.x86_64                                     1:3.0.12-9.oe2403                                 update       
 openssl-perl.x86_64                                     1:3.0.12-9.oe2403                                 update       
 openssl-pkcs11.src                                      0.4.12-2.oe2403                                   source       
 openssl-pkcs11.x86_64                                   0.4.12-2.oe2403                                   OS           
