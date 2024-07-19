@@ -430,8 +430,8 @@ pkgconf.x86_64                                          1.9.5-1.oe2403          
 popt.x86_64                                             1.19-2.oe2403                                     @System      
 procps-ng.x86_64                                        4.0.4-6.oe2403                                    @update      
 publicsuffix-list.noarch                                20240108-1.oe2403                                 @System      
-python-pip-wheel.noarch                                 23.3.1-2.oe2403                                   @update      
-python-setuptools.noarch                                68.0.0-2.oe2403                                   @update      
+python-pip-wheel.noarch                                 23.3.1-1.oe2403                                   @System      
+python-setuptools.noarch                                68.0.0-1.oe2403                                   @System      
 python3.x86_64                                          3.11.6-2.oe2403                                   @System      
 python3-chardet.noarch                                  5.2.0-1.oe2403                                    @OS          
 python3-charset-normalizer.noarch                       3.3.2-1.oe2403                                    @OS          
@@ -1647,7 +1647,7 @@ ark.x86_64                                              23.08.4-1.oe2403        
 ark-debuginfo.x86_64                                    23.08.4-1.oe2403                                  EPOL         
 ark-debugsource.x86_64                                  23.08.4-1.oe2403                                  EPOL         
 ark-libs.x86_64                                         23.08.4-1.oe2403                                  EPOL         
-arm-trusted-firmware.src                                2.9-2.oe2403                                      source       
+arm-trusted-firmware.src                                2.9-3.oe2403                                      update-source
 armadillo.src                                           12.6.2-1.oe2403                                   source       
 armadillo.x86_64                                        12.6.2-1.oe2403                                   everything   
 armadillo-debuginfo.x86_64                              12.6.2-1.oe2403                                   debuginfo    
@@ -4518,8 +4518,8 @@ fetchmail.src                                           6.4.37-1.oe2403         
 fetchmail.x86_64                                        6.4.37-1.oe2403                                   everything   
 fetchmail-debuginfo.x86_64                              6.4.37-1.oe2403                                   debuginfo    
 fetchmail-debugsource.x86_64                            6.4.37-1.oe2403                                   debuginfo    
-ffmpeg.src                                              6.1.1-9.oe2403                                    update-source
 ffmpeg.x86_64                                           6.1.1-9.oe2403                                    update       
+ffmpeg.src                                              6.1.1-11.oe2403                                   update-source
 ffmpeg-debuginfo.x86_64                                 6.1.1-9.oe2403                                    update       
 ffmpeg-debugsource.x86_64                               6.1.1-9.oe2403                                    update       
 ffmpeg-devel.x86_64                                     6.1.1-9.oe2403                                    update       
@@ -4599,8 +4599,8 @@ firebird-debugsource.x86_64                             4.0.4.3010-2.oe2403     
 firebird-devel.x86_64                                   4.0.4.3010-2.oe2403                               everything   
 firebird-help.noarch                                    4.0.4.3010-2.oe2403                               everything   
 firebird-utils.x86_64                                   4.0.4.3010-2.oe2403                               everything   
-firefox.src                                             115.12.0-1.oe2403                                 update-source
 firefox.x86_64                                          115.12.0-1.oe2403                                 update       
+firefox.src                                             115.13.0-1.oe2403                                 update-source
 firefox-debuginfo.x86_64                                115.12.0-1.oe2403                                 update       
 firefox-debugsource.x86_64                              115.12.0-1.oe2403                                 update       
 firewalld.noarch                                        1.2.6-3.oe2403                                    OS           
@@ -4779,9 +4779,9 @@ freeipmi-help.x86_64                                    1.6.11-1.oe2403         
 freemarker.noarch                                       2.3.32-1.oe2403                                   everything   
 freemarker.src                                          2.3.32-1.oe2403                                   source       
 freemarker-help.noarch                                  2.3.32-1.oe2403                                   everything   
-freeradius.src                                          3.2.3-1.oe2403                                    source       
 freeradius.x86_64                                       3.2.3-1.oe2403                                    OS           
 freeradius.x86_64                                       3.2.3-1.oe2403                                    everything   
+freeradius.src                                          3.2.3-3.oe2403                                    update-source
 freeradius-client.src                                   1.1.7-1.oe2403                                    source       
 freeradius-client.x86_64                                1.1.7-1.oe2403                                    everything   
 freeradius-client-debuginfo.x86_64                      1.1.7-1.oe2403                                    debuginfo    
@@ -8510,8 +8510,8 @@ keepalived.x86_64                                       2.2.8-1.oe2403          
 keepalived-debuginfo.x86_64                             2.2.8-1.oe2403                                    debuginfo    
 keepalived-debugsource.x86_64                           2.2.8-1.oe2403                                    debuginfo    
 keepalived-help.noarch                                  2.2.8-1.oe2403                                    everything   
-kernel.src                                              6.6.0-33.0.0.40.oe2403                            update-source
 kernel.x86_64                                           6.6.0-33.0.0.40.oe2403                            update       
+kernel.src                                              6.6.0-34.0.0.41.oe2403                            update-source
 kernel-debuginfo.x86_64                                 6.6.0-33.0.0.40.oe2403                            update       
 kernel-debugsource.x86_64                               6.6.0-33.0.0.40.oe2403                            update       
 kernel-devel.x86_64                                     6.6.0-33.0.0.40.oe2403                            update       
@@ -8530,9 +8530,9 @@ kernel-source.x86_64                                    6.6.0-33.0.0.40.oe2403  
 kernel-tools.x86_64                                     6.6.0-33.0.0.40.oe2403                            update       
 kernel-tools-debuginfo.x86_64                           6.6.0-33.0.0.40.oe2403                            update       
 kernel-tools-devel.x86_64                               6.6.0-33.0.0.40.oe2403                            update       
-kexec-tools.src                                         2.0.26-5.oe2403                                   source       
 kexec-tools.x86_64                                      2.0.26-5.oe2403                                   OS           
 kexec-tools.x86_64                                      2.0.26-5.oe2403                                   everything   
+kexec-tools.src                                         2.0.26-6.oe2403                                   update-source
 kexec-tools-debuginfo.x86_64                            2.0.26-5.oe2403                                   debuginfo    
 kexec-tools-debugsource.x86_64                          2.0.26-5.oe2403                                   debuginfo    
 kexec-tools-help.noarch                                 2.0.26-5.oe2403                                   OS           
@@ -13455,7 +13455,7 @@ mod_fcgid.x86_64                                        2.3.9-21.oe2403         
 mod_fcgid-debuginfo.x86_64                              2.3.9-21.oe2403                                   debuginfo    
 mod_fcgid-debugsource.x86_64                            2.3.9-21.oe2403                                   debuginfo    
 mod_fcgid-help.x86_64                                   2.3.9-21.oe2403                                   everything   
-mod_http2.src                                           2.0.25-2.oe2403                                   source       
+mod_http2.src                                           2.0.25-3.oe2403                                   update-source
 mod_http2-debuginfo.x86_64                              2.0.25-2.oe2403                                   debuginfo    
 mod_http2-debugsource.x86_64                            2.0.25-2.oe2403                                   debuginfo    
 mod_http2-help.noarch                                   2.0.25-2.oe2403                                   everything   
@@ -13499,8 +13499,8 @@ mokutil-debuginfo.x86_64                                1:0.6.0-2.oe2403        
 mokutil-debugsource.x86_64                              1:0.6.0-2.oe2403                                  debuginfo    
 mokutil-help.noarch                                     1:0.6.0-2.oe2403                                  everything   
 mom.noarch                                              0.6.2-3.oe2403                                    EPOL         
-mongo-c-driver.src                                      1.24.4-2.oe2403                                   source       
 mongo-c-driver.x86_64                                   1.24.4-2.oe2403                                   everything   
+mongo-c-driver.src                                      1.27.4-1.oe2403                                   update-source
 mongo-c-driver-debuginfo.x86_64                         1.24.4-2.oe2403                                   debuginfo    
 mongo-c-driver-debugsource.x86_64                       1.24.4-2.oe2403                                   debuginfo    
 mongo-c-driver-devel.x86_64                             1.24.4-2.oe2403                                   everything   
@@ -15526,7 +15526,7 @@ openjpa.noarch                                          2.4.1-5.oe2403          
 openjpa.src                                             2.4.1-5.oe2403                                    source       
 openjpa-javadoc.noarch                                  2.4.1-5.oe2403                                    everything   
 openjpa-tools.noarch                                    2.4.1-5.oe2403                                    everything   
-openjpeg2.src                                           2.5.0-3.oe2403                                    source       
+openjpeg2.src                                           2.5.0-4.oe2403                                    update-source
 openjpeg2-debuginfo.x86_64                              2.5.0-3.oe2403                                    debuginfo    
 openjpeg2-debugsource.x86_64                            2.5.0-3.oe2403                                    debuginfo    
 openjpeg2-devel.x86_64                                  2.5.0-3.oe2403                                    everything   
@@ -19582,7 +19582,7 @@ python-pillow.src                                       10.3.0-1.oe2403         
 python-pillow-debuginfo.x86_64                          10.3.0-1.oe2403                                   debuginfo    
 python-pillow-debugsource.x86_64                        10.3.0-1.oe2403                                   debuginfo    
 python-pint-help.noarch                                 0.22-1.oe2403                                     EPOL         
-python-pip.src                                          23.3.1-1.oe2403                                   source       
+python-pip.src                                          23.3.1-2.oe2403                                   update-source
 python-pip-api-help.noarch                              0.0.30-1.oe2403                                   EPOL         
 python-pip-help.noarch                                  23.3.1-1.oe2403                                   everything   
 python-pip-run.src                                      12.1.0-1.oe2403                                   source       
@@ -19948,7 +19948,7 @@ python-service-identity-help.noarch                     21.1.0-1.oe2403         
 python-setproctitle-debuginfo.x86_64                    1.3.3-1.oe2403                                    EPOL         
 python-setproctitle-debugsource.x86_64                  1.3.3-1.oe2403                                    EPOL         
 python-setproctitle-help.x86_64                         1.3.3-1.oe2403                                    EPOL         
-python-setuptools.src                                   68.0.0-1.oe2403                                   source       
+python-setuptools.src                                   68.0.0-2.oe2403                                   update-source
 python-setuptools-help.noarch                           68.0.0-1.oe2403                                   everything   
 python-setuptools-rust.src                              1.8.1-1.oe2403                                    source       
 python-setuptools-rust-help.noarch                      1.8.1-1.oe2403                                    everything   
@@ -21762,9 +21762,9 @@ qcoro-qt6-devel.x86_64                                  0.10.0-1.oe2403         
 qdox.noarch                                             2.0.3-1.oe2403                                    everything   
 qdox.src                                                2.0.3-1.oe2403                                    source       
 qdox-help.noarch                                        2.0.3-1.oe2403                                    everything   
-qemu.src                                                11:8.2.0-13.oe2403                                source       
 qemu.x86_64                                             11:8.2.0-13.oe2403                                OS           
 qemu.x86_64                                             11:8.2.0-13.oe2403                                everything   
+qemu.src                                                11:8.2.0-15.oe2403                                update-source
 qemu-block-curl.x86_64                                  11:8.2.0-13.oe2403                                OS           
 qemu-block-curl.x86_64                                  11:8.2.0-13.oe2403                                everything   
 qemu-block-iscsi.x86_64                                 11:8.2.0-13.oe2403                                OS           
@@ -22445,7 +22445,7 @@ randomizedtesting-junit4-maven-plugin.noarch            2.8.1-1.oe2403          
 randomizedtesting-runner.noarch                         2.8.1-1.oe2403                                    everything   
 range-v3-devel.x86_64                                   0.12.0-1.oe2403                                   EPOL         
 ranger.noarch                                           1.9.3-1.oe2403                                    EPOL         
-rapidjson.src                                           1.1.0-12.oe2403                                   source       
+rapidjson.src                                           1.1.0-13.oe2403                                   update-source
 rapidjson-devel.noarch                                  1.1.0-12.oe2403                                   everything   
 rapidjson-help.noarch                                   1.1.0-12.oe2403                                   everything   
 raptor2.src                                             2.0.15-19.oe2403                                  source       
@@ -23560,9 +23560,9 @@ rubygem-zeitwerk.src                                    2.6.6-1.oe2403          
 rubygem-zeitwerk-doc.noarch                             2.6.6-1.oe2403                                    everything   
 rubygems.noarch                                         3.4.10-142.oe2403                                 update       
 rubygems-devel.noarch                                   3.4.10-142.oe2403                                 update       
-runc.src                                                1.1.8-16.oe2403                                   source       
 runc.x86_64                                             1.1.8-16.oe2403                                   OS           
 runc.x86_64                                             1.1.8-16.oe2403                                   everything   
+runc.src                                                1.1.8-19.oe2403                                   update-source
 rust.src                                                1.77.0-3.oe2403                                   source       
 rust.x86_64                                             1.77.0-3.oe2403                                   everything   
 rust-afterburn-debuginfo.x86_64                         5.5.1-1.oe2403                                    EPOL         
