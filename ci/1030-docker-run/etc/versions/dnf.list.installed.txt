@@ -428,8 +428,8 @@ pkgconf.x86_64                              1.9.5-1.oe2403               @System
 popt.x86_64                                 1.19-2.oe2403                @System    
 procps-ng.x86_64                            4.0.4-6.oe2403               @update    
 publicsuffix-list.noarch                    20240108-1.oe2403            @System    
-python-pip-wheel.noarch                     23.3.1-1.oe2403              @System    
-python-setuptools.noarch                    68.0.0-1.oe2403              @System    
+python-pip-wheel.noarch                     23.3.1-2.oe2403              @update    
+python-setuptools.noarch                    68.0.0-2.oe2403              @update    
 python3.x86_64                              3.11.6-2.oe2403              @System    
 python3-chardet.noarch                      5.2.0-1.oe2403               @OS        
 python3-charset-normalizer.noarch           3.3.2-1.oe2403               @OS        
