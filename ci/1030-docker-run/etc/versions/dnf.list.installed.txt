@@ -133,9 +133,9 @@ grub2-efi-x64-modules.noarch                1:2.12-20.oe2403             @update
 grub2-pc-modules.noarch                     1:2.12-20.oe2403             @update    
 grub2-tools-efi.x86_64                      1:2.12-20.oe2403             @update    
 grub2-tools-minimal.x86_64                  1:2.12-20.oe2403             @update    
-gtk-update-icon-cache.x86_64                3.24.41-1.oe2403             @OS        
-gtk2.x86_64                                 2.24.33-9.oe2403             @OS        
-gtk3.x86_64                                 3.24.41-1.oe2403             @OS        
+gtk-update-icon-cache.x86_64                3.24.41-2.oe2403             @update    
+gtk2.x86_64                                 2.24.33-10.oe2403            @update    
+gtk3.x86_64                                 3.24.41-2.oe2403             @update    
 guile.x86_64                                5:2.2.7-4.oe2403             @OS        
 gzip.x86_64                                 1.12-4.oe2403                @System    
 harfbuzz.x86_64                             8.3.0-1.oe2403               @OS        
@@ -160,7 +160,7 @@ json-glib.x86_64                            1.8.0-1.oe2403               @OS
 kbd.x86_64                                  2.6.1-2.oe2403               @update    
 kbd-legacy.noarch                           2.6.1-2.oe2403               @update    
 kbd-misc.noarch                             2.6.1-2.oe2403               @update    
-kernel-headers.x86_64                       6.6.0-34.0.0.41.oe2403       @update    
+kernel-headers.x86_64                       6.6.0-35.0.0.43.oe2403       @update    
 keyutils-libs.x86_64                        1.6.3-5.oe2403               @System    
 kiwi-cli.noarch                             9.25.1-3.oe2403              @everything
 kiwi-systemdeps.x86_64                      9.25.1-3.oe2403              @everything
