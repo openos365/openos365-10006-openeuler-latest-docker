@@ -9,7 +9,7 @@ asciidoc.noarch                             10.2.0-1.oe2403              @OS
 at-spi2-atk.x86_64                          2.51.0-3.oe2403              @OS        
 at-spi2-core.x86_64                         2.51.0-3.oe2403              @OS        
 atk.x86_64                                  2.51.0-3.oe2403              @OS        
-attr.x86_64                                 2.5.1-4.oe2403               @System    
+attr.x86_64                                 2.5.1-5.oe2403               @update    
 audit-libs.x86_64                           1:3.1.2-2.oe2403             @System    
 autoconf.noarch                             2.71-5.oe2403                @OS        
 automake.noarch                             1.16.5-8.oe2403              @OS        
@@ -85,7 +85,7 @@ expat.x86_64                                2.5.0-3.oe2403               @update
 expect.x86_64                               1:5.45.4-8.oe2403            @OS        
 file.x86_64                                 5.45-1.oe2403                @OS        
 file-libs.x86_64                            5.45-1.oe2403                @System    
-filesystem.x86_64                           3.16-5.oe2403                @System    
+filesystem.x86_64                           3.16-6.oe2403                @update    
 findutils.x86_64                            2:4.9.0-1.oe2403             @OS        
 flex.x86_64                                 2.6.4-5.oe2403               @OS        
 fontconfig.x86_64                           2.15.0-1.oe2403              @OS        
@@ -191,10 +191,10 @@ libXtst.x86_64                              1.2.4-1.oe2403               @OS
 libXv.x86_64                                1.0.12-1.oe2403              @OS        
 libXxf86dga.x86_64                          1.1.6-1.oe2403               @OS        
 libXxf86vm.x86_64                           1.1.5-2.oe2403               @OS        
-libacl.x86_64                               2.3.1-2.oe2403               @System    
+libacl.x86_64                               2.3.1-3.oe2403               @update    
 libaio.x86_64                               0.3.113-9.oe2403             @OS        
 libarchive.x86_64                           3.7.1-3.oe2403               @update    
-libargon2.x86_64                            20190702-3.oe2403            @OS        
+libargon2.x86_64                            20190702-4.oe2403            @update    
 libassuan.x86_64                            2.5.6-2.oe2403               @System    
 libblkid.x86_64                             2.39.1-7.oe2403              @System    
 libcap.x86_64                               2.69-3.oe2403                @System    
@@ -223,7 +223,7 @@ libidn2.x86_64                              2.3.4-1.oe2403               @System
 libijs.x86_64                               0.35-10.oe2403               @OS        
 libipt.x86_64                               2.1-1.oe2403                 @OS        
 libjpeg-turbo.x86_64                        3.0.1-2.oe2403               @OS        
-libksba.x86_64                              1.6.4-1.oe2403               @System    
+libksba.x86_64                              1.6.4-2.oe2403               @update    
 libmd.x86_64                                1.1.0-1.oe2403               @everything
 libmetalink.x86_64                          0.1.3-12.oe2403              @OS        
 libmodulemd.x86_64                          2.15.0-1.oe2403              @System    
@@ -254,7 +254,7 @@ libssh.x86_64                               0.10.5-2.oe2403              @System
 libstdc++.x86_64                            12.3.1-30.oe2403             @System    
 libstdc++-devel.x86_64                      12.3.1-30.oe2403             @OS        
 libtasn1.x86_64                             4.19.0-1.oe2403              @System    
-libthai.x86_64                              0.1.29-1.oe2403              @OS        
+libthai.x86_64                              0.1.29-2.oe2403              @update    
 libtiff.x86_64                              4.6.0-1.oe2403               @OS        
 libtirpc.x86_64                             1.3.4-3.oe2403               @update    
 libtool.x86_64                              2.4.7-3.oe2403               @OS        
@@ -270,7 +270,7 @@ libxcb.x86_64                               1.16-1.oe2403                @OS
 libxcrypt.x86_64                            4.4.36-2.oe2403              @System    
 libxcrypt-devel.x86_64                      4.4.36-2.oe2403              @OS        
 libxkbcommon.x86_64                         1.6.0-1.oe2403               @OS        
-libxml2.x86_64                              2.11.5-3.oe2403              @System    
+libxml2.x86_64                              2.11.5-4.oe2403              @update    
 libxslt.x86_64                              1.1.39-1.oe2403              @OS        
 libyaml.x86_64                              0.2.5-6.oe2403               @System    
 lksctp-tools.x86_64                         1.0.19-3.oe2403              @OS        
@@ -430,7 +430,7 @@ procps-ng.x86_64                            4.0.4-6.oe2403               @update
 publicsuffix-list.noarch                    20240108-1.oe2403            @System    
 python-pip-wheel.noarch                     23.3.1-2.oe2403              @update    
 python-setuptools.noarch                    68.0.0-2.oe2403              @update    
-python3.x86_64                              3.11.6-2.oe2403              @System    
+python3.x86_64                              3.11.6-4.oe2403              @update    
 python3-chardet.noarch                      5.2.0-1.oe2403               @OS        
 python3-charset-normalizer.noarch           3.3.2-1.oe2403               @OS        
 python3-dateutil.noarch                     1:2.8.2-3.oe2403             @OS        
@@ -455,7 +455,7 @@ python3-rpm.x86_64                          4.18.2-5.oe2403              @System
 python3-setuptools.noarch                   68.0.0-2.oe2403              @update    
 python3-simplejson.x86_64                   3.19.2-1.oe2403              @everything
 python3-six.noarch                          1.16.0-3.oe2403              @OS        
-python3-urllib3.noarch                      1.26.18-1.oe2403             @OS        
+python3-urllib3.noarch                      1.26.18-2.oe2403             @update    
 qemu-img.x86_64                             11:8.2.0-15.oe2403           @update    
 qt5-srpm-macros.noarch                      5.15.10-4.oe2403             @OS        
 readline.x86_64                             8.2-2.oe2403                 @System    
