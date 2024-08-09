@@ -117,7 +117,7 @@ glib2.x86_64                                2.78.3-2.oe2403              @update
 glibc.x86_64                                2.38-29.oe2403               @System    
 glibc-common.x86_64                         2.38-29.oe2403               @System    
 glibc-devel.x86_64                          2.38-29.oe2403               @OS        
-gmp.x86_64                                  1:6.3.0-2.oe2403             @System    
+gmp.x86_64                                  1:6.3.0-3.oe2403             @update    
 gnupg2.x86_64                               2.4.3-2.oe2403               @System    
 gnutls.x86_64                               3.8.2-4.oe2403               @System    
 google-droid-sans-fonts.noarch              20200215-1.oe2403            @OS        
@@ -307,7 +307,7 @@ openEuler-gpg-keys.x86_64                   1.0-3.8.oe2403               @update
 openEuler-logos-httpd.noarch                1.0-9.oe2403                 @OS        
 openEuler-release.x86_64                    24.03LTS-55.oe2403           @System    
 openEuler-repos.x86_64                      1.0-3.8.oe2403               @update    
-openEuler-rpm-config.x86_64                 30-56.oe2403                 @OS        
+openEuler-rpm-config.x86_64                 30-57.oe2403                 @update    
 openjpeg2.x86_64                            2.5.0-4.oe2403               @update    
 openldap.x86_64                             2.6.5-4.oe2403               @System    
 openssh.x86_64                              9.3p2-4.oe2403               @update    
