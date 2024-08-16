@@ -746,6 +746,7 @@ PilotGo-plugin-prometheus.x86_64                        1.1.0-1.oe2403          
 PilotGo-plugin-topology-agent.x86_64                    1.0.3-1.oe2403                                    EPOL         
 PilotGo-plugin-topology-server.x86_64                   1.0.3-1.oe2403                                    EPOL         
 PilotGo-server.x86_64                                   2.1.0-2.oe2403                                    EPOL         
+PyPAM.src                                               0.5.0-5.oe2403                                    update-source
 PyQt4.src                                               4.12.3-2.oe2403                                   source       
 PyQt4.x86_64                                            4.12.3-2.oe2403                                   everything   
 PyQt4-debuginfo.x86_64                                  4.12.3-2.oe2403                                   debuginfo    
@@ -2632,7 +2633,7 @@ cheese-devel.x86_64                                     2:44.1-1.oe2403         
 cheese-help.noarch                                      2:44.1-1.oe2403                                   EPOL         
 cheese-libs.x86_64                                      2:44.1-1.oe2403                                   EPOL         
 chezdav.x86_64                                          3.0-3.oe2403                                      everything   
-chkconfig.src                                           1.25-1.oe2403                                     source       
+chkconfig.src                                           1.25-2.oe2403                                     update-source
 chkconfig-debuginfo.x86_64                              1.25-1.oe2403                                     debuginfo    
 chkconfig-debugsource.x86_64                            1.25-1.oe2403                                     debuginfo    
 chkconfig-help.noarch                                   1.25-1.oe2403                                     OS           
@@ -4584,8 +4585,8 @@ firebird-debugsource.x86_64                             4.0.4.3010-2.oe2403     
 firebird-devel.x86_64                                   4.0.4.3010-2.oe2403                               everything   
 firebird-help.noarch                                    4.0.4.3010-2.oe2403                               everything   
 firebird-utils.x86_64                                   4.0.4.3010-2.oe2403                               everything   
-firefox.src                                             115.13.0-2.oe2403                                 update-source
 firefox.x86_64                                          115.13.0-2.oe2403                                 update       
+firefox.src                                             115.14.0-1.oe2403                                 update-source
 firefox-debuginfo.x86_64                                115.13.0-2.oe2403                                 update       
 firefox-debugsource.x86_64                              115.13.0-2.oe2403                                 update       
 firewalld.noarch                                        1.2.6-5.oe2403                                    update       
@@ -8480,8 +8481,8 @@ keepalived.x86_64                                       2.2.8-1.oe2403          
 keepalived-debuginfo.x86_64                             2.2.8-1.oe2403                                    debuginfo    
 keepalived-debugsource.x86_64                           2.2.8-1.oe2403                                    debuginfo    
 keepalived-help.noarch                                  2.2.8-1.oe2403                                    everything   
-kernel.src                                              6.6.0-37.0.0.44.oe2403                            update-source
 kernel.x86_64                                           6.6.0-37.0.0.44.oe2403                            update       
+kernel.src                                              6.6.0-38.0.0.45.oe2403                            update-source
 kernel-debuginfo.x86_64                                 6.6.0-37.0.0.44.oe2403                            update       
 kernel-debugsource.x86_64                               6.6.0-37.0.0.44.oe2403                            update       
 kernel-devel.x86_64                                     6.6.0-37.0.0.44.oe2403                            update       
@@ -11712,7 +11713,7 @@ libtheora-help.noarch                                   1:1.1.1-26.oe2403       
 libthrift-java.noarch                                   0.14.0-6.oe2403                                   everything   
 libtidy.x86_64                                          5.8.0-2.oe2403                                    everything   
 libtidy-devel.x86_64                                    5.8.0-2.oe2403                                    everything   
-libtiff.src                                             4.6.0-1.oe2403                                    source       
+libtiff.src                                             4.6.0-3.oe2403                                    update-source
 libtiff-debuginfo.x86_64                                4.6.0-1.oe2403                                    debuginfo    
 libtiff-debugsource.x86_64                              4.6.0-1.oe2403                                    debuginfo    
 libtiff-devel.x86_64                                    4.6.0-1.oe2403                                    OS           
@@ -19841,7 +19842,7 @@ python-rpds-py.src                                      0.10.6-1.oe2403         
 python-rpds-py-debuginfo.x86_64                         0.10.6-1.oe2403                                   debuginfo    
 python-rpds-py-debugsource.x86_64                       0.10.6-1.oe2403                                   debuginfo    
 python-rpds-py-help.x86_64                              0.10.6-1.oe2403                                   everything   
-python-rpm-generators.src                               9-4.oe2403                                        source       
+python-rpm-generators.src                               9-5.oe2403                                        update-source
 python-rsa.src                                          4.9-1.oe2403                                      source       
 python-rsa-help.noarch                                  4.9-1.oe2403                                      everything   
 python-rst-linker.src                                   2.4.0-1.oe2403                                    source       
@@ -20081,7 +20082,7 @@ python-trove-classifiers-help.noarch                    2024.1.8-1.oe2403       
 python-trustme.src                                      1.1.0-1.oe2403                                    source       
 python-trustme-help.noarch                              1.1.0-1.oe2403                                    everything   
 python-twine-help.noarch                                4.0.2-2.oe2403                                    EPOL         
-python-twisted.src                                      22.10.0-3.oe2403                                  source       
+python-twisted.src                                      22.10.0-4.oe2403                                  update-source
 python-twisted-help.noarch                              22.10.0-3.oe2403                                  everything   
 python-typed-ast.src                                    1.5.5-1.oe2403                                    source       
 python-typed-ast-debuginfo.x86_64                       1.5.5-1.oe2403                                    debuginfo    
@@ -21704,8 +21705,8 @@ qcoro-qt6-devel.x86_64                                  0.10.0-1.oe2403         
 qdox.noarch                                             2.0.3-1.oe2403                                    everything   
 qdox.src                                                2.0.3-1.oe2403                                    source       
 qdox-help.noarch                                        2.0.3-1.oe2403                                    everything   
-qemu.src                                                11:8.2.0-15.oe2403                                update-source
 qemu.x86_64                                             11:8.2.0-15.oe2403                                update       
+qemu.src                                                11:8.2.0-16.oe2403                                update-source
 qemu-block-curl.x86_64                                  11:8.2.0-15.oe2403                                update       
 qemu-block-iscsi.x86_64                                 11:8.2.0-15.oe2403                                update       
 qemu-block-rbd.x86_64                                   11:8.2.0-15.oe2403                                update       
@@ -25423,8 +25424,8 @@ texlive-barr-doc.noarch                                 9:svn38479-1.oe2403     
 texlive-barracuda.noarch                                9:svn53683-2.oe2403                               everything   
 texlive-bartel-chess-fonts.noarch                       9:svn20619.0-1.oe2403                             everything   
 texlive-bartel-chess-fonts-doc.noarch                   9:svn20619.0-1.oe2403                             everything   
-texlive-base.src                                        9:20210325-7.oe2403                               source       
 texlive-base.x86_64                                     9:20210325-7.oe2403                               everything   
+texlive-base.src                                        9:20210325-8.oe2403                               update-source
 texlive-base-debuginfo.x86_64                           9:20210325-7.oe2403                               debuginfo    
 texlive-base-debugsource.x86_64                         9:20210325-7.oe2403                               debuginfo    
 texlive-bashful.noarch                                  9:svn25597.0.93-1.oe2403                          everything   
@@ -32294,7 +32295,7 @@ vid.stab.x86_64                                         1.1.0-2.oe2403          
 vid.stab-debuginfo.x86_64                               1.1.0-2.oe2403                                    debuginfo    
 vid.stab-debugsource.x86_64                             1.1.0-2.oe2403                                    debuginfo    
 vid.stab-devel.x86_64                                   1.1.0-2.oe2403                                    everything   
-vim.src                                                 2:9.0.2092-3.oe2403                               source       
+vim.src                                                 2:9.0.2092-8.oe2403                               update-source
 vim-X11.x86_64                                          2:9.0.2092-3.oe2403                               everything   
 vim-debuginfo.x86_64                                    2:9.0.2092-3.oe2403                               debuginfo    
 vim-debugsource.x86_64                                  2:9.0.2092-3.oe2403                               debuginfo    
@@ -33215,7 +33216,7 @@ xxhash-debuginfo.x86_64                                 0.8.2-1.oe2403          
 xxhash-debugsource.x86_64                               0.8.2-1.oe2403                                    debuginfo    
 xxhash-devel.x86_64                                     0.8.2-1.oe2403                                    everything   
 xxhash-libs.x86_64                                      0.8.2-1.oe2403                                    everything   
-xz.src                                                  5.4.4-2.oe2403                                    source       
+xz.src                                                  5.4.7-1.oe2403                                    update-source
 xz-debuginfo.x86_64                                     5.4.4-2.oe2403                                    debuginfo    
 xz-debugsource.x86_64                                   5.4.4-2.oe2403                                    debuginfo    
 xz-devel.x86_64                                         5.4.4-2.oe2403                                    OS           
