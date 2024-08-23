@@ -106,8 +106,8 @@ gdb-gdbserver.x86_64                        14.1-2.oe2403                @System
 gdb-headless.x86_64                         14.1-2.oe2403                @OS        
 gdbm.x86_64                                 1:1.23-2.oe2403              @System    
 gdisk.x86_64                                1.0.9-1.oe2403               @OS        
-gdk-pixbuf2.x86_64                          2.42.10-2.oe2403             @OS        
-gdk-pixbuf2-modules.x86_64                  2.42.10-2.oe2403             @OS        
+gdk-pixbuf2.x86_64                          2.42.10-3.oe2403             @update    
+gdk-pixbuf2-modules.x86_64                  2.42.10-3.oe2403             @update    
 gettext.x86_64                              0.22-2.oe2403                @OS        
 gettext-devel.x86_64                        0.22-2.oe2403                @OS        
 ghostscript.x86_64                          9.56.1-5.oe2403              @OS        
@@ -136,7 +136,7 @@ grub2-tools-minimal.x86_64                  1:2.12-20.oe2403             @update
 gtk-update-icon-cache.x86_64                3.24.41-2.oe2403             @update    
 gtk2.x86_64                                 2.24.33-10.oe2403            @update    
 gtk3.x86_64                                 3.24.41-2.oe2403             @update    
-guile.x86_64                                5:2.2.7-4.oe2403             @OS        
+guile.x86_64                                5:2.2.7-6.oe2403             @update    
 gzip.x86_64                                 1.12-4.oe2403                @System    
 harfbuzz.x86_64                             8.3.0-1.oe2403               @OS        
 hicolor-icon-theme.noarch                   0.17-7.oe2403                @OS        
@@ -313,8 +313,8 @@ openldap.x86_64                             2.6.5-4.oe2403               @System
 openssh.x86_64                              9.3p2-4.oe2403               @update    
 openssh-clients.x86_64                      9.3p2-4.oe2403               @update    
 openssh-server.x86_64                       9.3p2-4.oe2403               @update    
-openssl.x86_64                              1:3.0.12-9.oe2403            @update    
-openssl-libs.x86_64                         1:3.0.12-9.oe2403            @update    
+openssl.x86_64                              1:3.0.12-10.oe2403           @update    
+openssl-libs.x86_64                         1:3.0.12-10.oe2403           @update    
 os-prober.x86_64                            1.81-1.oe2403                @OS        
 p11-kit.x86_64                              0.25.0-2.oe2403              @System    
 p11-kit-trust.x86_64                        0.25.0-2.oe2403              @System    
@@ -512,10 +512,10 @@ utf8proc.x86_64                             2.9.0-1.oe2403               @OS
 util-linux.x86_64                           2.39.1-7.oe2403              @OS        
 valgrind.x86_64                             1:3.22.0-2.oe2403            @OS        
 valgrind-devel.x86_64                       1:3.22.0-2.oe2403            @OS        
-vim-common.x86_64                           2:9.0.2092-8.oe2403          @update    
-vim-enhanced.x86_64                         2:9.0.2092-8.oe2403          @update    
-vim-filesystem.noarch                       2:9.0.2092-8.oe2403          @update    
-vim-minimal.x86_64                          2:9.0.2092-8.oe2403          @update    
+vim-common.x86_64                           2:9.0.2092-10.oe2403         @update    
+vim-enhanced.x86_64                         2:9.0.2092-10.oe2403         @update    
+vim-filesystem.noarch                       2:9.0.2092-10.oe2403         @update    
+vim-minimal.x86_64                          2:9.0.2092-10.oe2403         @update    
 wayland.x86_64                              1.22.0-1.oe2403              @OS        
 wget.x86_64                                 1.21.4-2.oe2403              @update    
 which.x86_64                                2.21-16.oe2403               @System    
