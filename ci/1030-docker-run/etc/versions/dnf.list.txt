@@ -305,10 +305,10 @@ nss.x86_64                                              3.94.0-6.oe2403         
 nss-softokn.x86_64                                      3.94.0-6.oe2403                                   @OS          
 nss-util.x86_64                                         3.94.0-6.oe2403                                   @OS          
 numactl-libs.x86_64                                     2.0.16-10.oe2403                                  @OS          
-openEuler-gpg-keys.x86_64                               1.0-3.9.oe2403                                    @update      
+openEuler-gpg-keys.x86_64                               1.0-3.8.oe2403                                    @update      
 openEuler-logos-httpd.noarch                            1.0-9.oe2403                                      @OS          
 openEuler-release.x86_64                                24.03LTS-55.oe2403                                @System      
-openEuler-repos.x86_64                                  1.0-3.9.oe2403                                    @update      
+openEuler-repos.x86_64                                  1.0-3.8.oe2403                                    @update      
 openEuler-rpm-config.x86_64                             30-57.oe2403                                      @update      
 openjpeg2.x86_64                                        2.5.0-4.oe2403                                    @update      
 openldap.x86_64                                         2.6.5-4.oe2403                                    @System      
