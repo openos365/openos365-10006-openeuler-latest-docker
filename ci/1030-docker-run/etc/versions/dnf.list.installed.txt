@@ -160,7 +160,7 @@ json-glib.x86_64                            1.8.0-1.oe2403               @OS
 kbd.x86_64                                  2.6.1-2.oe2403               @update    
 kbd-legacy.noarch                           2.6.1-2.oe2403               @update    
 kbd-misc.noarch                             2.6.1-2.oe2403               @update    
-kernel-headers.x86_64                       6.6.0-39.0.0.47.oe2403       @update    
+kernel-headers.x86_64                       6.6.0-38.0.0.45.oe2403       @update    
 keyutils-libs.x86_64                        1.6.3-5.oe2403               @System    
 kiwi-cli.noarch                             9.25.1-3.oe2403              @everything
 kiwi-systemdeps.x86_64                      9.25.1-3.oe2403              @everything
@@ -303,10 +303,10 @@ nss.x86_64                                  3.94.0-6.oe2403              @OS
 nss-softokn.x86_64                          3.94.0-6.oe2403              @OS        
 nss-util.x86_64                             3.94.0-6.oe2403              @OS        
 numactl-libs.x86_64                         2.0.16-10.oe2403             @OS        
-openEuler-gpg-keys.x86_64                   1.0-3.9.oe2403               @update    
+openEuler-gpg-keys.x86_64                   1.0-3.8.oe2403               @update    
 openEuler-logos-httpd.noarch                1.0-9.oe2403                 @OS        
 openEuler-release.x86_64                    24.03LTS-55.oe2403           @System    
-openEuler-repos.x86_64                      1.0-3.9.oe2403               @update    
+openEuler-repos.x86_64                      1.0-3.8.oe2403               @update    
 openEuler-rpm-config.x86_64                 30-57.oe2403                 @update    
 openjpeg2.x86_64                            2.5.0-4.oe2403               @update    
 openldap.x86_64                             2.6.5-4.oe2403               @System    
