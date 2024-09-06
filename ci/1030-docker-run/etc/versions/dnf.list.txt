@@ -49,7 +49,7 @@ crontabs.noarch                                         1.11-23.oe2403          
 crypto-policies.noarch                                  20230614-2.git5f3458e.oe2403                      @System      
 cryptsetup.x86_64                                       2.6.1-1.oe2403                                    @OS          
 ctags.x86_64                                            5.8-29.oe2403                                     @OS          
-cups-libs.x86_64                                        1:2.4.7-3.oe2403                                  @update      
+cups-libs.x86_64                                        1:2.4.7-4.oe2403                                  @update      
 curl.x86_64                                             8.4.0-5.oe2403                                    @update      
 cyrus-sasl-lib.x86_64                                   2.1.28-2.oe2403                                   @System      
 dbus.x86_64                                             1:1.14.8-2.oe2403                                 @OS          
@@ -83,7 +83,7 @@ elfutils-extra.x86_64                                   0.190-3.oe2403          
 elfutils-libelf.x86_64                                  0.190-3.oe2403                                    @System      
 elfutils-libs.x86_64                                    0.190-3.oe2403                                    @System      
 emacs-filesystem.noarch                                 1:29.1-3.oe2403                                   @update      
-expat.x86_64                                            2.5.0-3.oe2403                                    @update      
+expat.x86_64                                            2.5.0-4.oe2403                                    @update      
 expect.x86_64                                           1:5.45.4-8.oe2403                                 @OS          
 file.x86_64                                             5.45-1.oe2403                                     @OS          
 file-libs.x86_64                                        5.45-1.oe2403                                     @System      
@@ -154,7 +154,7 @@ jansson.x86_64                                          2.14-3.oe2403           
 java-1.8.0-openjdk-headless.x86_64                      1:1.8.0.422.b05-1.oe2403                          @update      
 javapackages-filesystem.noarch                          5.3.0-6.oe2403                                    @OS          
 javapackages-tools.noarch                               5.3.0-6.oe2403                                    @everything  
-jbig2dec.x86_64                                         0.20-1.oe2403                                     @OS          
+jbig2dec.x86_64                                         0.20-2.oe2403                                     @update      
 jbigkit-libs.x86_64                                     2.1-22.oe2403                                     @OS          
 jing.noarch                                             20151127-2.oe2403                                 @EPOL        
 json-c.x86_64                                           0.17-2.oe2403                                     @System      
@@ -432,7 +432,7 @@ procps-ng.x86_64                                        4.0.4-6.oe2403          
 publicsuffix-list.noarch                                20240108-1.oe2403                                 @System      
 python-pip-wheel.noarch                                 23.3.1-2.oe2403                                   @update      
 python-setuptools.noarch                                68.0.0-2.oe2403                                   @update      
-python3.x86_64                                          3.11.6-4.oe2403                                   @update      
+python3.x86_64                                          3.11.6-5.oe2403                                   @update      
 python3-chardet.noarch                                  5.2.0-1.oe2403                                    @OS          
 python3-charset-normalizer.noarch                       3.3.2-1.oe2403                                    @OS          
 python3-dateutil.noarch                                 1:2.8.2-3.oe2403                                  @OS          
@@ -479,8 +479,8 @@ sqlite.x86_64                                           3.42.0-1.oe2403         
 squashfs-tools.x86_64                                   4.6.1-1.oe2403                                    @OS          
 subversion.x86_64                                       1.14.3-4.oe2403                                   @OS          
 sudo.x86_64                                             1.9.15p5-1.oe2403                                 @OS          
-syslinux.x86_64                                         6.04-14.oe2403                                    @OS          
-syslinux-nonlinux.noarch                                6.04-14.oe2403                                    @OS          
+syslinux.x86_64                                         6.04-16.oe2403                                    @update      
+syslinux-nonlinux.noarch                                6.04-16.oe2403                                    @update      
 systemd.x86_64                                          255-17.oe2403                                     @OS          
 systemd-libs.x86_64                                     255-17.oe2403                                     @System      
 systemd-udev.x86_64                                     255-17.oe2403                                     @OS          
@@ -514,10 +514,10 @@ utf8proc.x86_64                                         2.9.0-1.oe2403          
 util-linux.x86_64                                       2.39.1-7.oe2403                                   @OS          
 valgrind.x86_64                                         1:3.22.0-2.oe2403                                 @OS          
 valgrind-devel.x86_64                                   1:3.22.0-2.oe2403                                 @OS          
-vim-common.x86_64                                       2:9.0.2092-10.oe2403                              @update      
-vim-enhanced.x86_64                                     2:9.0.2092-10.oe2403                              @update      
-vim-filesystem.noarch                                   2:9.0.2092-10.oe2403                              @update      
-vim-minimal.x86_64                                      2:9.0.2092-10.oe2403                              @update      
+vim-common.x86_64                                       2:9.0.2092-11.oe2403                              @update      
+vim-enhanced.x86_64                                     2:9.0.2092-11.oe2403                              @update      
+vim-filesystem.noarch                                   2:9.0.2092-11.oe2403                              @update      
+vim-minimal.x86_64                                      2:9.0.2092-11.oe2403                              @update      
 wayland.x86_64                                          1.22.0-1.oe2403                                   @OS          
 wget.x86_64                                             1.21.4-2.oe2403                                   @update      
 which.x86_64                                            2.21-16.oe2403                                    @System      
@@ -3239,7 +3239,6 @@ cups-filters-devel.x86_64                               1.28.15-2.oe2403        
 cups-filters-help.noarch                                1.28.15-2.oe2403                                  everything   
 cups-help.noarch                                        1:2.4.7-4.oe2403                                  update       
 cups-ipptool.x86_64                                     1:2.4.7-4.oe2403                                  update       
-cups-libs.x86_64                                        1:2.4.7-4.oe2403                                  update       
 cups-lpd.x86_64                                         1:2.4.7-4.oe2403                                  update       
 cups-pk-helper.src                                      0.2.7-1.oe2403                                    source       
 cups-pk-helper.x86_64                                   0.2.7-1.oe2403                                    OS           
@@ -4257,7 +4256,6 @@ exo-debuginfo.x86_64                                    4.18.0-1.oe2403         
 exo-debugsource.x86_64                                  4.18.0-1.oe2403                                   EPOL         
 exo-devel.x86_64                                        4.18.0-1.oe2403                                   EPOL         
 expat.src                                               2.5.0-4.oe2403                                    update-source
-expat.x86_64                                            2.5.0-4.oe2403                                    update       
 expat-debuginfo.x86_64                                  2.5.0-4.oe2403                                    update       
 expat-debugsource.x86_64                                2.5.0-4.oe2403                                    update       
 expat-devel.x86_64                                      2.5.0-4.oe2403                                    update       
@@ -7792,7 +7790,6 @@ jaxen.src                                               1.2.0-3.oe2403          
 jaxen-devel.noarch                                      1.2.0-3.oe2403                                    everything   
 jaxen-javadoc.noarch                                    1.2.0-3.oe2403                                    everything   
 jbig2dec.src                                            0.20-2.oe2403                                     update-source
-jbig2dec.x86_64                                         0.20-2.oe2403                                     update       
 jbig2dec-debuginfo.x86_64                               0.20-2.oe2403                                     update       
 jbig2dec-debugsource.x86_64                             0.20-2.oe2403                                     update       
 jbig2dec-devel.x86_64                                   0.20-2.oe2403                                     update       
@@ -20150,7 +20147,6 @@ python-zstd-debuginfo.x86_64                            1.5.5.1-1.oe2403        
 python-zstd-debugsource.x86_64                          1.5.5.1-1.oe2403                                  EPOL         
 python-zstd-help.x86_64                                 1.5.5.1-1.oe2403                                  EPOL         
 python3.src                                             3.11.6-5.oe2403                                   update-source
-python3.x86_64                                          3.11.6-5.oe2403                                   update       
 python3-3parclient.noarch                               4.2.12-3.oe2403                                   EPOL         
 python3-APScheduler.noarch                              3.10.4-1.oe2403                                   everything   
 python3-AWSIoTPythonSDK.noarch                          1.5.2-1.oe2403                                    everything   
@@ -24432,14 +24428,12 @@ sysget.x86_64                                           2.3-5.oe2403            
 sysget-debuginfo.x86_64                                 2.3-5.oe2403                                      debuginfo    
 sysget-debugsource.x86_64                               2.3-5.oe2403                                      debuginfo    
 syslinux.src                                            6.04-16.oe2403                                    update-source
-syslinux.x86_64                                         6.04-16.oe2403                                    update       
 syslinux-debuginfo.x86_64                               6.04-16.oe2403                                    update       
 syslinux-debugsource.x86_64                             6.04-16.oe2403                                    update       
 syslinux-devel.x86_64                                   6.04-16.oe2403                                    update       
 syslinux-efi64.x86_64                                   6.04-16.oe2403                                    update       
 syslinux-extlinux.x86_64                                6.04-16.oe2403                                    update       
 syslinux-extlinux-nonlinux.noarch                       6.04-16.oe2403                                    update       
-syslinux-nonlinux.noarch                                6.04-16.oe2403                                    update       
 syslinux-perl.x86_64                                    6.04-16.oe2403                                    update       
 syslinux-tftpboot.noarch                                6.04-16.oe2403                                    update       
 sysmaster.src                                           1.1.0-1.oe2403                                    source       
@@ -32197,12 +32191,8 @@ vid.stab-debugsource.x86_64                             1.1.0-2.oe2403          
 vid.stab-devel.x86_64                                   1.1.0-2.oe2403                                    everything   
 vim.src                                                 2:9.0.2092-11.oe2403                              update-source
 vim-X11.x86_64                                          2:9.0.2092-11.oe2403                              update       
-vim-common.x86_64                                       2:9.0.2092-11.oe2403                              update       
 vim-debuginfo.x86_64                                    2:9.0.2092-11.oe2403                              update       
 vim-debugsource.x86_64                                  2:9.0.2092-11.oe2403                              update       
-vim-enhanced.x86_64                                     2:9.0.2092-11.oe2403                              update       
-vim-filesystem.noarch                                   2:9.0.2092-11.oe2403                              update       
-vim-minimal.x86_64                                      2:9.0.2092-11.oe2403                              update       
 vinagre.src                                             3.22.0-14.oe2403                                  source       
 vinagre.x86_64                                          3.22.0-14.oe2403                                  OS           
 vinagre.x86_64                                          3.22.0-14.oe2403                                  everything   
