@@ -3223,8 +3223,8 @@ culmus-simple-clm-fonts.noarch                          0.130-14.oe2403         
 culmus-stamashkenaz-clm-fonts.noarch                    0.130-14.oe2403                                   everything   
 culmus-stamsefarad-clm-fonts.noarch                     0.130-14.oe2403                                   everything   
 culmus-yehuda-clm-fonts.noarch                          0.130-14.oe2403                                   everything   
+cups.src                                                1:2.4.7-3.oe2403                                  update-source
 cups.x86_64                                             1:2.4.7-3.oe2403                                  update       
-cups.src                                                1:2.4.7-4.oe2403                                  update-source
 cups-client.x86_64                                      1:2.4.7-3.oe2403                                  update       
 cups-debuginfo.x86_64                                   1:2.4.7-3.oe2403                                  update       
 cups-debugsource.x86_64                                 1:2.4.7-3.oe2403                                  update       
@@ -4255,7 +4255,7 @@ exo.x86_64                                              4.18.0-1.oe2403         
 exo-debuginfo.x86_64                                    4.18.0-1.oe2403                                   EPOL         
 exo-debugsource.x86_64                                  4.18.0-1.oe2403                                   EPOL         
 exo-devel.x86_64                                        4.18.0-1.oe2403                                   EPOL         
-expat.src                                               2.5.0-4.oe2403                                    update-source
+expat.src                                               2.5.0-3.oe2403                                    update-source
 expat-debuginfo.x86_64                                  2.5.0-3.oe2403                                    update       
 expat-debugsource.x86_64                                2.5.0-3.oe2403                                    update       
 expat-devel.x86_64                                      2.5.0-3.oe2403                                    update       
@@ -4942,8 +4942,8 @@ gawk-devel.x86_64                                       5.2.2-1.oe2403          
 gawk-help.noarch                                        5.2.2-1.oe2403                                    OS           
 gawk-help.noarch                                        5.2.2-1.oe2403                                    everything   
 gawk-lang.x86_64                                        5.2.2-1.oe2403                                    everything   
+gazelle.src                                             1.0.2-48.oe2403                                   update-source
 gazelle.x86_64                                          1.0.2-48.oe2403                                   update       
-gazelle.src                                             1.0.2-59.oe2403                                   update-source
 gazelle-debuginfo.x86_64                                1.0.2-48.oe2403                                   update       
 gazelle-debugsource.x86_64                              1.0.2-48.oe2403                                   update       
 gc.src                                                  8.2.4-1.oe2403                                    source       
@@ -7789,7 +7789,7 @@ jaxen.noarch                                            1.2.0-3.oe2403          
 jaxen.src                                               1.2.0-3.oe2403                                    source       
 jaxen-devel.noarch                                      1.2.0-3.oe2403                                    everything   
 jaxen-javadoc.noarch                                    1.2.0-3.oe2403                                    everything   
-jbig2dec.src                                            0.20-2.oe2403                                     update-source
+jbig2dec.src                                            0.20-1.oe2403                                     source       
 jbig2dec-debuginfo.x86_64                               0.20-1.oe2403                                     debuginfo    
 jbig2dec-debugsource.x86_64                             0.20-1.oe2403                                     debuginfo    
 jbig2dec-devel.x86_64                                   0.20-1.oe2403                                     everything   
@@ -12211,7 +12211,7 @@ linkchecker.src                                         10.4.0-2.oe2403         
 linkchecker.x86_64                                      10.4.0-2.oe2403                                   everything   
 linux-firmware.noarch                                   20231111-2.oe2403                                 OS           
 linux-firmware.noarch                                   20231111-2.oe2403                                 everything   
-linux-firmware.src                                      20240811-1.oe2403                                 update-source
+linux-firmware.src                                      20231111-2.oe2403                                 source       
 linux-firmware-ath.noarch                               20231111-2.oe2403                                 OS           
 linux-firmware-ath.noarch                               20231111-2.oe2403                                 everything   
 linux-firmware-cypress.noarch                           20231111-2.oe2403                                 OS           
@@ -12585,8 +12585,8 @@ lvm2-debugsource.x86_64                                 8:2.03.21-8.oe2403      
 lvm2-devel.x86_64                                       8:2.03.21-8.oe2403                                everything   
 lvm2-lockd.x86_64                                       8:2.03.21-8.oe2403                                everything   
 lvm2-test.x86_64                                        8:2.03.21-8.oe2403                                everything   
+lwip.src                                                2.2.0-36.oe2403                                   update-source
 lwip.x86_64                                             2.2.0-36.oe2403                                   update       
-lwip.src                                                2.2.0-53.oe2403                                   update-source
 lxc.src                                                 5.0.2-14.oe2403                                   source       
 lxc.x86_64                                              5.0.2-14.oe2403                                   OS           
 lxc.x86_64                                              5.0.2-14.oe2403                                   everything   
@@ -14004,8 +14004,8 @@ nghttp2.x86_64                                          1.58.0-2.oe2403         
 nghttp2-debuginfo.x86_64                                1.58.0-2.oe2403                                   debuginfo    
 nghttp2-debugsource.x86_64                              1.58.0-2.oe2403                                   debuginfo    
 nghttp2-help.noarch                                     1.58.0-2.oe2403                                   everything   
+nginx.src                                               1:1.24.0-1.oe2403                                 source       
 nginx.x86_64                                            1:1.24.0-1.oe2403                                 everything   
-nginx.src                                               1:1.24.0-2.oe2403                                 update-source
 nginx-all-modules.noarch                                1:1.24.0-1.oe2403                                 everything   
 nginx-debuginfo.x86_64                                  1:1.24.0-1.oe2403                                 debuginfo    
 nginx-debugsource.x86_64                                1:1.24.0-1.oe2403                                 debuginfo    
@@ -15802,8 +15802,8 @@ p11-kit-devel.x86_64                                    0.25.0-2.oe2403         
 p11-kit-help.x86_64                                     0.25.0-2.oe2403                                   OS           
 p11-kit-help.x86_64                                     0.25.0-2.oe2403                                   everything   
 p11-kit-server.x86_64                                   0.25.0-2.oe2403                                   everything   
+p7zip.src                                               16.02-5.oe2403                                    source       
 p7zip.x86_64                                            16.02-5.oe2403                                    everything   
-p7zip.src                                               16.02-6.oe2403                                    update-source
 pacemaker.src                                           2.1.7-11.oe2403                                   source       
 pacemaker.x86_64                                        2.1.7-11.oe2403                                   everything   
 pacemaker-cli.x86_64                                    2.1.7-11.oe2403                                   everything   
@@ -20153,7 +20153,7 @@ python-zstandard-help.x86_64                            0.22.0-1.oe2403         
 python-zstd-debuginfo.x86_64                            1.5.5.1-1.oe2403                                  EPOL         
 python-zstd-debugsource.x86_64                          1.5.5.1-1.oe2403                                  EPOL         
 python-zstd-help.x86_64                                 1.5.5.1-1.oe2403                                  EPOL         
-python3.src                                             3.11.6-5.oe2403                                   update-source
+python3.src                                             3.11.6-4.oe2403                                   update-source
 python3-3parclient.noarch                               4.2.12-3.oe2403                                   EPOL         
 python3-APScheduler.noarch                              3.10.4-1.oe2403                                   everything   
 python3-AWSIoTPythonSDK.noarch                          1.5.2-1.oe2403                                    everything   
@@ -22612,8 +22612,8 @@ rubberband-debuginfo.x86_64                             1.8.2-1.oe2403          
 rubberband-debugsource.x86_64                           1.8.2-1.oe2403                                    EPOL         
 rubberband-devel.x86_64                                 1.8.2-1.oe2403                                    EPOL         
 rubik.x86_64                                            2.0.0-4.oe2403                                    EPOL         
+ruby.src                                                3.2.2-143.oe2403                                  update-source
 ruby.x86_64                                             3.2.2-143.oe2403                                  update       
-ruby.src                                                3.2.2-145.oe2403                                  update-source
 ruby-augeas.src                                         0.5.0-1.oe2403                                    source       
 ruby-augeas.x86_64                                      0.5.0-1.oe2403                                    everything   
 ruby-augeas-debuginfo.x86_64                            0.5.0-1.oe2403                                    debuginfo    
@@ -23627,8 +23627,8 @@ seahorse-debugsource.x86_64                             43.0-1.oe2403           
 secDetector.src                                         1.0-14.oe2403                                     source       
 secDetector.x86_64                                      1.0-14.oe2403                                     everything   
 secDetector-devel.x86_64                                1.0-14.oe2403                                     everything   
+secGear.src                                             0.1.0-46.oe2403                                   source       
 secGear.x86_64                                          0.1.0-46.oe2403                                   everything   
-secGear.src                                             0.1.0-47.oe2403                                   update-source
 secGear-debuginfo.x86_64                                0.1.0-46.oe2403                                   debuginfo    
 secGear-debugsource.x86_64                              0.1.0-46.oe2403                                   debuginfo    
 secGear-devel.x86_64                                    0.1.0-46.oe2403                                   everything   
@@ -24434,7 +24434,7 @@ sysget.src                                              2.3-5.oe2403            
 sysget.x86_64                                           2.3-5.oe2403                                      everything   
 sysget-debuginfo.x86_64                                 2.3-5.oe2403                                      debuginfo    
 sysget-debugsource.x86_64                               2.3-5.oe2403                                      debuginfo    
-syslinux.src                                            6.04-16.oe2403                                    update-source
+syslinux.src                                            6.04-14.oe2403                                    source       
 syslinux-debuginfo.x86_64                               6.04-14.oe2403                                    debuginfo    
 syslinux-debugsource.x86_64                             6.04-14.oe2403                                    debuginfo    
 syslinux-devel.x86_64                                   6.04-14.oe2403                                    everything   
@@ -31823,8 +31823,8 @@ umockdev-debugsource.x86_64                             0.17.18-1.oe2403        
 umockdev-devel.x86_64                                   0.17.18-1.oe2403                                  everything   
 uname-build-checks.src                                  1.0-0.5.oe2403                                    source       
 uname-build-checks.x86_64                               1.0-0.5.oe2403                                    everything   
+unbound.src                                             1.17.1-8.oe2403                                   update-source
 unbound.x86_64                                          1.17.1-8.oe2403                                   update       
-unbound.src                                             1.17.1-9.oe2403                                   update-source
 unbound-anchor.x86_64                                   1.17.1-8.oe2403                                   update       
 unbound-debuginfo.x86_64                                1.17.1-8.oe2403                                   update       
 unbound-debugsource.x86_64                              1.17.1-8.oe2403                                   update       
@@ -32196,7 +32196,7 @@ vid.stab.x86_64                                         1.1.0-2.oe2403          
 vid.stab-debuginfo.x86_64                               1.1.0-2.oe2403                                    debuginfo    
 vid.stab-debugsource.x86_64                             1.1.0-2.oe2403                                    debuginfo    
 vid.stab-devel.x86_64                                   1.1.0-2.oe2403                                    everything   
-vim.src                                                 2:9.0.2092-11.oe2403                              update-source
+vim.src                                                 2:9.0.2092-10.oe2403                              update-source
 vim-X11.x86_64                                          2:9.0.2092-10.oe2403                              update       
 vim-debuginfo.x86_64                                    2:9.0.2092-10.oe2403                              update       
 vim-debugsource.x86_64                                  2:9.0.2092-10.oe2403                              update       
@@ -32397,8 +32397,8 @@ wireless-tools.x86_64                                   1:29-24.oe2403          
 wireless-tools-debuginfo.x86_64                         1:29-24.oe2403                                    debuginfo    
 wireless-tools-debugsource.x86_64                       1:29-24.oe2403                                    debuginfo    
 wireless-tools-devel.x86_64                             1:29-24.oe2403                                    everything   
+wireshark.src                                           1:3.6.14-9.oe2403                                 update-source
 wireshark.x86_64                                        1:3.6.14-9.oe2403                                 update       
-wireshark.src                                           1:3.6.14-10.oe2403                                update-source
 wireshark-debuginfo.x86_64                              1:3.6.14-9.oe2403                                 update       
 wireshark-debugsource.x86_64                            1:3.6.14-9.oe2403                                 update       
 wireshark-devel.x86_64                                  1:3.6.14-9.oe2403                                 update       
