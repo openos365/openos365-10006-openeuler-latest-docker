@@ -112,7 +112,7 @@ gdk-pixbuf2.x86_64                                      2.42.10-3.oe2403        
 gdk-pixbuf2-modules.x86_64                              2.42.10-3.oe2403                                  @update      
 gettext.x86_64                                          0.22-2.oe2403                                     @OS          
 gettext-devel.x86_64                                    0.22-2.oe2403                                     @OS          
-ghostscript.x86_64                                      9.56.1-8.oe2403                                   @update      
+ghostscript.x86_64                                      9.56.1-5.oe2403                                   @OS          
 git.x86_64                                              2.43.0-4.oe2403                                   @OS          
 git-core.x86_64                                         2.43.0-4.oe2403                                   @OS          
 glib2.x86_64                                            2.78.3-2.oe2403                                   @update      
@@ -162,7 +162,7 @@ json-glib.x86_64                                        1.8.0-1.oe2403          
 kbd.x86_64                                              2.6.1-2.oe2403                                    @update      
 kbd-legacy.noarch                                       2.6.1-2.oe2403                                    @update      
 kbd-misc.noarch                                         2.6.1-2.oe2403                                    @update      
-kernel-headers.x86_64                                   6.6.0-42.0.0.49.oe2403                            @update      
+kernel-headers.x86_64                                   6.6.0-41.0.0.48.oe2403                            @update      
 keyutils-libs.x86_64                                    1.6.3-5.oe2403                                    @System      
 kiwi-cli.noarch                                         9.25.1-3.oe2403                                   @everything  
 kiwi-systemdeps.x86_64                                  9.25.1-3.oe2403                                   @everything  
@@ -536,8 +536,8 @@ zip.x86_64                                              3.0-32.oe2403           
 zlib.x86_64                                             1.2.13-2.oe2403                                   @System      
 zstd.x86_64                                             1.5.5-1.oe2403                                    @System      
 Available Packages
+389-ds-base.src                                         2.3.2-7.oe2403                                    update-source
 389-ds-base.x86_64                                      2.3.2-7.oe2403                                    update       
-389-ds-base.src                                         3.1.1-1.oe2403                                    update-source
 389-ds-base-debuginfo.x86_64                            2.3.2-7.oe2403                                    update       
 389-ds-base-debugsource.x86_64                          2.3.2-7.oe2403                                    update       
 389-ds-base-devel.x86_64                                2.3.2-7.oe2403                                    update       
@@ -5164,7 +5164,7 @@ gfs2-utils.x86_64                                       3.5.1-1.oe2403          
 gfs2-utils-debuginfo.x86_64                             3.5.1-1.oe2403                                    debuginfo    
 gfs2-utils-debugsource.x86_64                           3.5.1-1.oe2403                                    debuginfo    
 gfs2-utils-help.noarch                                  3.5.1-1.oe2403                                    everything   
-ghostscript.src                                         9.56.1-8.oe2403                                   update-source
+ghostscript.src                                         9.56.1-5.oe2403                                   source       
 ghostscript-debuginfo.x86_64                            9.56.1-5.oe2403                                   debuginfo    
 ghostscript-debugsource.x86_64                          9.56.1-5.oe2403                                   debuginfo    
 ghostscript-devel.x86_64                                9.56.1-5.oe2403                                   everything   
@@ -8470,8 +8470,8 @@ keepalived.x86_64                                       2.2.8-1.oe2403          
 keepalived-debuginfo.x86_64                             2.2.8-1.oe2403                                    debuginfo    
 keepalived-debugsource.x86_64                           2.2.8-1.oe2403                                    debuginfo    
 keepalived-help.noarch                                  2.2.8-1.oe2403                                    everything   
+kernel.src                                              6.6.0-41.0.0.48.oe2403                            update-source
 kernel.x86_64                                           6.6.0-41.0.0.48.oe2403                            update       
-kernel.src                                              6.6.0-42.0.0.49.oe2403                            update-source
 kernel-debuginfo.x86_64                                 6.6.0-41.0.0.48.oe2403                            update       
 kernel-debugsource.x86_64                               6.6.0-41.0.0.48.oe2403                            update       
 kernel-devel.x86_64                                     6.6.0-41.0.0.48.oe2403                            update       
@@ -11501,9 +11501,9 @@ libsmi-debuginfo.x86_64                                 0.4.8-25.oe2403         
 libsmi-debugsource.x86_64                               0.4.8-25.oe2403                                   debuginfo    
 libsmi-devel.x86_64                                     0.4.8-25.oe2403                                   everything   
 libsmi-help.noarch                                      0.4.8-25.oe2403                                   everything   
+libsndfile.src                                          1.2.2-1.oe2403                                    source       
 libsndfile.x86_64                                       1.2.2-1.oe2403                                    OS           
 libsndfile.x86_64                                       1.2.2-1.oe2403                                    everything   
-libsndfile.src                                          1.2.2-2.oe2403                                    update-source
 libsndfile-debuginfo.x86_64                             1.2.2-1.oe2403                                    debuginfo    
 libsndfile-debugsource.x86_64                           1.2.2-1.oe2403                                    debuginfo    
 libsndfile-devel.x86_64                                 1.2.2-1.oe2403                                    OS           
@@ -13284,8 +13284,8 @@ mhash.x86_64                                            0.9.9.9-28.oe2403       
 mhash-debuginfo.x86_64                                  0.9.9.9-28.oe2403                                 EPOL         
 mhash-debugsource.x86_64                                0.9.9.9-28.oe2403                                 EPOL         
 mhash-devel.x86_64                                      0.9.9.9-28.oe2403                                 EPOL         
+microcode_ctl.src                                       20240813-1.oe2403                                 update-source
 microcode_ctl.x86_64                                    20240813-1.oe2403                                 update       
-microcode_ctl.src                                       20240910-1.oe2403                                 update-source
 migration-tools-server.noarch                           1.0.1-5.oe2403                                    EPOL         
 mikmod.src                                              3.2.8-7.oe2403                                    source       
 mikmod.x86_64                                           3.2.8-7.oe2403                                    everything   
@@ -23584,8 +23584,8 @@ scrub.src                                               2.6.1-4.oe2403          
 scrub.x86_64                                            2.6.1-4.oe2403                                    everything   
 scrub-debuginfo.x86_64                                  2.6.1-4.oe2403                                    debuginfo    
 scrub-debugsource.x86_64                                2.6.1-4.oe2403                                    debuginfo    
+scsi-target-utils.src                                   1.0.91-1.oe2403                                   source       
 scsi-target-utils.x86_64                                1.0.91-1.oe2403                                   everything   
-scsi-target-utils.src                                   1.0.91-2.oe2403                                   update-source
 scsi-target-utils-debuginfo.x86_64                      1.0.91-1.oe2403                                   debuginfo    
 scsi-target-utils-debugsource.x86_64                    1.0.91-1.oe2403                                   debuginfo    
 scsi-target-utils-gluster.x86_64                        1.0.91-1.oe2403                                   everything   
