@@ -73,7 +73,7 @@ gpgkey=http://repo.openeuler.org/openEuler-24.03-LTS/source/RPM-GPG-KEY-openEule
 [EPOL-update]
 name=EPOL-update
 baseurl=https://repo.openeuler.org/openEuler-24.03-LTS/EPOL/update/main/$basearch/
-metalink=https://mirrors.openeuler.org/metalink?repo=$releasever/EPOL/main&arch=$basearch
+metalink=https://mirrors.openeuler.org/metalink?repo=$releasever/EPOL/update/main&arch=$basearch
 metadata_expire=1h
 enabled=1
 gpgcheck=1
