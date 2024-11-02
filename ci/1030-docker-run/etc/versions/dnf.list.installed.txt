@@ -41,7 +41,7 @@ colord-libs.x86_64                          1.4.6-1.oe2403               @OS
 copy-jdk-configs.noarch                     4.1-1.oe2403                 @OS        
 coreutils.x86_64                            9.4-3.oe2403                 @System    
 cpio.x86_64                                 2.14-3.oe2403                @OS        
-cpp.x86_64                                  12.3.1-30.oe2403             @OS        
+cpp.x86_64                                  12.3.1-36.oe2403             @update    
 cracklib.x86_64                             2.9.11-1.oe2403              @System    
 crontabs.noarch                             1.11-23.oe2403               @System    
 crypto-policies.noarch                      20230614-2.git5f3458e.oe2403 @System    
@@ -81,7 +81,7 @@ elfutils-extra.x86_64                       0.190-3.oe2403               @OS
 elfutils-libelf.x86_64                      0.190-3.oe2403               @System    
 elfutils-libs.x86_64                        0.190-3.oe2403               @System    
 emacs-filesystem.noarch                     1:29.1-3.oe2403              @update    
-expat.x86_64                                2.5.0-5.oe2403               @update    
+expat.x86_64                                2.5.0-7.oe2403               @update    
 expect.x86_64                               1:5.45.4-8.oe2403            @OS        
 file.x86_64                                 5.45-1.oe2403                @OS        
 file-libs.x86_64                            5.45-1.oe2403                @System    
@@ -96,10 +96,10 @@ fuse.x86_64                                 2.9.9-11.oe2403              @System
 fuse-common.x86_64                          3.16.2-1.oe2403              @System    
 gawk.x86_64                                 5.2.2-1.oe2403               @System    
 gc.x86_64                                   8.2.4-1.oe2403               @OS        
-gcc.x86_64                                  12.3.1-30.oe2403             @OS        
-gcc-c++.x86_64                              12.3.1-30.oe2403             @OS        
-gcc-gdb-plugin.x86_64                       12.3.1-30.oe2403             @OS        
-gcc-gfortran.x86_64                         12.3.1-30.oe2403             @OS        
+gcc.x86_64                                  12.3.1-36.oe2403             @update    
+gcc-c++.x86_64                              12.3.1-36.oe2403             @update    
+gcc-gdb-plugin.x86_64                       12.3.1-36.oe2403             @update    
+gcc-gfortran.x86_64                         12.3.1-36.oe2403             @update    
 gd.x86_64                                   2.3.3-4.oe2403               @OS        
 gdb.x86_64                                  14.1-2.oe2403                @OS        
 gdb-gdbserver.x86_64                        14.1-2.oe2403                @System    
@@ -110,7 +110,7 @@ gdk-pixbuf2.x86_64                          2.42.10-4.oe2403             @update
 gdk-pixbuf2-modules.x86_64                  2.42.10-4.oe2403             @update    
 gettext.x86_64                              0.22-2.oe2403                @OS        
 gettext-devel.x86_64                        0.22-2.oe2403                @OS        
-ghostscript.x86_64                          9.56.1-8.oe2403              @update    
+ghostscript.x86_64                          9.56.1-10.oe2403             @update    
 git.x86_64                                  2.43.0-4.oe2403              @OS        
 git-core.x86_64                             2.43.0-4.oe2403              @OS        
 glib2.x86_64                                2.78.3-2.oe2403              @update    
@@ -146,7 +146,6 @@ httpd-tools.x86_64                          2.4.58-7.oe2403              @update
 ima-evm-utils-libs.x86_64                   1.5-1.oe2403                 @System    
 info.x86_64                                 7.0.3-3.oe2403               @System    
 intltool.noarch                             0.51.0-15.oe2403             @OS        
-isl.x86_64                                  0.24-2.oe2403                @OS        
 jakarta-servlet.noarch                      5.0.0-4.oe2403               @everything
 jansson.x86_64                              2.14-3.oe2403                @OS        
 java-1.8.0-openjdk-headless.x86_64          1:1.8.0.422.b05-1.oe2403     @update    
@@ -160,7 +159,7 @@ json-glib.x86_64                            1.8.0-1.oe2403               @OS
 kbd.x86_64                                  2.6.1-2.oe2403               @update    
 kbd-legacy.noarch                           2.6.1-2.oe2403               @update    
 kbd-misc.noarch                             2.6.1-2.oe2403               @update    
-kernel-headers.x86_64                       6.6.0-47.0.0.52.oe2403       @update    
+kernel-headers.x86_64                       6.6.0-48.0.0.53.oe2403       @update    
 keyutils-libs.x86_64                        1.6.3-5.oe2403               @System    
 kiwi-cli.noarch                             9.25.1-3.oe2403              @everything
 kiwi-systemdeps.x86_64                      9.25.1-3.oe2403              @everything
@@ -211,10 +210,10 @@ libevent.x86_64                             2.1.12-11.oe2403             @System
 libfdisk.x86_64                             2.39.1-7.oe2403              @OS        
 libffi.x86_64                               3.4.4-3.oe2403               @System    
 libfontenc.x86_64                           1.1.7-1.oe2403               @OS        
-libgcc.x86_64                               12.3.1-30.oe2403             @System    
+libgcc.x86_64                               12.3.1-36.oe2403             @update    
 libgcrypt.x86_64                            1.10.2-1.oe2403              @System    
-libgfortran.x86_64                          12.3.1-30.oe2403             @OS        
-libgomp.x86_64                              12.3.1-30.oe2403             @System    
+libgfortran.x86_64                          12.3.1-36.oe2403             @update    
+libgomp.x86_64                              12.3.1-36.oe2403             @update    
 libgpg-error.x86_64                         1.47-1.oe2403                @System    
 libgusb.x86_64                              0.4.8-3.oe2403               @update    
 libicu.x86_64                               74.1-2.oe2403                @OS        
@@ -236,8 +235,8 @@ libpipeline.x86_64                          1.5.7-1.oe2403               @OS
 libpng.x86_64                               2:1.6.40-1.oe2403            @System    
 libpsl.x86_64                               0.21.2-1.oe2403              @System    
 libpwquality.x86_64                         1.4.5-2.oe2403               @update    
-libquadmath.x86_64                          12.3.1-30.oe2403             @OS        
-libquadmath-devel.x86_64                    12.3.1-30.oe2403             @OS        
+libquadmath.x86_64                          12.3.1-36.oe2403             @update    
+libquadmath-devel.x86_64                    12.3.1-36.oe2403             @update    
 librepo.x86_64                              1.15.2-1.oe2403              @System    
 libreport-filesystem.noarch                 2.17.10-1.oe2403             @System    
 librsvg2.x86_64                             2.57.1-2.oe2403              @OS        
@@ -251,8 +250,8 @@ libsigsegv.x86_64                           2.14-1.oe2403                @System
 libsmartcols.x86_64                         2.39.1-7.oe2403              @System    
 libsolv.x86_64                              0.7.24-1.oe2403              @System    
 libssh.x86_64                               0.10.5-2.oe2403              @System    
-libstdc++.x86_64                            12.3.1-30.oe2403             @System    
-libstdc++-devel.x86_64                      12.3.1-30.oe2403             @OS        
+libstdc++.x86_64                            12.3.1-36.oe2403             @update    
+libstdc++-devel.x86_64                      12.3.1-36.oe2403             @update    
 libtasn1.x86_64                             4.19.0-1.oe2403              @System    
 libthai.x86_64                              0.1.29-2.oe2403              @update    
 libtiff.x86_64                              4.6.0-3.oe2403               @update    
@@ -451,7 +450,7 @@ python3-pysocks.noarch                      1.7.1-2.oe2403               @OS
 python3-pyxattr.x86_64                      0.8.1-1.oe2403               @OS        
 python3-pyyaml.x86_64                       6.0.1-2.oe2403               @OS        
 python3-requests.noarch                     2.31.0-1.oe2403              @OS        
-python3-rpm.x86_64                          4.18.2-5.oe2403              @System    
+python3-rpm.x86_64                          4.18.2-19.oe2403             @update    
 python3-setuptools.noarch                   68.0.0-2.oe2403              @update    
 python3-simplejson.x86_64                   3.19.2-1.oe2403              @everything
 python3-six.noarch                          1.16.0-3.oe2403              @OS        
@@ -461,9 +460,9 @@ qt5-srpm-macros.noarch                      5.15.10-4.oe2403             @OS
 readline.x86_64                             8.2-2.oe2403                 @System    
 relaxngDatatype.noarch                      2011.1-9.oe2403              @everything
 rootfiles.noarch                            8.1-25.oe2403                @System    
-rpm.x86_64                                  4.18.2-5.oe2403              @System    
-rpm-build.x86_64                            4.18.2-5.oe2403              @OS        
-rpm-libs.x86_64                             4.18.2-5.oe2403              @System    
+rpm.x86_64                                  4.18.2-19.oe2403             @update    
+rpm-build.x86_64                            4.18.2-19.oe2403             @update    
+rpm-libs.x86_64                             4.18.2-19.oe2403             @update    
 rsync.x86_64                                3.2.7-3.oe2403               @OS        
 sed.x86_64                                  4.9-4.oe2403                 @System    
 setup.noarch                                2.14.5-2.oe2403              @System    
