@@ -110,7 +110,7 @@ gdk-pixbuf2.x86_64                          2.42.10-4.oe2403             @update
 gdk-pixbuf2-modules.x86_64                  2.42.10-4.oe2403             @update    
 gettext.x86_64                              0.22-2.oe2403                @OS        
 gettext-devel.x86_64                        0.22-2.oe2403                @OS        
-ghostscript.x86_64                          9.56.1-10.oe2403             @update    
+ghostscript.x86_64                          9.56.1-12.oe2403             @update    
 git.x86_64                                  2.43.0-4.oe2403              @OS        
 git-core.x86_64                             2.43.0-4.oe2403              @OS        
 glib2.x86_64                                2.78.3-2.oe2403              @update    
@@ -127,12 +127,12 @@ graphite2.x86_64                            1.3.14-6.oe2403              @OS
 graphviz.x86_64                             8.1.0-2.oe2403               @OS        
 grep.x86_64                                 3.11-1.oe2403                @System    
 groff-base.x86_64                           1.23.0-2.oe2403              @OS        
-grub2-common.noarch                         1:2.12-20.oe2403             @update    
-grub2-efi-ia32-modules.noarch               1:2.12-20.oe2403             @update    
-grub2-efi-x64-modules.noarch                1:2.12-20.oe2403             @update    
-grub2-pc-modules.noarch                     1:2.12-20.oe2403             @update    
-grub2-tools-efi.x86_64                      1:2.12-20.oe2403             @update    
-grub2-tools-minimal.x86_64                  1:2.12-20.oe2403             @update    
+grub2-common.noarch                         1:2.12-25.oe2403             @update    
+grub2-efi-ia32-modules.noarch               1:2.12-25.oe2403             @update    
+grub2-efi-x64-modules.noarch                1:2.12-25.oe2403             @update    
+grub2-pc-modules.noarch                     1:2.12-25.oe2403             @update    
+grub2-tools-efi.x86_64                      1:2.12-25.oe2403             @update    
+grub2-tools-minimal.x86_64                  1:2.12-25.oe2403             @update    
 gtk-update-icon-cache.x86_64                3.24.41-2.oe2403             @update    
 gtk2.x86_64                                 2.24.33-10.oe2403            @update    
 gtk3.x86_64                                 3.24.41-2.oe2403             @update    
@@ -159,7 +159,7 @@ json-glib.x86_64                            1.8.0-1.oe2403               @OS
 kbd.x86_64                                  2.6.1-2.oe2403               @update    
 kbd-legacy.noarch                           2.6.1-2.oe2403               @update    
 kbd-misc.noarch                             2.6.1-2.oe2403               @update    
-kernel-headers.x86_64                       6.6.0-48.0.0.53.oe2403       @update    
+kernel-headers.x86_64                       6.6.0-50.0.0.55.oe2403       @update    
 keyutils-libs.x86_64                        1.6.3-5.oe2403               @System    
 kiwi-cli.noarch                             9.25.1-3.oe2403              @everything
 kiwi-systemdeps.x86_64                      9.25.1-3.oe2403              @everything
@@ -322,7 +322,7 @@ pango.x86_64                                1.51.0-1.oe2403              @OS
 parted.x86_64                               3.6-1.oe2403                 @OS        
 patch.x86_64                                2.7.6-21.oe2403              @OS        
 patchutils.x86_64                           0.4.2-1.oe2403               @OS        
-pcre2.x86_64                                10.42-7.oe2403               @System    
+pcre2.x86_64                                10.42-10.oe2403              @update    
 perl.x86_64                                 4:5.38.0-6.oe2403            @OS        
 perl-Algorithm-Diff.noarch                  1:1.201-2.oe2403             @OS        
 perl-Archive-Tar.noarch                     3.02-1.oe2403                @OS        
@@ -429,7 +429,7 @@ procps-ng.x86_64                            4.0.4-6.oe2403               @update
 publicsuffix-list.noarch                    20240108-1.oe2403            @System    
 python-pip-wheel.noarch                     23.3.1-2.oe2403              @update    
 python-setuptools.noarch                    68.0.0-2.oe2403              @update    
-python3.x86_64                              3.11.6-6.oe2403              @update    
+python3.x86_64                              3.11.6-7.oe2403              @update    
 python3-chardet.noarch                      5.2.0-1.oe2403               @OS        
 python3-charset-normalizer.noarch           3.3.2-1.oe2403               @OS        
 python3-dateutil.noarch                     1:2.8.2-3.oe2403             @OS        
