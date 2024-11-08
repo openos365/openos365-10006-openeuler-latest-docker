@@ -1754,8 +1754,8 @@ aspell-help.x86_64                                      12:0.60.8.1-1.oe2403    
 assertj-core.noarch                                     3.8.0-4.oe2403                                    everything   
 assertj-core.src                                        3.8.0-4.oe2403                                    source       
 assertj-core-javadoc.noarch                             3.8.0-4.oe2403                                    everything   
-assimp.src                                              5.3.1-4.oe2403                                    update-source
 assimp.x86_64                                           5.3.1-4.oe2403                                    update       
+assimp.src                                              5.3.1-5.oe2403                                    update-source
 assimp-debuginfo.x86_64                                 5.3.1-4.oe2403                                    update       
 assimp-debugsource.x86_64                               5.3.1-4.oe2403                                    update       
 assimp-devel.x86_64                                     5.3.1-4.oe2403                                    update       
@@ -2640,9 +2640,9 @@ chrony.x86_64                                           4.3-2.oe2403            
 chrony-debuginfo.x86_64                                 4.3-2.oe2403                                      debuginfo    
 chrony-debugsource.x86_64                               4.3-2.oe2403                                      debuginfo    
 chrony-help.noarch                                      4.3-2.oe2403                                      everything   
-chrpath.src                                             0.16-13.oe2403                                    source       
 chrpath.x86_64                                          0.16-13.oe2403                                    OS           
 chrpath.x86_64                                          0.16-13.oe2403                                    everything   
+chrpath.src                                             0.16-14.oe2403                                    update-source
 chrpath-debuginfo.x86_64                                0.16-13.oe2403                                    debuginfo    
 chrpath-debugsource.x86_64                              0.16-13.oe2403                                    debuginfo    
 chrpath-help.noarch                                     0.16-13.oe2403                                    OS           
@@ -2778,7 +2778,7 @@ closure-compiler.src                                    20160315-2.oe2403       
 closure-compiler-javadoc.noarch                         20160315-2.oe2403                                 everything   
 cloud-init.noarch                                       23.4.1-3.oe2403                                   OS           
 cloud-init.noarch                                       23.4.1-3.oe2403                                   everything   
-cloud-init.src                                          23.4.1-3.oe2403                                   source       
+cloud-init.src                                          23.4.1-9.oe2403                                   update-source
 cloud-init-help.noarch                                  23.4.1-3.oe2403                                   OS           
 cloud-init-help.noarch                                  23.4.1-3.oe2403                                   everything   
 cloud-utils.src                                         0.33-2.oe2403                                     source       
@@ -3364,8 +3364,8 @@ dconf-editor-debuginfo.x86_64                           45.0-1.oe2403           
 dconf-editor-debugsource.x86_64                         45.0-1.oe2403                                     EPOL         
 dconf-editor-help.noarch                                45.0-1.oe2403                                     EPOL         
 dconf-help.x86_64                                       0.40.0-3.oe2403                                   everything   
-dcraw.src                                               9.28.0-6.oe2403                                   source       
 dcraw.x86_64                                            9.28.0-6.oe2403                                   everything   
+dcraw.src                                               9.28.0-7.oe2403                                   update-source
 dcraw-debuginfo.x86_64                                  9.28.0-6.oe2403                                   debuginfo    
 dcraw-debugsource.x86_64                                9.28.0-6.oe2403                                   debuginfo    
 dcraw-help.x86_64                                       9.28.0-6.oe2403                                   everything   
@@ -4573,8 +4573,8 @@ firebird-debugsource.x86_64                             4.0.4.3010-2.oe2403     
 firebird-devel.x86_64                                   4.0.4.3010-2.oe2403                               everything   
 firebird-help.noarch                                    4.0.4.3010-2.oe2403                               everything   
 firebird-utils.x86_64                                   4.0.4.3010-2.oe2403                               everything   
-firefox.src                                             128.3.0-3.oe2403                                  update-source
 firefox.x86_64                                          128.3.0-3.oe2403                                  update       
+firefox.src                                             128.4.0-1.oe2403                                  update-source
 firefox-debuginfo.x86_64                                128.3.0-3.oe2403                                  update       
 firefox-debugsource.x86_64                              128.3.0-3.oe2403                                  update       
 firewalld.noarch                                        1.2.6-5.oe2403                                    update       
@@ -4927,8 +4927,8 @@ gawk-devel.x86_64                                       5.2.2-1.oe2403          
 gawk-help.noarch                                        5.2.2-1.oe2403                                    OS           
 gawk-help.noarch                                        5.2.2-1.oe2403                                    everything   
 gawk-lang.x86_64                                        5.2.2-1.oe2403                                    everything   
-gazelle.src                                             1.0.2-71.oe2403                                   update-source
 gazelle.x86_64                                          1.0.2-71.oe2403                                   update       
+gazelle.src                                             1.0.2-73.oe2403                                   update-source
 gazelle-debuginfo.x86_64                                1.0.2-71.oe2403                                   update       
 gazelle-debugsource.x86_64                              1.0.2-71.oe2403                                   update       
 gc.src                                                  8.2.4-1.oe2403                                    source       
@@ -5154,7 +5154,7 @@ gfs2-utils.x86_64                                       3.5.1-1.oe2403          
 gfs2-utils-debuginfo.x86_64                             3.5.1-1.oe2403                                    debuginfo    
 gfs2-utils-debugsource.x86_64                           3.5.1-1.oe2403                                    debuginfo    
 gfs2-utils-help.noarch                                  3.5.1-1.oe2403                                    everything   
-ghostscript.src                                         9.56.1-10.oe2403                                  update-source
+ghostscript.src                                         9.56.1-12.oe2403                                  update-source
 ghostscript-debuginfo.x86_64                            9.56.1-10.oe2403                                  update       
 ghostscript-debugsource.x86_64                          9.56.1-10.oe2403                                  update       
 ghostscript-devel.x86_64                                9.56.1-10.oe2403                                  update       
@@ -6119,7 +6119,7 @@ grpc-debuginfo.x86_64                                   1.60.0-4.oe2403         
 grpc-debugsource.x86_64                                 1.60.0-4.oe2403                                   update       
 grpc-devel.x86_64                                       1.60.0-4.oe2403                                   update       
 grpc-plugins.x86_64                                     1.60.0-4.oe2403                                   update       
-grub2.src                                               1:2.12-20.oe2403                                  update-source
+grub2.src                                               1:2.12-25.oe2403                                  update-source
 grub2-debuginfo.x86_64                                  1:2.12-20.oe2403                                  update       
 grub2-debugsource.x86_64                                1:2.12-20.oe2403                                  update       
 grub2-efi-ia32.x86_64                                   1:2.12-20.oe2403                                  update       
@@ -6151,9 +6151,9 @@ gsettings-qt.x86_64                                     0-0.21.20180723bzr85.oe2
 gsettings-qt-debuginfo.x86_64                           0-0.21.20180723bzr85.oe2403                       EPOL         
 gsettings-qt-debugsource.x86_64                         0-0.21.20180723bzr85.oe2403                       EPOL         
 gsettings-qt-devel.x86_64                               0-0.21.20180723bzr85.oe2403                       EPOL         
-gsl.src                                                 2.7-1.oe2403                                      source       
 gsl.x86_64                                              2.7-1.oe2403                                      OS           
 gsl.x86_64                                              2.7-1.oe2403                                      everything   
+gsl.src                                                 2.7-3.oe2403                                      update-source
 gsl-debuginfo.x86_64                                    2.7-1.oe2403                                      debuginfo    
 gsl-debugsource.x86_64                                  2.7-1.oe2403                                      debuginfo    
 gsl-devel.x86_64                                        2.7-1.oe2403                                      OS           
@@ -6436,7 +6436,7 @@ gzip-help.noarch                                        1.12-4.oe2403           
 h2.noarch                                               1.4.196-4.oe2403                                  everything   
 h2.src                                                  1.4.196-4.oe2403                                  source       
 h2-javadoc.noarch                                       1.4.196-4.oe2403                                  everything   
-hadoop.src                                              3.3.6-2.oe2403                                    source       
+hadoop.src                                              3.3.6-4.oe2403                                    update-source
 hadoop-3.1.src                                          3.1.4-7.oe2403                                    source       
 hadoop-3.1-client.noarch                                3.1.4-7.oe2403                                    everything   
 hadoop-3.1-common.noarch                                3.1.4-7.oe2403                                    everything   
@@ -6513,9 +6513,9 @@ hdf.x86_64                                              4.2.14-4.oe2403         
 hdf-debuginfo.x86_64                                    4.2.14-4.oe2403                                   debuginfo    
 hdf-debugsource.x86_64                                  4.2.14-4.oe2403                                   debuginfo    
 hdf-devel.x86_64                                        4.2.14-4.oe2403                                   everything   
-hdf5.src                                                1.12.1-6.oe2403                                   source       
 hdf5.x86_64                                             1.12.1-6.oe2403                                   OS           
 hdf5.x86_64                                             1.12.1-6.oe2403                                   everything   
+hdf5.src                                                1.14.5-1.oe2403                                   update-source
 hdf5-debuginfo.x86_64                                   1.12.1-6.oe2403                                   debuginfo    
 hdf5-debugsource.x86_64                                 1.12.1-6.oe2403                                   debuginfo    
 hdf5-devel.x86_64                                       1.12.1-6.oe2403                                   OS           
@@ -8023,7 +8023,7 @@ jettison.noarch                                         1.5.4-1.oe2403          
 jettison.src                                            1.5.4-1.oe2403                                    source       
 jettison-javadoc.noarch                                 1.5.4-1.oe2403                                    everything   
 jetty.noarch                                            9.4.16-7.oe2403                                   update       
-jetty.src                                               9.4.16-7.oe2403                                   update-source
+jetty.src                                               9.4.16-8.oe2403                                   update-source
 jetty-alpn-api.noarch                                   1.1.3-2.oe2403                                    everything   
 jetty-alpn-api.src                                      1.1.3-2.oe2403                                    source       
 jetty-alpn-api-javadoc.noarch                           1.1.3-2.oe2403                                    everything   
@@ -8461,8 +8461,8 @@ keepalived.x86_64                                       2.2.8-1.oe2403          
 keepalived-debuginfo.x86_64                             2.2.8-1.oe2403                                    debuginfo    
 keepalived-debugsource.x86_64                           2.2.8-1.oe2403                                    debuginfo    
 keepalived-help.noarch                                  2.2.8-1.oe2403                                    everything   
-kernel.src                                              6.6.0-48.0.0.53.oe2403                            update-source
 kernel.x86_64                                           6.6.0-48.0.0.53.oe2403                            update       
+kernel.src                                              6.6.0-50.0.0.55.oe2403                            update-source
 kernel-debuginfo.x86_64                                 6.6.0-48.0.0.53.oe2403                            update       
 kernel-debugsource.x86_64                               6.6.0-48.0.0.53.oe2403                            update       
 kernel-devel.x86_64                                     6.6.0-48.0.0.53.oe2403                            update       
@@ -12545,8 +12545,8 @@ lvm2-debugsource.x86_64                                 8:2.03.21-8.oe2403      
 lvm2-devel.x86_64                                       8:2.03.21-8.oe2403                                everything   
 lvm2-lockd.x86_64                                       8:2.03.21-8.oe2403                                everything   
 lvm2-test.x86_64                                        8:2.03.21-8.oe2403                                everything   
-lwip.src                                                2.2.0-59.oe2403                                   update-source
 lwip.x86_64                                             2.2.0-59.oe2403                                   update       
+lwip.src                                                2.2.0-62.oe2403                                   update-source
 lxc.src                                                 5.0.2-14.oe2403                                   source       
 lxc.x86_64                                              5.0.2-14.oe2403                                   OS           
 lxc.x86_64                                              5.0.2-14.oe2403                                   everything   
@@ -13429,10 +13429,10 @@ mongo-java-driver2-javadoc.noarch                       2.14.3-1.oe2403         
 morfologik-stemming.noarch                              2.1.9-2.oe2403                                    everything   
 morfologik-stemming.src                                 2.1.9-2.oe2403                                    source       
 morfologik-stemming-javadoc.noarch                      2.1.9-2.oe2403                                    everything   
-mosquitto.x86_64                                        2.0.16-1.oe2403                                   EPOL         
-mosquitto-debuginfo.x86_64                              2.0.16-1.oe2403                                   EPOL         
-mosquitto-debugsource.x86_64                            2.0.16-1.oe2403                                   EPOL         
-mosquitto-devel.x86_64                                  2.0.16-1.oe2403                                   EPOL         
+mosquitto.x86_64                                        2.0.20-1.oe2403                                   EPOL-update  
+mosquitto-debuginfo.x86_64                              2.0.20-1.oe2403                                   EPOL-update  
+mosquitto-debugsource.x86_64                            2.0.20-1.oe2403                                   EPOL-update  
+mosquitto-devel.x86_64                                  2.0.20-1.oe2403                                   EPOL-update  
 motif.src                                               2.3.8-6.oe2403                                    update-source
 motif.x86_64                                            2.3.8-6.oe2403                                    update       
 motif-debuginfo.x86_64                                  2.3.8-6.oe2403                                    update       
@@ -13823,8 +13823,8 @@ neon-help.x86_64                                        0.32.5-1.oe2403         
 nestos-installer.x86_64                                 0.20.0-3.oe2403                                   EPOL         
 nestos-installer-bootinfra.x86_64                       0.20.0-3.oe2403                                   EPOL         
 nestos-kubernetes-deployer.x86_64                       0.2.2-4.oe2403                                    EPOL         
-net-snmp.src                                            1:5.9.3-3.oe2403                                  update-source
 net-snmp.x86_64                                         1:5.9.3-3.oe2403                                  update       
+net-snmp.src                                            1:5.9.3-4.oe2403                                  update-source
 net-snmp-debuginfo.x86_64                               1:5.9.3-3.oe2403                                  update       
 net-snmp-debugsource.x86_64                             1:5.9.3-3.oe2403                                  update       
 net-snmp-devel.x86_64                                   1:5.9.3-3.oe2403                                  update       
@@ -15251,8 +15251,8 @@ oeAware-manager-debugsource.x86_64                      v1.0.1-2.oe2403         
 oeAware-scenario.x86_64                                 v1.0.1-2.oe2403                                   EPOL         
 oeAware-scenario-debuginfo.x86_64                       v1.0.1-2.oe2403                                   EPOL         
 oeAware-scenario-debugsource.x86_64                     v1.0.1-2.oe2403                                   EPOL         
-oec-hardware.src                                        1.1.6-1.oe2403                                    update-source
 oec-hardware.x86_64                                     1.1.6-1.oe2403                                    update       
+oec-hardware.src                                        1.1.6-3.oe2403                                    update-source
 oec-hardware-debuginfo.x86_64                           1.1.6-1.oe2403                                    update       
 oec-hardware-debugsource.x86_64                         1.1.6-1.oe2403                                    update       
 oec-hardware-server.x86_64                              1.1.6-1.oe2403                                    update       
@@ -16041,7 +16041,7 @@ pcre-devel.x86_64                                       8.45-6.oe2403           
 pcre-devel.x86_64                                       8.45-6.oe2403                                     everything   
 pcre-help.noarch                                        8.45-6.oe2403                                     OS           
 pcre-help.noarch                                        8.45-6.oe2403                                     everything   
-pcre2.src                                               10.42-7.oe2403                                    source       
+pcre2.src                                               10.42-10.oe2403                                   update-source
 pcre2-debuginfo.x86_64                                  10.42-7.oe2403                                    debuginfo    
 pcre2-debugsource.x86_64                                10.42-7.oe2403                                    debuginfo    
 pcre2-devel.x86_64                                      10.42-7.oe2403                                    OS           
@@ -19278,7 +19278,7 @@ python-netifaces-help.x86_64                            0.11.0-1.oe2403         
 python-netmiko-help.noarch                              4.2.0-1.oe2403                                    EPOL         
 python-networkx.src                                     3.2.1-1.oe2403                                    source       
 python-networkx-help.noarch                             3.2.1-1.oe2403                                    everything   
-python-ninja.src                                        1.11.1.1-3.oe2403                                 source       
+python-ninja.src                                        1.11.1.1-4.oe2403                                 update-source
 python-ninja-debuginfo.x86_64                           1.11.1.1-3.oe2403                                 debuginfo    
 python-ninja-debugsource.x86_64                         1.11.1.1-3.oe2403                                 debuginfo    
 python-ninja-help.x86_64                                1.11.1.1-3.oe2403                                 everything   
@@ -19993,7 +19993,7 @@ python-vl-convert-python-debuginfo.x86_64               0.13.1-1.oe2403         
 python-vl-convert-python-debugsource.x86_64             0.13.1-1.oe2403                                   debuginfo    
 python-voluptuous-help.noarch                           0.13.1-1.oe2403                                   EPOL         
 python-waiting-help.noarch                              1.4.1-1.oe2403                                    EPOL         
-python-waitress.src                                     2.1.2-2.oe2403                                    update-source
+python-waitress.src                                     2.1.2-3.oe2403                                    update-source
 python-waitress-help.noarch                             2.1.2-2.oe2403                                    update       
 python-warlock-help.noarch                              2.0.1-1.oe2403                                    EPOL         
 python-watchdog.src                                     3.0.0-1.oe2403                                    source       
@@ -20109,7 +20109,7 @@ python-zstandard-help.x86_64                            0.22.0-1.oe2403         
 python-zstd-debuginfo.x86_64                            1.5.5.1-1.oe2403                                  EPOL         
 python-zstd-debugsource.x86_64                          1.5.5.1-1.oe2403                                  EPOL         
 python-zstd-help.x86_64                                 1.5.5.1-1.oe2403                                  EPOL         
-python3.src                                             3.11.6-6.oe2403                                   update-source
+python3.src                                             3.11.6-7.oe2403                                   update-source
 python3-3parclient.noarch                               4.2.12-3.oe2403                                   EPOL         
 python3-APScheduler.noarch                              3.10.4-1.oe2403                                   everything   
 python3-AWSIoTPythonSDK.noarch                          1.5.2-1.oe2403                                    everything   
@@ -22563,8 +22563,8 @@ rubberband-debuginfo.x86_64                             1.8.2-1.oe2403          
 rubberband-debugsource.x86_64                           1.8.2-1.oe2403                                    EPOL         
 rubberband-devel.x86_64                                 1.8.2-1.oe2403                                    EPOL         
 rubik.x86_64                                            2.0.0-4.oe2403                                    EPOL         
-ruby.src                                                3.2.2-145.oe2403                                  update-source
 ruby.x86_64                                             3.2.2-145.oe2403                                  update       
+ruby.src                                                3.2.2-147.oe2403                                  update-source
 ruby-augeas.src                                         0.5.0-1.oe2403                                    source       
 ruby-augeas.x86_64                                      0.5.0-1.oe2403                                    everything   
 ruby-augeas-debuginfo.x86_64                            0.5.0-1.oe2403                                    debuginfo    
@@ -31784,7 +31784,7 @@ unbound-help.x86_64                                     1.17.1-10.oe2403        
 unbound-libs.x86_64                                     1.17.1-10.oe2403                                  update       
 unbound-utils.x86_64                                    1.17.1-10.oe2403                                  update       
 undertow.noarch                                         1:1.4.0-7.oe2403                                  everything   
-undertow.src                                            1:1.4.0-7.oe2403                                  source       
+undertow.src                                            1:1.4.0-8.oe2403                                  update-source
 undertow-javadoc.noarch                                 1:1.4.0-7.oe2403                                  everything   
 unicode-emoji.noarch                                    15.0-1.oe2403                                     everything   
 unicode-emoji.src                                       15.0-1.oe2403                                     source       
@@ -32941,8 +32941,8 @@ xorg-x11-fonts-others.noarch                            7.5-25.oe2403           
 xorg-x11-proto-devel.noarch                             2023.2-1.oe2403                                   OS           
 xorg-x11-proto-devel.noarch                             2023.2-1.oe2403                                   everything   
 xorg-x11-proto-devel.src                                2023.2-1.oe2403                                   source       
-xorg-x11-server.src                                     1.20.11-33.oe2403                                 update-source
 xorg-x11-server.x86_64                                  1.20.11-33.oe2403                                 update       
+xorg-x11-server.src                                     1.20.11-34.oe2403                                 update-source
 xorg-x11-server-Xdmx.x86_64                             1.20.11-33.oe2403                                 update       
 xorg-x11-server-Xephyr.x86_64                           1.20.11-33.oe2403                                 update       
 xorg-x11-server-Xnest.x86_64                            1.20.11-33.oe2403                                 update       
