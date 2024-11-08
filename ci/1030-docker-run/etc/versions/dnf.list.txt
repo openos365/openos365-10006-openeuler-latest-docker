@@ -13429,10 +13429,10 @@ mongo-java-driver2-javadoc.noarch                       2.14.3-1.oe2403         
 morfologik-stemming.noarch                              2.1.9-2.oe2403                                    everything   
 morfologik-stemming.src                                 2.1.9-2.oe2403                                    source       
 morfologik-stemming-javadoc.noarch                      2.1.9-2.oe2403                                    everything   
-mosquitto.x86_64                                        2.0.16-1.oe2403                                   EPOL         
-mosquitto-debuginfo.x86_64                              2.0.16-1.oe2403                                   EPOL         
-mosquitto-debugsource.x86_64                            2.0.16-1.oe2403                                   EPOL         
-mosquitto-devel.x86_64                                  2.0.16-1.oe2403                                   EPOL         
+mosquitto.x86_64                                        2.0.20-1.oe2403                                   EPOL-update  
+mosquitto-debuginfo.x86_64                              2.0.20-1.oe2403                                   EPOL-update  
+mosquitto-debugsource.x86_64                            2.0.20-1.oe2403                                   EPOL-update  
+mosquitto-devel.x86_64                                  2.0.20-1.oe2403                                   EPOL-update  
 motif.src                                               2.3.8-6.oe2403                                    update-source
 motif.x86_64                                            2.3.8-6.oe2403                                    update       
 motif-debuginfo.x86_64                                  2.3.8-6.oe2403                                    update       
