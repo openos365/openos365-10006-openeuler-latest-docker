@@ -322,7 +322,7 @@ pango.x86_64                                1.51.0-1.oe2403              @OS
 parted.x86_64                               3.6-1.oe2403                 @OS        
 patch.x86_64                                2.7.6-21.oe2403              @OS        
 patchutils.x86_64                           0.4.2-1.oe2403               @OS        
-pcre2.x86_64                                10.42-10.oe2403              @update    
+pcre2.x86_64                                10.42-7.oe2403               @System    
 perl.x86_64                                 4:5.38.0-6.oe2403            @OS        
 perl-Algorithm-Diff.noarch                  1:1.201-2.oe2403             @OS        
 perl-Archive-Tar.noarch                     3.02-1.oe2403                @OS        
@@ -429,7 +429,7 @@ procps-ng.x86_64                            4.0.4-6.oe2403               @update
 publicsuffix-list.noarch                    20240108-1.oe2403            @System    
 python-pip-wheel.noarch                     23.3.1-2.oe2403              @update    
 python-setuptools.noarch                    68.0.0-2.oe2403              @update    
-python3.x86_64                              3.11.6-7.oe2403              @update    
+python3.x86_64                              3.11.6-6.oe2403              @update    
 python3-chardet.noarch                      5.2.0-1.oe2403               @OS        
 python3-charset-normalizer.noarch           3.3.2-1.oe2403               @OS        
 python3-dateutil.noarch                     1:2.8.2-3.oe2403             @OS        
