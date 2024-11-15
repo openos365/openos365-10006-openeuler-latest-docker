@@ -50,7 +50,7 @@ crypto-policies.noarch                                  20230614-2.git5f3458e.oe
 cryptsetup.x86_64                                       2.6.1-1.oe2403                                    @OS          
 ctags.x86_64                                            5.8-29.oe2403                                     @OS          
 cups-libs.x86_64                                        1:2.4.7-6.oe2403                                  @update      
-curl.x86_64                                             8.4.0-5.oe2403                                    @update      
+curl.x86_64                                             8.4.0-11.oe2403                                   @update      
 cyrus-sasl-lib.x86_64                                   2.1.28-2.oe2403                                   @System      
 dbus.x86_64                                             1:1.14.8-2.oe2403                                 @OS          
 dbus-common.noarch                                      1:1.14.8-2.oe2403                                 @OS          
@@ -115,7 +115,7 @@ gettext-devel.x86_64                                    0.22-2.oe2403           
 ghostscript.x86_64                                      9.56.1-12.oe2403                                  @update      
 git.x86_64                                              2.43.0-4.oe2403                                   @OS          
 git-core.x86_64                                         2.43.0-4.oe2403                                   @OS          
-glib2.x86_64                                            2.78.3-2.oe2403                                   @update      
+glib2.x86_64                                            2.78.3-6.oe2403                                   @update      
 glibc.x86_64                                            2.38-29.oe2403                                    @System      
 glibc-common.x86_64                                     2.38-29.oe2403                                    @System      
 glibc-devel.x86_64                                      2.38-29.oe2403                                    @OS          
@@ -169,7 +169,7 @@ kiwi-tools.x86_64                                       9.25.1-3.oe2403         
 kmod.x86_64                                             30-4.oe2403                                       @OS          
 kmod-libs.x86_64                                        30-4.oe2403                                       @OS          
 kpartx.x86_64                                           0.9.5-1.oe2403                                    @OS          
-krb5-libs.x86_64                                        1.21.2-7.oe2403                                   @update      
+krb5-libs.x86_64                                        1.21.2-11.oe2403                                  @update      
 lcms2.x86_64                                            2.16-1.oe2403                                     @OS          
 less.x86_64                                             633-4.oe2403                                      @OS          
 libICE.x86_64                                           1.1.1-1.oe2403                                    @OS          
@@ -201,7 +201,7 @@ libblkid.x86_64                                         2.39.1-7.oe2403         
 libcap.x86_64                                           2.69-3.oe2403                                     @System      
 libcap-ng.x86_64                                        0.8.3-2.oe2403                                    @System      
 libcomps.x86_64                                         0.1.19-1.oe2403                                   @System      
-libcurl.x86_64                                          8.4.0-5.oe2403                                    @update      
+libcurl.x86_64                                          8.4.0-11.oe2403                                   @update      
 libdatrie.x86_64                                        0.2.13-2.oe2403                                   @OS          
 libdmx.x86_64                                           1.1.5-1.oe2403                                    @OS          
 libdnf.x86_64                                           0.70.2-4.oe2403                                   @update      
@@ -314,8 +314,8 @@ openldap.x86_64                                         2.6.5-4.oe2403          
 openssh.x86_64                                          9.3p2-4.oe2403                                    @update      
 openssh-clients.x86_64                                  9.3p2-4.oe2403                                    @update      
 openssh-server.x86_64                                   9.3p2-4.oe2403                                    @update      
-openssl.x86_64                                          1:3.0.12-11.oe2403                                @update      
-openssl-libs.x86_64                                     1:3.0.12-11.oe2403                                @update      
+openssl.x86_64                                          1:3.0.12-12.oe2403                                @update      
+openssl-libs.x86_64                                     1:3.0.12-12.oe2403                                @update      
 os-prober.x86_64                                        1.81-1.oe2403                                     @OS          
 p11-kit.x86_64                                          0.25.0-2.oe2403                                   @System      
 p11-kit-trust.x86_64                                    0.25.0-2.oe2403                                   @System      
@@ -3226,7 +3226,7 @@ cups-pk-helper.x86_64                                   0.2.7-1.oe2403          
 cups-pk-helper-debuginfo.x86_64                         0.2.7-1.oe2403                                    debuginfo    
 cups-pk-helper-debugsource.x86_64                       0.2.7-1.oe2403                                    debuginfo    
 cups-printerapp.x86_64                                  1:2.4.7-6.oe2403                                  update       
-curl.src                                                8.4.0-5.oe2403                                    update-source
+curl.src                                                8.4.0-11.oe2403                                   update-source
 curl-debuginfo.x86_64                                   8.4.0-5.oe2403                                    update       
 curl-debugsource.x86_64                                 8.4.0-5.oe2403                                    update       
 curl-help.noarch                                        8.4.0-5.oe2403                                    update       
@@ -3545,9 +3545,9 @@ devmaster.x86_64                                        1.1.0-1.oe2403          
 devmaster-debuginfo.x86_64                              1.1.0-1.oe2403                                    debuginfo    
 dh-autoreconf.noarch                                    20-1.oe2403                                       everything   
 dh-autoreconf.src                                       20-1.oe2403                                       source       
-dhcp.src                                                12:4.4.3-7.oe2403                                 source       
 dhcp.x86_64                                             12:4.4.3-7.oe2403                                 OS           
 dhcp.x86_64                                             12:4.4.3-7.oe2403                                 everything   
+dhcp.src                                                12:4.4.3-9.oe2403                                 update-source
 dhcp-debuginfo.x86_64                                   12:4.4.3-7.oe2403                                 debuginfo    
 dhcp-debugsource.x86_64                                 12:4.4.3-7.oe2403                                 debuginfo    
 dhcp-devel.x86_64                                       12:4.4.3-7.oe2403                                 everything   
@@ -5151,7 +5151,7 @@ gfs2-utils.x86_64                                       3.5.1-1.oe2403          
 gfs2-utils-debuginfo.x86_64                             3.5.1-1.oe2403                                    debuginfo    
 gfs2-utils-debugsource.x86_64                           3.5.1-1.oe2403                                    debuginfo    
 gfs2-utils-help.noarch                                  3.5.1-1.oe2403                                    everything   
-ghostscript.src                                         9.56.1-12.oe2403                                  update-source
+ghostscript.src                                         9.56.1-13.oe2403                                  update-source
 ghostscript-debuginfo.x86_64                            9.56.1-12.oe2403                                  update       
 ghostscript-debugsource.x86_64                          9.56.1-12.oe2403                                  update       
 ghostscript-devel.x86_64                                9.56.1-12.oe2403                                  update       
@@ -5325,7 +5325,7 @@ glib-networking.x86_64                                  2.78.0-1.oe2403         
 glib-networking-debuginfo.x86_64                        2.78.0-1.oe2403                                   debuginfo    
 glib-networking-debugsource.x86_64                      2.78.0-1.oe2403                                   debuginfo    
 glib-networking-tests.x86_64                            2.78.0-1.oe2403                                   everything   
-glib2.src                                               2.78.3-2.oe2403                                   update-source
+glib2.src                                               2.78.3-6.oe2403                                   update-source
 glib2-debuginfo.x86_64                                  2.78.3-2.oe2403                                   update       
 glib2-debugsource.x86_64                                2.78.3-2.oe2403                                   update       
 glib2-devel.x86_64                                      2.78.3-2.oe2403                                   update       
@@ -5657,8 +5657,8 @@ goffice.x86_64                                          0.10.55-1.oe2403        
 goffice-debuginfo.x86_64                                0.10.55-1.oe2403                                  EPOL         
 goffice-debugsource.x86_64                              0.10.55-1.oe2403                                  EPOL         
 goffice-devel.x86_64                                    0.10.55-1.oe2403                                  EPOL         
-golang.src                                              1.21.4-17.oe2403                                  update-source
 golang.x86_64                                           1.21.4-17.oe2403                                  update       
+golang.src                                              1.21.4-25.oe2403                                  update-source
 golang-devel.noarch                                     1.21.4-17.oe2403                                  update       
 golang-help.noarch                                      1.21.4-17.oe2403                                  update       
 gom.src                                                 0.4-1.oe2403                                      source       
@@ -7630,8 +7630,8 @@ jasypt.src                                              1.9.3-1.oe2403          
 jasypt-javadoc.noarch                                   1.9.3-1.oe2403                                    everything   
 jatl.noarch                                             0.2.2-15.oe2403                                   everything   
 jatl.src                                                0.2.2-15.oe2403                                   source       
-java-1.8.0-openjdk.src                                  1:1.8.0.422.b05-1.oe2403                          update-source
 java-1.8.0-openjdk.x86_64                               1:1.8.0.422.b05-1.oe2403                          update       
+java-1.8.0-openjdk.src                                  1:1.8.0.432.b06-0.oe2403                          update-source
 java-1.8.0-openjdk-accessibility.x86_64                 1:1.8.0.422.b05-1.oe2403                          update       
 java-1.8.0-openjdk-accessibility-slowdebug.x86_64       1:1.8.0.422.b05-1.oe2403                          update       
 java-1.8.0-openjdk-debuginfo.x86_64                     1:1.8.0.422.b05-1.oe2403                          update       
@@ -8454,8 +8454,8 @@ keepalived.x86_64                                       2.2.8-1.oe2403          
 keepalived-debuginfo.x86_64                             2.2.8-1.oe2403                                    debuginfo    
 keepalived-debugsource.x86_64                           2.2.8-1.oe2403                                    debuginfo    
 keepalived-help.noarch                                  2.2.8-1.oe2403                                    everything   
-kernel.src                                              6.6.0-50.0.0.55.oe2403                            update-source
 kernel.x86_64                                           6.6.0-50.0.0.55.oe2403                            update       
+kernel.src                                              6.6.0-54.0.0.57.oe2403                            update-source
 kernel-debuginfo.x86_64                                 6.6.0-50.0.0.55.oe2403                            update       
 kernel-debugsource.x86_64                               6.6.0-50.0.0.55.oe2403                            update       
 kernel-devel.x86_64                                     6.6.0-50.0.0.55.oe2403                            update       
@@ -9081,8 +9081,8 @@ kpeoplevcard.x86_64                                     0.1-1.oe2403            
 kpeoplevcard-debuginfo.x86_64                           0.1-1.oe2403                                      EPOL         
 kpeoplevcard-debugsource.x86_64                         0.1-1.oe2403                                      EPOL         
 kpeoplevcard-devel.x86_64                               0.1-1.oe2403                                      EPOL         
-krb5.src                                                1.21.2-7.oe2403                                   update-source
 krb5.x86_64                                             1.21.2-7.oe2403                                   update       
+krb5.src                                                1.21.2-11.oe2403                                  update-source
 krb5-client.x86_64                                      1.21.2-7.oe2403                                   update       
 krb5-debuginfo.x86_64                                   1.21.2-7.oe2403                                   update       
 krb5-debugsource.x86_64                                 1.21.2-7.oe2403                                   update       
@@ -13891,14 +13891,14 @@ nettle-devel.x86_64                                     3.8.1-1.oe2403          
 nettle-devel.x86_64                                     3.8.1-1.oe2403                                    everything   
 nettle-help.noarch                                      3.8.1-1.oe2403                                    OS           
 nettle-help.noarch                                      3.8.1-1.oe2403                                    everything   
-netty.src                                               4.1.13-21.oe2403                                  source       
 netty.x86_64                                            4.1.13-21.oe2403                                  everything   
+netty.src                                               4.1.13-22.oe2403                                  update-source
 netty-help.noarch                                       4.1.13-21.oe2403                                  everything   
 netty-tcnative.src                                      1.1.33-1.oe2403                                   source       
 netty-tcnative.x86_64                                   1.1.33-1.oe2403                                   everything   
 netty-tcnative-javadoc.noarch                           1.1.33-1.oe2403                                   everything   
 netty3.noarch                                           3.10.6-8.oe2403                                   update       
-netty3.src                                              3.10.6-8.oe2403                                   update-source
+netty3.src                                              3.10.6-9.oe2403                                   update-source
 network-manager-applet.src                              1.36.0-1.oe2403                                   source       
 network-manager-applet.x86_64                           1.36.0-1.oe2403                                   everything   
 network-manager-applet-debuginfo.x86_64                 1.36.0-1.oe2403                                   debuginfo    
@@ -15506,7 +15506,7 @@ openssh-debuginfo.x86_64                                9.3p2-4.oe2403          
 openssh-debugsource.x86_64                              9.3p2-4.oe2403                                    update       
 openssh-help.noarch                                     9.3p2-4.oe2403                                    update       
 openssh-keycat.x86_64                                   9.3p2-4.oe2403                                    update       
-openssl.src                                             1:3.0.12-11.oe2403                                update-source
+openssl.src                                             1:3.0.12-12.oe2403                                update-source
 openssl-debuginfo.x86_64                                1:3.0.12-11.oe2403                                update       
 openssl-debugsource.x86_64                              1:3.0.12-11.oe2403                                update       
 openssl-devel.x86_64                                    1:3.0.12-11.oe2403                                update       
@@ -21548,8 +21548,8 @@ qcoro-qt6-devel.x86_64                                  0.10.0-1.oe2403         
 qdox.noarch                                             2.0.3-1.oe2403                                    everything   
 qdox.src                                                2.0.3-1.oe2403                                    source       
 qdox-help.noarch                                        2.0.3-1.oe2403                                    everything   
-qemu.src                                                11:8.2.0-19.oe2403                                update-source
 qemu.x86_64                                             11:8.2.0-19.oe2403                                update       
+qemu.src                                                11:8.2.0-21.oe2403                                update-source
 qemu-block-curl.x86_64                                  11:8.2.0-19.oe2403                                update       
 qemu-block-iscsi.x86_64                                 11:8.2.0-19.oe2403                                update       
 qemu-block-rbd.x86_64                                   11:8.2.0-19.oe2403                                update       
@@ -22593,10 +22593,10 @@ rubygem-actionmailbox.noarch                            7.0.7-1.oe2403          
 rubygem-actionmailbox.src                               7.0.7-1.oe2403                                    source       
 rubygem-actionmailbox-doc.noarch                        7.0.7-1.oe2403                                    everything   
 rubygem-actionmailer.noarch                             1:7.0.7-1.oe2403                                  everything   
-rubygem-actionmailer.src                                1:7.0.7-1.oe2403                                  source       
+rubygem-actionmailer.src                                1:7.0.7-2.oe2403                                  update-source
 rubygem-actionmailer-doc.noarch                         1:7.0.7-1.oe2403                                  everything   
 rubygem-actionpack.noarch                               1:7.0.7-3.oe2403                                  update       
-rubygem-actionpack.src                                  1:7.0.7-3.oe2403                                  update-source
+rubygem-actionpack.src                                  1:7.0.7-5.oe2403                                  update-source
 rubygem-actionpack-doc.noarch                           1:7.0.7-3.oe2403                                  update       
 rubygem-actiontext.noarch                               7.0.7-1.oe2403                                    everything   
 rubygem-actiontext.src                                  7.0.7-1.oe2403                                    source       
@@ -23517,7 +23517,7 @@ sblim-sfcc-debugsource.x86_64                           2.2.8-12.oe2403         
 sblim-sfcc-devel.x86_64                                 2.2.8-12.oe2403                                   everything   
 sblim-sfcc-help.noarch                                  2.2.8-12.oe2403                                   everything   
 sbt.noarch                                              0.13.1-5.oe2403                                   everything   
-sbt.src                                                 0.13.1-5.oe2403                                   source       
+sbt.src                                                 0.13.1-6.oe2403                                   update-source
 scala.noarch                                            2.10.6-15.oe2403                                  everything   
 scala.src                                               2.10.6-15.oe2403                                  source       
 scap-security-guide.noarch                              0.1.68-4.oe2403                                   OS           
@@ -32353,7 +32353,7 @@ woff2-debuginfo.x86_64                                  1.0.2-6.oe2403          
 woff2-debugsource.x86_64                                1.0.2-6.oe2403                                    debuginfo    
 woff2-devel.x86_64                                      1.0.2-6.oe2403                                    everything   
 woodstox-core.noarch                                    6.2.8-1.oe2403                                    everything   
-woodstox-core.src                                       6.2.8-1.oe2403                                    source       
+woodstox-core.src                                       6.2.8-2.oe2403                                    update-source
 woodstox-core-javadoc.noarch                            6.2.8-1.oe2403                                    everything   
 words.noarch                                            3.0-34.oe2403                                     OS           
 words.noarch                                            3.0-34.oe2403                                     everything   
@@ -33021,7 +33021,7 @@ xsom.src                                                0-1.oe2403              
 xsom-javadoc.noarch                                     0-1.oe2403                                        everything   
 xstatic-patternfly-bootstrap-treeview-common.noarch     2.1.3.2-1.oe2403                                  EPOL         
 xstream.noarch                                          1.4.20-1.oe2403                                   everything   
-xstream.src                                             1.4.20-1.oe2403                                   source       
+xstream.src                                             1.4.20-2.oe2403                                   update-source
 xstream-benchmark.noarch                                1.4.20-1.oe2403                                   everything   
 xstream-hibernate.noarch                                1.4.20-1.oe2403                                   everything   
 xstream-javadoc.noarch                                  1.4.20-1.oe2403                                   everything   
