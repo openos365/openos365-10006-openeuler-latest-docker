@@ -159,7 +159,7 @@ json-glib.x86_64                            1.8.0-1.oe2403               @OS
 kbd.x86_64                                  2.6.1-2.oe2403               @update    
 kbd-legacy.noarch                           2.6.1-2.oe2403               @update    
 kbd-misc.noarch                             2.6.1-2.oe2403               @update    
-kernel-headers.x86_64                       6.6.0-55.0.0.58.oe2403       @update    
+kernel-headers.x86_64                       6.6.0-57.0.0.59.oe2403       @update    
 keyutils-libs.x86_64                        1.6.3-5.oe2403               @System    
 kiwi-cli.noarch                             9.25.1-3.oe2403              @everything
 kiwi-systemdeps.x86_64                      9.25.1-3.oe2403              @everything
@@ -429,7 +429,7 @@ procps-ng.x86_64                            4.0.4-6.oe2403               @update
 publicsuffix-list.noarch                    20240108-1.oe2403            @System    
 python-pip-wheel.noarch                     23.3.1-2.oe2403              @update    
 python-setuptools.noarch                    68.0.0-2.oe2403              @update    
-python3.x86_64                              3.11.6-7.oe2403              @update    
+python3.x86_64                              3.11.6-8.oe2403              @update    
 python3-chardet.noarch                      5.2.0-1.oe2403               @OS        
 python3-charset-normalizer.noarch           3.3.2-1.oe2403               @OS        
 python3-dateutil.noarch                     1:2.8.2-3.oe2403             @OS        
