@@ -307,7 +307,7 @@ openEuler-logos-httpd.noarch                1.0-9.oe2403                 @OS
 openEuler-release.x86_64                    24.03LTS-55.oe2403           @System    
 openEuler-repos.x86_64                      1.0-4.1.oe2403               @update    
 openEuler-rpm-config.x86_64                 30-57.oe2403                 @update    
-openjpeg2.x86_64                            2.5.0-4.oe2403               @update    
+openjpeg2.x86_64                            2.5.0-5.oe2403               @update    
 openldap.x86_64                             2.6.5-4.oe2403               @System    
 openssh.x86_64                              9.3p2-4.oe2403               @update    
 openssh-clients.x86_64                      9.3p2-4.oe2403               @update    
