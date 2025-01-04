@@ -137,7 +137,7 @@ gtk2.x86_64                                 2.24.33-10.oe2403            @update
 gtk3.x86_64                                 3.24.41-2.oe2403             @update    
 guile.x86_64                                5:2.2.7-6.oe2403             @update    
 gzip.x86_64                                 1.12-4.oe2403                @System    
-harfbuzz.x86_64                             8.3.0-1.oe2403               @OS        
+harfbuzz.x86_64                             8.3.0-2.oe2403               @update    
 hicolor-icon-theme.noarch                   0.17-7.oe2403                @OS        
 httpd.x86_64                                2.4.58-7.oe2403              @update    
 httpd-filesystem.noarch                     2.4.58-7.oe2403              @update    
