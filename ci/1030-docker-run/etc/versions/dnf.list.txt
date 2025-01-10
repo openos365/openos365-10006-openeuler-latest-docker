@@ -3760,9 +3760,9 @@ dpkg-dev.noarch                                         1.21.22-1.oe2403        
 dpkg-devel.x86_64                                       1.21.22-1.oe2403                                  everything   
 dpkg-help.x86_64                                        1.21.22-1.oe2403                                  everything   
 dpkg-perl.noarch                                        1.21.22-1.oe2403                                  everything   
-dpu-utilities-debuginfo.x86_64                          1.10-7.oe2403                                     EPOL-update  
-dpu-utilities-debugsource.x86_64                        1.10-7.oe2403                                     EPOL-update  
-dpuos-imageTailor-config.x86_64                         1.10-7.oe2403                                     EPOL-update  
+dpu-utilities-debuginfo.x86_64                          1.10-6.oe2403                                     EPOL-update  
+dpu-utilities-debugsource.x86_64                        1.10-6.oe2403                                     EPOL-update  
+dpuos-imageTailor-config.x86_64                         1.10-6.oe2403                                     EPOL-update  
 dracut.src                                              059-6.oe2403                                      source       
 dracut.x86_64                                           059-6.oe2403                                      OS           
 dracut.x86_64                                           059-6.oe2403                                      everything   
@@ -22150,8 +22150,8 @@ qtav-qml-module.x86_64                                  1.13.0-2.oe2403         
 qtchooser.x86_64                                        39-19.oe2403                                      EPOL         
 qtchooser-debuginfo.x86_64                              39-19.oe2403                                      EPOL         
 qtchooser-debugsource.x86_64                            39-19.oe2403                                      EPOL         
-qtfs-client.x86_64                                      1.10-7.oe2403                                     EPOL-update  
-qtfs-server.x86_64                                      1.10-7.oe2403                                     EPOL-update  
+qtfs-client.x86_64                                      1.10-6.oe2403                                     EPOL-update  
+qtfs-server.x86_64                                      1.10-6.oe2403                                     EPOL-update  
 qtkeychain-debuginfo.x86_64                             0.14.2-1.oe2403                                   EPOL         
 qtkeychain-debugsource.x86_64                           0.14.2-1.oe2403                                   EPOL         
 qtkeychain-qt5.x86_64                                   0.14.2-1.oe2403                                   EPOL         
