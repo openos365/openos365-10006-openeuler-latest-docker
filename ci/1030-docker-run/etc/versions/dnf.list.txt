@@ -49,7 +49,7 @@ crontabs.noarch                                         1.11-23.oe2403          
 crypto-policies.noarch                                  20230614-2.git5f3458e.oe2403                      @System      
 ctags.x86_64                                            5.8-29.oe2403                                     @OS          
 cups-libs.x86_64                                        1:2.4.7-6.oe2403                                  @update      
-curl.x86_64                                             8.4.0-11.oe2403                                   @update      
+curl.x86_64                                             8.4.0-14.oe2403                                   @update      
 cyrus-sasl-lib.x86_64                                   2.1.28-2.oe2403                                   @System      
 dbus.x86_64                                             1:1.14.8-2.oe2403                                 @OS          
 dbus-common.noarch                                      1:1.14.8-2.oe2403                                 @OS          
@@ -160,7 +160,7 @@ json-glib.x86_64                                        1.8.0-1.oe2403          
 kbd.x86_64                                              2.6.1-2.oe2403                                    @update      
 kbd-legacy.noarch                                       2.6.1-2.oe2403                                    @update      
 kbd-misc.noarch                                         2.6.1-2.oe2403                                    @update      
-kernel-headers.x86_64                                   6.6.0-72.0.0.64.oe2403                            @update      
+kernel-headers.x86_64                                   6.6.0-73.0.0.65.oe2403                            @update      
 keyutils-libs.x86_64                                    1.6.3-5.oe2403                                    @System      
 kiwi-cli.noarch                                         9.25.1-3.oe2403                                   @everything  
 kiwi-systemdeps.x86_64                                  9.25.1-3.oe2403                                   @everything  
@@ -199,7 +199,7 @@ libblkid.x86_64                                         2.39.1-7.oe2403         
 libcap.x86_64                                           2.69-3.oe2403                                     @System      
 libcap-ng.x86_64                                        0.8.3-2.oe2403                                    @System      
 libcomps.x86_64                                         0.1.19-1.oe2403                                   @System      
-libcurl.x86_64                                          8.4.0-11.oe2403                                   @update      
+libcurl.x86_64                                          8.4.0-14.oe2403                                   @update      
 libdatrie.x86_64                                        0.2.13-2.oe2403                                   @OS          
 libdmx.x86_64                                           1.1.5-1.oe2403                                    @OS          
 libdnf.x86_64                                           0.70.2-6.oe2403                                   @update      
@@ -307,7 +307,7 @@ openEuler-logos-httpd.noarch                            1.0-9.oe2403            
 openEuler-release.x86_64                                24.03LTS-55.oe2403                                @System      
 openEuler-repos.x86_64                                  1.0-4.1.oe2403                                    @update      
 openEuler-rpm-config.x86_64                             30-57.oe2403                                      @update      
-openjpeg2.x86_64                                        2.5.0-5.oe2403                                    @update      
+openjpeg2.x86_64                                        2.5.0-6.oe2403                                    @update      
 openldap.x86_64                                         2.6.5-4.oe2403                                    @System      
 openssh.x86_64                                          9.3p2-4.oe2403                                    @update      
 openssh-clients.x86_64                                  9.3p2-4.oe2403                                    @update      
@@ -3224,7 +3224,6 @@ cups-pk-helper-debuginfo.x86_64                         0.2.7-1.oe2403          
 cups-pk-helper-debugsource.x86_64                       0.2.7-1.oe2403                                    debuginfo    
 cups-printerapp.x86_64                                  1:2.4.7-6.oe2403                                  update       
 curl.src                                                8.4.0-14.oe2403                                   update-source
-curl.x86_64                                             8.4.0-14.oe2403                                   update       
 curl-debuginfo.x86_64                                   8.4.0-14.oe2403                                   update       
 curl-debugsource.x86_64                                 8.4.0-14.oe2403                                   update       
 curl-help.noarch                                        8.4.0-14.oe2403                                   update       
@@ -8452,7 +8451,6 @@ kernel.x86_64                                           6.6.0-73.0.0.65.oe2403  
 kernel-debuginfo.x86_64                                 6.6.0-73.0.0.65.oe2403                            update       
 kernel-debugsource.x86_64                               6.6.0-73.0.0.65.oe2403                            update       
 kernel-devel.x86_64                                     6.6.0-73.0.0.65.oe2403                            update       
-kernel-headers.x86_64                                   6.6.0-73.0.0.65.oe2403                            update       
 kernel-rpm-macros.x86_64                                30-57.oe2403                                      update       
 kernel-rt.src                                           6.6.0-27.0.0.rt30.4.oe2403                        source       
 kernel-rt.x86_64                                        6.6.0-27.0.0.rt30.4.oe2403                        everything   
@@ -9886,7 +9884,6 @@ libcue.x86_64                                           2.3.0-1.oe2403          
 libcue-debuginfo.x86_64                                 2.3.0-1.oe2403                                    debuginfo    
 libcue-debugsource.x86_64                               2.3.0-1.oe2403                                    debuginfo    
 libcue-devel.x86_64                                     2.3.0-1.oe2403                                    everything   
-libcurl.x86_64                                          8.4.0-14.oe2403                                   update       
 libcurl-devel.x86_64                                    8.4.0-14.oe2403                                   update       
 libcutl.x86_64                                          1.10.0-18.oe2403                                  EPOL         
 libcutl-debuginfo.x86_64                                1.10.0-18.oe2403                                  EPOL         
@@ -15411,7 +15408,6 @@ openjpa.src                                             2.4.1-5.oe2403          
 openjpa-javadoc.noarch                                  2.4.1-5.oe2403                                    everything   
 openjpa-tools.noarch                                    2.4.1-5.oe2403                                    everything   
 openjpeg2.src                                           2.5.0-6.oe2403                                    update-source
-openjpeg2.x86_64                                        2.5.0-6.oe2403                                    update       
 openjpeg2-debuginfo.x86_64                              2.5.0-6.oe2403                                    update       
 openjpeg2-debugsource.x86_64                            2.5.0-6.oe2403                                    update       
 openjpeg2-devel.x86_64                                  2.5.0-6.oe2403                                    update       
