@@ -156,7 +156,7 @@ json-glib.x86_64                            1.8.0-1.oe2403               @OS
 kbd.x86_64                                  2.6.1-2.oe2403               @update    
 kbd-legacy.noarch                           2.6.1-2.oe2403               @update    
 kbd-misc.noarch                             2.6.1-2.oe2403               @update    
-kernel-headers.x86_64                       6.6.0-76.0.0.69.oe2403       @update    
+kernel-headers.x86_64                       6.6.0-77.0.0.70.oe2403       @update    
 keyutils-libs.x86_64                        1.6.3-5.oe2403               @System    
 kiwi-cli.noarch                             9.25.1-3.oe2403              @everything
 kiwi-systemdeps.x86_64                      9.25.1-3.oe2403              @everything
@@ -164,7 +164,7 @@ kiwi-tools.x86_64                           9.25.1-3.oe2403              @OS
 kmod.x86_64                                 30-4.oe2403                  @OS        
 kmod-libs.x86_64                            30-4.oe2403                  @OS        
 kpartx.x86_64                               0.9.5-1.oe2403               @OS        
-krb5-libs.x86_64                            1.21.2-11.oe2403             @update    
+krb5-libs.x86_64                            1.21.2-14.oe2403             @update    
 lcms2.x86_64                                2.16-1.oe2403                @OS        
 less.x86_64                                 633-4.oe2403                 @OS        
 libICE.x86_64                               1.1.1-1.oe2403               @OS        
@@ -248,7 +248,7 @@ libsolv.x86_64                              0.7.24-1.oe2403              @System
 libssh.x86_64                               0.10.5-2.oe2403              @System    
 libstdc++.x86_64                            12.3.1-38.oe2403             @update    
 libstdc++-devel.x86_64                      12.3.1-38.oe2403             @update    
-libtasn1.x86_64                             4.19.0-1.oe2403              @System    
+libtasn1.x86_64                             4.19.0-2.oe2403              @update    
 libthai.x86_64                              0.1.29-2.oe2403              @update    
 libtiff.x86_64                              4.6.0-3.oe2403               @update    
 libtirpc.x86_64                             1.3.4-4.oe2403               @update    
@@ -507,10 +507,10 @@ utf8proc.x86_64                             2.9.0-1.oe2403               @OS
 util-linux.x86_64                           2.39.1-7.oe2403              @OS        
 valgrind.x86_64                             1:3.22.0-3.oe2403            @update    
 valgrind-devel.x86_64                       1:3.22.0-3.oe2403            @update    
-vim-common.x86_64                           2:9.0.2092-12.oe2403         @update    
-vim-enhanced.x86_64                         2:9.0.2092-12.oe2403         @update    
-vim-filesystem.noarch                       2:9.0.2092-12.oe2403         @update    
-vim-minimal.x86_64                          2:9.0.2092-12.oe2403         @update    
+vim-common.x86_64                           2:9.0.2092-16.oe2403         @update    
+vim-enhanced.x86_64                         2:9.0.2092-16.oe2403         @update    
+vim-filesystem.noarch                       2:9.0.2092-16.oe2403         @update    
+vim-minimal.x86_64                          2:9.0.2092-16.oe2403         @update    
 wayland.x86_64                              1.22.0-1.oe2403              @OS        
 wget.x86_64                                 1.21.4-3.oe2403              @update    
 which.x86_64                                2.21-16.oe2403               @System    
